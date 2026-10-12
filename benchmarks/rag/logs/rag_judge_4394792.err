@@ -1,0 +1,24 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"tools/git/v2.33"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "tools/git/v2.33"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: Unable to find: "tools/git/v2.33".
+
+
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:   1%|          | 2/291 [00:00<00:24, 12.01it/s]Loading weights:   2%|▏         | 6/291 [00:00<00:13, 21.86it/s]Loading weights:   4%|▍         | 13/291 [00:00<00:08, 31.67it/s]Loading weights:   8%|▊         | 23/291 [00:00<00:06, 40.72it/s]Loading weights:  11%|█▏        | 33/291 [00:00<00:05, 50.36it/s]Loading weights:  14%|█▍        | 41/291 [00:00<00:05, 49.71it/s]Loading weights:  17%|█▋        | 50/291 [00:01<00:04, 56.16it/s]Loading weights:  20%|█▉        | 58/291 [00:01<00:04, 48.96it/s]Loading weights:  23%|██▎       | 68/291 [00:01<00:04, 50.74it/s]Loading weights:  26%|██▋       | 77/291 [00:01<00:03, 58.67it/s]Loading weights:  29%|██▉       | 85/291 [00:01<00:05, 39.93it/s]Loading weights:  36%|███▌      | 104/291 [00:02<00:03, 61.45it/s]Loading weights:  38%|███▊      | 112/291 [00:02<00:02, 62.41it/s]Loading weights:  41%|████      | 120/291 [00:02<00:03, 50.20it/s]Loading weights:  45%|████▌     | 131/291 [00:02<00:02, 58.80it/s]Loading weights:  48%|████▊     | 139/291 [00:02<00:02, 60.38it/s]Loading weights:  50%|█████     | 146/291 [00:02<00:02, 59.74it/s]Loading weights:  53%|█████▎    | 153/291 [00:02<00:02, 54.52it/s]Loading weights:  55%|█████▍    | 159/291 [00:03<00:02, 49.88it/s]Loading weights:  57%|█████▋    | 167/291 [00:03<00:02, 55.85it/s]Loading weights:  59%|█████▉    | 173/291 [00:03<00:02, 48.10it/s]Loading weights:  63%|██████▎   | 184/291 [00:03<00:01, 59.01it/s]Loading weights:  66%|██████▌   | 191/291 [00:03<00:01, 60.26it/s]Loading weights:  68%|██████▊   | 198/291 [00:03<00:01, 56.03it/s]Loading weights:  70%|███████   | 204/291 [00:04<00:02, 37.97it/s]Loading weights:  76%|███████▌  | 220/291 [00:04<00:01, 45.28it/s]Loading weights:  80%|████████  | 233/291 [00:04<00:01, 40.33it/s]Loading weights:  88%|████████▊ | 257/291 [00:04<00:00, 66.64it/s]Loading weights:  92%|█████████▏| 267/291 [00:05<00:00, 49.50it/s]Loading weights:  98%|█████████▊| 284/291 [00:05<00:00, 65.62it/s]Loading weights: 100%|██████████| 291/291 [00:05<00:00, 53.43it/s]
+Wrote dureader_longbench:40:Blend (24%) layer 1
+Wrote dureader_longbench:15:05 no recompute
+Wrote dureader_longbench:45:05 no recompute
+Wrote dureader_longbench:33:05 separator + margin 4
+Wrote multifieldqa_zh_longbench:29:Blend (16%) weighted 30-30
+Wrote multifieldqa_zh_longbench:30:06 rank adaptive K0-05 V0-20
+Wrote 6 rows to /home/a.tomat/work/LMCache/benchmarks/rag/results_eval/outputs/qwen3_chinese/judge_outputs_qwen3_chinese_long_retry.jsonl

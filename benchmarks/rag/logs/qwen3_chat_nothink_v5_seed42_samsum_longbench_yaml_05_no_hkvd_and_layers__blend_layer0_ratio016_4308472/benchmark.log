@@ -1,0 +1,16 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 48 for model Qwen/Qwen3-32B
+[1m[2026-09-08 04:24:20,498] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 04:24:20,498] INFO:[0m Generation stop sequences: ['# #', 'Dialogue:'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 04:24:20,499] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 04:27:30,539] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 04:27:30,577] INFO:[0m Waiting for 3 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 04:27:34,891] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 04:27:34,891] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_samsum_longbench_yaml_05_no_hkvd_and_layers__blend_layer0_ratio016_4308472/qwen3_chat_nothink_v5_seed42_samsum_longbench_yaml_05_no_hkvd_and_layers__blend_layer0_ratio016_4308472.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 04:27:34,969] INFO:[0m Summary: 48 requests, average_ttft=1.532715489466985 (second)
+ average_tpot=0.022287620461462224 (second)
+throughput=0.24885590753190068 (req/s)
+average_quality=0.321827551720497
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 04:27:34,990] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_samsum_longbench_yaml_05_no_hkvd_and_layers__blend_layer0_ratio016_4308472/qwen3_chat_nothink_v5_seed42_samsum_longbench_yaml_05_no_hkvd_and_layers__blend_layer0_ratio016_4308472.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json

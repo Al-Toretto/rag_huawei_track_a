@@ -1,0 +1,4 @@
+Submitted Chinese judge job: 4386834
+Input: /home/a.tomat/work/LMCache/benchmarks/rag/results_eval/outputs/qwen3_chinese/judge_input_qwen3_chinese.jsonl
+Resume output: /home/a.tomat/work/LMCache/benchmarks/rag/results_eval/outputs/qwen3_chinese/judge_outputs_qwen3_chinese.jsonl
+Judge model: /home/a.tomat/.cache/huggingface/hub/models--prometheus-eval--prometheus-7b-v2.0/snapshots/66ffb1fc20beebfb60a3964a957d9011723116c5

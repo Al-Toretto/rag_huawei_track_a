@@ -1,0 +1,42 @@
+run_name=qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279
+node=cn-051
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_05_no_hkvd_and_layers/blend_layer3_ratio016.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57279
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37279/health ...
+Server is ready after 230s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-25 23:26:16,835] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-25 23:29:34,877] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-25 23:29:34,895] INFO:[0m Waiting for 35 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-25 23:32:40,716] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-25 23:32:40,716] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-25 23:32:42,131] INFO:[0m Summary: 50 requests, average_ttft=63.548194460868835 (second)
+ average_tpot=0.05873264647743616 (second)
+throughput=0.13074943583011128 (req/s)
+average_quality=0.4996666666666667
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-25 23:32:42,131] INFO:[0m QA metrics: average_f1_word=0.4996666666666667
+average_f1_tokenizer=0.5257955377955378
+average_precision=0.5316666666666666
+average_recall=0.5033333333333334
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-25 23:32:42,766] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4277279/benchmark.log

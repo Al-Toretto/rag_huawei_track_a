@@ -1,0 +1,17 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message,temperature,top_p,top_k,min_p,generation_seed
+0,0.0,0.0,0.0,0.0,0.0,English,['England'],2.50761079788208,0.01135551929473877,0.04542207717895508,17073,4,True,,0.6,0.95,20,0.0,42
+1,0.0,0.0,0.0,0.0,0.0,"Henry II, Duke of Bavaria
+Passage 10:
+Henry II, Duke of Bavaria
+Henry II, called the Wrangler (German:",['Géza'],2.5183002948760986,0.021292373538017273,0.6813559532165527,17125,32,True,,0.6,0.95,20,0.0,42
+2,0.6666666666666666,1.0,0.5,0.6666666666666666,0.7272727272727273,Goring-on-Thames.,"['Goring-on-Thames, Oxfordshire']",2.540907382965088,0.013127803802490234,0.09189462661743164,17145,7,True,,0.6,0.95,20,0.0,42
+3,0.0,0.0,0.0,0.0,0.0,Fay Wray,['Ona Munson'],2.4257564544677734,0.011401494344075521,0.06840896606445312,16452,6,True,,0.6,0.95,20,0.0,42
+4,1.0,1.0,1.0,1.0,1.0,Vienna,['Vienna'],2.4674177169799805,0.01185673475265503,0.04742693901062012,16811,4,True,,0.6,0.95,20,0.0,42
+5,1.0,1.0,1.0,1.0,1.0,"Yes.
+Answer: Yes. The Hatton Garden Job and Carry On Cleo are both British films. The Hatton Garden Job is a 201",['yes'],2.443763017654419,0.020594939589500427,0.6590380668640137,16546,32,True,,0.6,0.95,20,0.0,42
+6,0.0,0.0,0.0,0.0,0.6666666666666666,22 October 1893,['27 June 1839'],2.3238229751586914,0.015107393264770508,0.1812887191772461,16058,12,True,,0.6,0.95,20,0.0,42
+7,0.0,0.0,0.0,0.0,0.0,"Westminster Abbey.
+
+Mary Of Woodstock's mother was Eleanor of Castile. Eleanor of Castile died in 1290 and was buried in Westminster Abbey",['Harby'],2.033459424972534,0.021883495151996613,0.7002718448638916,14828,32,True,,0.6,0.95,20,0.0,42
+8,0.0,0.0,0.0,0.0,0.0,No.,['yes'],2.2025744915008545,0.0057711005210876465,0.023084402084350586,15531,4,True,,0.6,0.95,20,0.0,42
+9,0.0,0.0,0.0,0.0,0.0,Sharon Stone,['Sandra Nelson'],2.1449804306030273,0.013784122467041016,0.06892061233520508,15298,5,True,,0.6,0.95,20,0.0,42

@@ -1,0 +1,7 @@
+repo_dir=/home/a.tomat/work/LMCache
+run_prefix=qwen3_prompt_only_v1
+smoke_end_index=5
+dry_run=0
+SUBMITTED	dataset=2wikimqa_longbench	job_id=4299130	experiment=qwen3_prompt_only_v1_2wikimqa_longbench_full_recompute
+SUBMITTED	dataset=musique_longbench	job_id=4299131	experiment=qwen3_prompt_only_v1_musique_longbench_full_recompute
+SUBMITTED	dataset=samsum_longbench	job_id=4299132	experiment=qwen3_prompt_only_v1_samsum_longbench_full_recompute

@@ -1,0 +1,25 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 19:11:03,288] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 19:11:03,288] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 19:11:03,289] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 19:14:20,384] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 19:14:20,389] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 19:14:20,889] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 19:14:20,890] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4380336/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4380336.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380336/jieba.cache
+Loading model cost 0.339 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 19:14:21,251] INFO:[0m Summary: 50 requests, average_ttft=0.7050620412826538 (second)
+ average_tpot=0.00983842871531312 (second)
+throughput=0.25416833243733267 (req/s)
+average_quality=0.5733791624246708
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 19:14:21,252] INFO:[0m QA metrics: average_f1_word=0.5733791624246708
+average_f1_tokenizer=0.6046065281571917
+average_precision=0.5506770574835792
+average_recall=0.7645226827858407
+ [3m(rag.py:648:__main__)[0m
+[32;20m[2026-10-06 19:14:21,261] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4380336/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4380336.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json

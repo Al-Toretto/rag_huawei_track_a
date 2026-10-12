@@ -1,0 +1,21 @@
+[1m[2026-09-03 20:41:07,624] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:41:07,625] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:202:__main__)[0m
+[32;20m[2026-09-03 20:41:07,625] INFO:[0m Warming up the engine [3m(rag.py:312:__main__)[0m
+[32;20m[2026-09-03 20:41:08,006] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:41:10,328] INFO:[0m Warm up finished. [3m(rag.py:318:__main__)[0m
+[32;20m[2026-09-03 20:41:47,080] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:41:47,131] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-03 20:41:49,760] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:41:49,760] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_musique_longbench_full_recompute_4301894/qwen3_cachefix_caps_v3_diag10_musique_longbench_full_recompute_4301894.csv [3m(rag.py:582:__main__)[0m
+[32;20m[2026-09-03 20:41:49,763] INFO:[0m Summary: 10 requests, average_ttft=2.5234986782073974 (second)
+ average_tpot=0.012518102925191888 (second)
+throughput=0.25765918898759177 (req/s)
+average_quality=0.3
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-09-03 20:41:49,763] INFO:[0m QA metrics: average_f1_word=0.3
+average_f1_tokenizer=0.3381818181818182
+average_precision=0.3
+average_recall=0.3
+ [3m(rag.py:501:__main__)[0m
+[32;20m[2026-09-03 20:41:49,808] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_musique_longbench_full_recompute_4301894/qwen3_cachefix_caps_v3_diag10_musique_longbench_full_recompute_4301894.debug.csv [3m(rag.py:586:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

@@ -1,0 +1,17 @@
+[1m[2026-09-04 12:43:41,035] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:43:41,035] INFO:[0m Generation stop sequences: ['# #', 'Dialogue:'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:43:41,036] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:43:41,036] INFO:[0m Warming up the engine [3m(rag.py:421:__main__)[0m
+[32;20m[2026-09-04 12:43:41,460] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:43:43,890] INFO:[0m Warm up finished. [3m(rag.py:427:__main__)[0m
+[32;20m[2026-09-04 12:44:20,643] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:44:20,693] INFO:[0m Waiting for 2 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:44:25,757] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:44:25,757] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_full_recompute_4303071/qwen3_sampling_v4_seed42_diag10_samsum_longbench_full_recompute_4303071.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:44:25,767] INFO:[0m Summary: 10 requests, average_ttft=2.585214924812317 (second)
+ average_tpot=0.03398796274921736 (second)
+throughput=0.24234642376802124 (req/s)
+average_quality=0.33304609313475997
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:44:25,837] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_full_recompute_4303071/qwen3_sampling_v4_seed42_diag10_samsum_longbench_full_recompute_4303071.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json

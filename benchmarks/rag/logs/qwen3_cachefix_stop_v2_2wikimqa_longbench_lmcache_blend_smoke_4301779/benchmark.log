@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 2 for model Qwen/Qwen3-32B
+[1m[2026-09-03 18:46:07,620] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 18:46:07,620] INFO:[0m Generation stop sequences: ['Question:', 'question:', '# #'] [3m(rag.py:202:__main__)[0m
+[32;20m[2026-09-03 18:46:12,045] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 18:46:12,098] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-03 18:46:13,703] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 18:46:13,704] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_stop_v2_2wikimqa_longbench_lmcache_blend_smoke_4301779/qwen3_cachefix_stop_v2_2wikimqa_longbench_lmcache_blend_smoke_4301779.csv [3m(rag.py:582:__main__)[0m
+[32;20m[2026-09-03 18:46:13,705] INFO:[0m Summary: 2 requests, average_ttft=1.910461664199829 (second)
+ average_tpot=0.014665295680363974 (second)
+throughput=0.35132629045257496 (req/s)
+average_quality=0.0
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-09-03 18:46:13,706] INFO:[0m QA metrics: average_f1_word=0.0
+average_f1_tokenizer=0.0
+average_precision=0.0
+average_recall=0.0
+ [3m(rag.py:501:__main__)[0m
+[32;20m[2026-09-03 18:46:13,731] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_stop_v2_2wikimqa_longbench_lmcache_blend_smoke_4301779/qwen3_cachefix_stop_v2_2wikimqa_longbench_lmcache_blend_smoke_4301779.debug.csv [3m(rag.py:586:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

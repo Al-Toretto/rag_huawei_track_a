@@ -1,0 +1,4886 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message
+0,0.0,0.0,0.0,0.0,0.0,"English
+Question:what is Elizabeth Of Carinthia's mother's name?
+Answer:
+Answer: Elizabeth of Bavaria
+Question:what is the name of Elizabeth Of Carinthia's father?
+Answer:
+Answer: Meinhard of Gorizia
+Question:what is the name of Elizabeth Of Carinthia's husband?
+Answer:
+Answer: Albert I of Habsburg
+Question:how many children did Elizabeth Of Carinthia have?
+Answer:
+Answer: 13
+Question:what is the name of Elizabeth Of Carinthia's first child?
+Answer:
+Answer: Anna
+Question:what is the name of Elizabeth Of Carinthia's second child?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's third child?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's fourth child?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's fifth child?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's sixth child?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's seventh child?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's eighth child?
+Answer:
+Answer: Albert II
+Question:what is the name of Elizabeth Of Carinthia's ninth child?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth Of Carinthia's tenth child?
+Answer:
+Answer: Meinhard
+Question:what is the name of Elizabeth Of Carinthia's eleventh child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's twelfth child?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's thirteenth child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's first husband?
+Answer:
+Answer: Albert I of Habsburg
+Question:what is the name of Elizabeth Of Carinthia's second husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's third husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's fourth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's fifth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's sixth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's seventh husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's eighth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's ninth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's tenth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's eleventh husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's twelfth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's thirteenth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first daughter?
+Answer:
+Answer: Anna
+Question:what is the name of Elizabeth Of Carinthia's second daughter?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's third daughter?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's fourth daughter?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's fifth daughter?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's first son?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's second son?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's third son?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's fourth son?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth Of Carinthia's fifth son?
+Answer:
+Answer: Albert II
+Question:what is the name of Elizabeth Of Carinthia's sixth son?
+Answer:
+Answer: Meinhard
+Question:what is the name of Elizabeth Of Carinthia's seventh son?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's eighth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's ninth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's tenth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's eleventh son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's twelfth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's thirteenth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's father?
+Answer:
+Answer: Rudolf I
+Question:what is the name of Elizabeth Of Carinthia's first husband's mother?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's first wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's second wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's third wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's fifth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's sixth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's seventh wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's eighth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's ninth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's tenth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's eleventh wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's twelfth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's thirteenth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's first child?
+Answer:
+Answer: Anna
+Question:what is the name of Elizabeth Of Carinthia's first husband's second child?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's first husband's third child?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth child?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's first husband's fifth child?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's first husband's sixth child?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's first husband's seventh child?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's first husband's eighth child?
+Answer:
+Answer: Albert II
+Question:what is the name of Elizabeth Of Carinthia's first husband's ninth child?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth Of Carinthia's first husband's tenth child?
+Answer:
+Answer: Meinhard
+Question:what is the name of Elizabeth Of Carinthia's first husband's eleventh child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's first husband's twelfth child?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's first husband's thirteenth child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's first husband's first daughter?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's first husband's second daughter?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's first husband's third daughter?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth daughter?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's first husband's first son?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's first husband's second son?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's first husband's third son?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth son?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth",['England'],2.752347707748413,0.08212855726014823,168.19928526878357,17030,2048,True,
+1,0.0,0.0,0.0,0.0,0.0,"Henry II, Duke of Bavaria.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Hartvic's father-in-law?
+Answer:
+Stephen I of Hungary.
+Question:who is Stephen I of Hungary's father-in-law?
+Answer:
+Henry II, Duke of Bavaria.
+Question:who is Jenny von Westphalen's father?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's mother?
+Answer:
+Elisabeth von Veltheim.
+Question:who is Jenny von Westphalen's husband?
+Answer:
+Karl Marx.
+Question:who is Jenny von Westphalen's daughter?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's son?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's brother?
+Answer:
+Edgar von Westphalen.
+Question:who is Jenny von Westphalen's sister?
+Answer:
+Sophie von Westphalen.
+Question:who is Jenny von Westphalen's nephew?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's niece?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's cousin?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's grandchild?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's grandparent?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling?
+Answer:
+Sophie von Westphalen.
+Question:who is Jenny von Westphalen's parent?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's spouse?
+Answer:
+Karl Marx.
+Question:who is Jenny von Westphalen's relative?
+Answer:
+Heinrich Marx.
+Question:who is Jenny von Westphalen's in-law?
+Answer:
+Heinrich Marx.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Jenny von Westphalen's mother-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's son-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's daughter-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's brother-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sister-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's nephew-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's niece-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's cousin-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's grandparent-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's grandchild-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's parent-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Jenny von Westphalen's spouse's father?
+Answer:
+Heinrich Marx.
+Question:who is Jenny von Westphalen's spouse's mother?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's brother?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's sister?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's nephew?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's niece?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's cousin?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's grandparent?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's grandchild?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's sibling?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's parent?
+Answer:
+Heinrich Marx.
+Question:who is Jenny von Westphalen's spouse's in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's spouse's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's spouse's mother-in-law?
+Answer:
+Elisabeth von Veltheim.
+Question:who is Jenny von Westphalen's spouse's brother-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's sister-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's nephew-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's niece-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's cousin-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's grandparent-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's grandchild-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's sibling-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's spouse's parent-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father's father?
+Answer:
+Philipp von Westphalen.
+Question:who is Jenny von Westphalen's father's mother?
+Answer:
+Jane Wishart of Pittarrow.
+Question:who is Jenny von Westphalen's mother's father?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's mother's mother?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's brother's father?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's brother's mother?
+Answer:
+Elisabeth von Veltheim.
+Question:who is Jenny von Westphalen's sister's father?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's sister's mother?
+Answer:
+Elisabeth von Veltheim.
+Question:who is Jenny von Westphalen's child's father?
+Answer:
+Karl Marx.
+Question:who is Jenny von Westphalen's child's mother?
+Answer:
+Jenny von Westphalen.
+Question:who is Jenny von Westphalen's child's brother?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's sister?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's nephew?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's niece?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's cousin?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's grandparent?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's child's grandchild?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's sibling?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's parent?
+Answer:
+Karl Marx.
+Question:who is Jenny von Westphalen's child's in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's father-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's mother-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's brother-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's sister-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's nephew-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's niece-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's cousin-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's grandparent-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's grandchild-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's sibling-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's child's parent-in-law?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling's father?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's sibling's mother?
+Answer:
+Elisabeth von Veltheim.
+Question:who is Jenny von Westphalen's sibling's brother?
+Answer:
+Edgar von Westphalen.
+Question:who is Jenny von Westphalen's sibling's sister?
+Answer:
+Sophie von Westphalen.
+Question:who is Jenny von Westphalen's sibling's nephew?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling's niece?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling's cousin?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling's grandparent?
+Answer:
+Philipp von Westphalen.
+Question:who is Jenny von Westphalen's sibling's grandchild?
+Answer:
+Not mentioned.
+Question:who is Jenny von Westphalen's sibling's sibling?
+Answer:
+Sophie von Westphalen.
+Question:who is Jenny von Westphalen's sibling's parent?
+Answer:
+Ludwig von Westphalen",['Géza'],2.675985813140869,0.08222218218725175,168.39102911949158,17082,2048,True,
+2,0.6666666666666666,1.0,0.5,0.6666666666666666,0.6666666666666666,Goring-on-Thames.,"['Goring-on-Thames, Oxfordshire']",2.6638638973236084,0.021995816911969866,0.15397071838378906,17102,7,True,
+3,0.0,0.0,0.0,0.0,0.0,"Fay Wray
+Question:who is the spouse of the director of film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray is the spouse of the director of the film Ann Carver's Profession.
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay",['Ona Munson'],2.508333206176758,0.08386200736276805,171.74939107894897,16409,2048,True,
+4,1.0,1.0,1.0,1.0,1.0,"Vienna.
+Question:where was the place of death of the composer of the original Star Trek series theme?
+Answer:
+Pacific Palisades.",['Vienna'],2.62626051902771,0.024865018910375136,0.7210855484008789,16768,29,True,
+5,1.0,1.0,1.0,1.0,1.0,"Yes.
+Answer: Yes. 
+
+Question: What is the name of the film that is the 23rd release in the series of 31 Carry On films?
+Answer: Carry On Matron.
+Answer: Carry On Matron. 
+
+Question: What is the name of the film that is the 30th release in the series of 31 Carry On films?
+Answer: Carry On Emmannuelle.
+Answer: Carry On Emmannuelle. 
+
+Question: What is the name of the film that is the 19th release in the series of 31 Carry On films?
+Answer: Carry On Up the Jungle.
+Answer: Carry On Up the Jungle. 
+
+Question: What is the name of the film that is the 14th release in the series of 31 Carry On films?
+Answer: Follow That Camel.
+Answer: Follow That Camel. 
+
+Question: What is the name of the film that is the 6th release in the series of 31 Carry On films?
+Answer: Carry On Cruising.
+Answer: Carry On Cruising. 
+
+Question: What is the name of the film that is the 24th release in the series of 31 Carry On films?
+Answer: Carry On Abroad.
+Answer: Carry On Abroad. 
+
+Question: What is the name of the film that is the 26th release in the series of 31 Carry On films?
+Answer: Carry On Dick.
+Answer: Carry On Dick. 
+
+Question: What is the name of the film that is the 10th release in the series of 31 Carry On films?
+Answer: Carry On Cleo.
+Answer: Carry On Cleo. 
+
+Question: What is the name of the film that is the 8th release in the series of 31 Carry On films?
+Answer: Carry On Jack.
+Answer: Carry On Jack. 
+
+Question: What is the name of the film that is the 2nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Nurse. 
+
+Question: What is the name of the film that is the 3rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Behind. 
+
+Question: What is the name of the film that is the 4th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On University. 
+
+Question: What is the name of the film that is the 5th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Sailing. 
+
+Question: What is the name of the film that is the 7th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Spying. 
+
+Question: What is the name of the film that is the 9th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Sergeant. 
+
+Question: What is the name of the film that is the 11th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Cabby. 
+
+Question: What is the name of the film that is the 12th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Girls. 
+
+Question: What is the name of the film that is the 13th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Don't Lose Your Head. 
+
+Question: What is the name of the film that is the 15th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Doctor. 
+
+Question: What is the name of the film that is the 16th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Again Doctor. 
+
+Question: What is the name of the film that is the 17th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Nurse. 
+
+Question: What is the name of the film that is the 18th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Loving. 
+
+Question: What is the name of the film that is the 20th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Behind. 
+
+Question: What is the name of the film that is the 21st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On At Your Convenience. 
+
+Question: What is the name of the film that is the 22nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On London. 
+
+Question: What is the name of the film that is the 25th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Girls. 
+
+Question: What is the name of the film that is the 27th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On England. 
+
+Question: What is the name of the film that is the 28th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Auto Repair. 
+
+Question: What is the name of the film that is the 29th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Wishing. 
+
+Question: What is the name of the film that is the 31st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Columbus. 
+
+Question: What is the name of the film that is the 1st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Laughing. 
+
+Question: What is the name of the film that is the 32nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 33rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 34th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 35th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 36th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 37th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 38th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 39th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 40th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 41st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 42nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 43rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 44th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 45th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 46th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 47th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 48th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 49th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 50th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 51st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 52nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 53rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: None. 
+
+Question: What is the name of the film that is the 54th release in the series of 31",['yes'],2.593553066253662,0.0841657321434468,172.37141942977905,16503,2048,True,
+6,1.0,1.0,1.0,1.0,1.0,"27 June 1839
+Question:what is the name of the mother of Duleep Singh?
+Answer:
+Answer: Jind Kaur
+Question:what is the name of the wife of Thomas Scott?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Bamba Müller?
+Answer:
+Answer: Ludwig Müller
+Question:what is the name of the mother of Bamba Müller?
+Answer:
+Answer: Sofia
+Question:what is the name of the wife of Duleep Singh?
+Answer:
+Answer: Bamba Müller
+Question:what is the name of the mother of Frederick Duleep Singh?
+Answer:
+Answer: Bamba Müller
+Question:what is the name of the father of Frederick Duleep Singh?
+Answer:
+Answer: Sir Duleep Singh
+Question:what is the name of the mother of Victor Duleep Singh?
+Answer:
+Answer: Bamba Müller
+Question:what is the name of the father of Victor Duleep Singh?
+Answer:
+Answer: Sir Duleep Singh
+Question:what is the name of the mother of Thomas Scott?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Thomas Scott?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Theodred II?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Theodred II?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Bill Smith?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Bill Smith?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Etan Boritzer?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Etan Boritzer?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh?
+Answer:
+Answer: Raj Kaur
+Question:what is the name of the father of Ranjit Singh?
+Answer:
+Answer: Maha Singh
+Question:what is the name of the mother of Ranjit Singh's father?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's father?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's mother?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's mother?
+Answer:
+Answer: Gajpat Singh
+Question:what is the name of the mother of Ranjit Singh's first wife?
+Answer:
+Answer: Sada Kaur
+Question:what is the name of the father of Ranjit Singh's first wife?
+Answer:
+Answer: Gurbaksh Singh Kanhaiya
+Question:what is the name of the mother of Ranjit Singh's second wife?
+Answer:
+Answer: Karmo Kaur
+Question:what is the name of the father of Ranjit Singh's second wife?
+Answer:
+Answer: Ran Singh Nakai
+Question:what is the name of the mother of Ranjit Singh's third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's tenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's tenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's eleventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's eleventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twelfth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twelfth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's thirteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's fourteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fourteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's fifteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fifteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's sixteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's sixteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's seventeenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's seventeenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's eighteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's eighteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's nineteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's nineteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twentieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twentieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-second wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-second wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirtieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's thirtieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's thirty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirty-second wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh",['27 June 1839'],2.4518280029296875,0.084658945328556,173.3815200328827,16015,2048,True,
+7,0.0,0.0,0.0,0.0,0.0,"Lincoln
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer",['Harby'],2.291524887084961,0.08522490411996841,174.5406036376953,14785,2048,True,
+8,0.0,0.0,0.0,0.0,1.0,"No.
+Question:who is the director of the film La Morte Vivante?
+Answer: Jean Rollin.
+Question:who is the director of the film Stranger on Horseback?
+Answer: Jacques Tourneur.
+Question:is the director of the film La Morte Vivante born in the same country as the director of the film Stranger on Horseback?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante born in the same city as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante born in the same year as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante born in the same month as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante born in the same day as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante died in the same country as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante died in the same city as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante died in the same year as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante died in the same month as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante died in the same day as the director of the film Stranger on Horseback?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same nationality?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same profession?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their first names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their last names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their full names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of words in their full names?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their first names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their last names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their full names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their first names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their last names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their full names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their first names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their last names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their full names?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their first names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their last names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their full names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of words in their full names when written in French?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their first names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their last names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their full names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their first names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their last names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their full names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their first names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their last names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their full names when written in French?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their first names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their last names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of letters in their full names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of words in their full names when written in English?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their first names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their last names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of syllables in their full names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their first names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their last names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of vowels in their full names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their first names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their last names when written in English?
+Answer: No.
+Question:is the director of the film La Morte Vivante and the director of the film Stranger on Horseback have the same number of consonants in their full names when written in English?
+Answer: No.
+Question:is the director of",['yes'],2.370081663131714,0.08596898568794131,176.0644826889038,15488,2048,True,
+9,0.0,0.0,0.0,0.0,0.0,"Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone. 
+
+The film ""Streets of Blood"" is directed by Charles Winkler. Sharon Stone is listed as one of the cast members, playing the role of Nina Ferraro. Therefore, Sharon Stone is the spouse of the director of the film ""Streets of Blood."" This conclusion is drawn from the information provided in Passage 4, which details the film's cast and crew. The direct connection between Charles Winkler as the director and Sharon Stone as his spouse is not explicitly stated in the passage, but the inference is made based on the context of the question and the information available about the film's production and cast. The answer is concise and within the five-word limit as required.
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of the director of film Streets Of Blood?
+Answer:
+Answer: Sharon Stone
+
+Question: who is the spouse of",['Sandra Nelson'],2.3318166732788086,0.0870590468402952,178.29692792892456,15255,2048,True,
+10,0.0,0.0,0.0,0.0,0.0,"Barbara Hale
+
+Question: who is the spouse of the director of film Emergency Wedding?
+Answer:
+Answer: Barbara Hale
+You are an AI assistant that follows instruction extremely well. Help as much as you can.",['Ona Munson'],2.3672189712524414,0.03314040427984193,1.4250373840332031,15264,43,True,
+11,1.0,1.0,1.0,1.0,1.0,"The House of the Seven Hawks
+Question:which film has the director who was born earlier, The Secret Invasion or The House Of The Seven Hawks?
+Answer:
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier. 
+
+Answer: The House of the Seven Hawks. The director of The House of the Seven Hawks, Richard Thorpe, was born in 1896, while the director of The Secret Invasion, Roger Corman, was born in 1926. Therefore, Richard Thorpe was born earlier.",['The House Of The Seven Hawks'],2.424391984939575,0.08652721589896828,177.20773816108704,15652,2048,True,
+12,0.0,0.0,0.0,0.0,0.0,"Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan. 
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan. 
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer: Elizabeth Allan
+
+Question: who is the spouse of the director of film Rodney Steps In?
+Answer:
+Answer:",['Ivy Duke'],2.302044153213501,0.08705022826325148,178.27886748313904,15028,2048,True,
+13,1.0,1.0,1.0,1.0,1.0,"Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Bandit?
+Answer:
+Perdón, Viejita
+Question:which film has the director who was born first, Perdón, Viejita or Smokey And The Band","['Perdón, Viejita']",2.331306219100952,0.08754446415696293,179.29106259346008,15018,2048,True,
+14,1.0,1.0,1.0,1.0,1.0,"Station For Two
+
+Question: which film has the director who was born first, The Longshots or Station For Two?
+Answer:
+Answer: Station For Two. 
+
+The directors of the two films are Fred Durst and Eldar Ryazanov. According to the passages, Fred Durst was born on August 20, 1970, while Eldar Ryazanov was born on November 18, 1927. Therefore, Eldar Ryazanov, the director of *Station For Two*, was born first. The film directed by the earlier-born director is *Station For Two*. 
+
+Answer: Station For Two.",['Station For Two'],2.3558366298675537,0.065869028550865,9.024056911468506,15020,137,True,
+15,1.0,1.0,1.0,1.0,1.0,"Saint Petersburg.
+Question:where did Grand Duchess Elena Pavlovna of Russia die?
+Answer:
+Ludwigslust.",['Saint Petersburg'],2.262131690979004,0.033838052016038164,0.8797893524169922,14735,26,True,
+16,1.0,1.0,1.0,1.0,1.0,"London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Melody?
+Answer:
+Answer: London Melody
+
+Question: which film has the director died first, Our Agent Tiger or London Mel",['London Melody'],2.332451581954956,0.08903770614415407,182.34922218322754,15047,2048,True,
+17,1.0,1.0,1.0,1.0,1.0,"Gordonsville, Virginia.
+Answer: Gordonsville, Virginia.","['Gordonsville, Virginia']",2.0929436683654785,0.03640127182006836,0.5460190773010254,13615,15,True,
+18,0.0,0.0,0.0,0.0,0.28571428571428575,"Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the director of the film L'Arbre, le maire et la médiathèque?
+Answer:
+
+Answer: Éric Rohmer
+
+Question: who is the",['Cahiers du cinéma'],2.1137454509735107,0.08927105425391346,182.82711911201477,13846,2048,True,
+19,1.0,1.0,1.0,1.0,1.0,"1234
+Answer: 1234
+
+Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer: 1234. Answer:",['1234'],2.010976552963257,0.08956782356835902,183.43490266799927,13202,2048,True,
+20,0.5,1.0,0.3333333333333333,0.5,0.4,"Hawaii
+
+Question: who is the father of Kamehameha I?
+Answer: Keōua Kalanikupuapa'ikalaninui
+
+Question: what is the name of the cathedral in Mechelen that contains relics of Saint Rumbold?
+Answer: St. Rumbold's Cathedral
+
+Question: what is the nationality of Khalid al-Habib according to CBS News?
+Answer: Egyptian
+
+Question: what is the name of the award that Roberto Savio received in 2013 from Soka Gakkai?
+Answer: Hiroshima Peace Award
+
+Question: what is the name of the organization that Roberto Savio founded in 2008?
+Answer: Other News
+
+Question: what is the name of the university where Roberto Savio studied economics?
+Answer: University of Parma
+
+Question: what is the name of the book published by Roberto Savio in 2012?
+Answer: The Journalists Who Turned the World Upside Down
+
+Question: what is the name of the film produced by Roberto Savio in 1972 about Che Guevara?
+Answer: Che Guevara – Inchiesta su un mito
+
+Question: what is the name of the award that Roberto Savio received in 2016 during the Festival of Latin American Cinema in Trieste?
+Answer: Salvador Allende
+
+Question: what is the name of the award that Roberto Savio received in 2019 from the President of Chile?
+Answer: special diploma
+
+Question: what is the name of the award that Roberto Savio received in 2021 from the President of Italy?
+Answer: Order of Merit
+
+Question: what is the name of the honorary degree that Roberto Savio received in 2021?
+Answer: political science
+
+Question: what is the name of the organization that Roberto Savio helped launch for Latin America and the Caribbean?
+Answer: ASIN
+
+Question: what is the name of the organization that Roberto Savio helped launch for women's issues?
+Answer: Women’s Feature Service
+
+Question: what is the name of the project that Roberto Savio founded to promote technological and economic cooperation among developing countries?
+Answer: TIPS
+
+Question: what is the name of the training project that Roberto Savio developed for women entrepreneurs in developing countries?
+Answer: WINNER
+
+Question: what is the name of the executing agency that carries out the activities of TIPS?
+Answer: DEVNET
+
+Question: what is the name of the award that Roberto Savio established in 1985 for outstanding journalists?
+Answer: International Journalism Award
+
+Question: what is the name of the award that Roberto Savio renamed in 1991?
+Answer: International Achievement Award
+
+Question: what is the name of the news agency that Roberto Savio founded in 1964?
+Answer: Inter Press Service
+
+Question: what is the name of the cooperative that Inter Press Service was established as?
+Answer: non-profit cooperative
+
+Question: what is the name of the mission that Inter Press Service was given by Roberto Savio?
+Answer: giving a voice to the voiceless
+
+Question: what is the name of the award that Inter Press Service won nine times in the 1990s?
+Answer: most conscientious news service
+
+Question: what is the name of the award that Inter Press Service won from FAO in 1997?
+Answer: A.H. Boerma Award
+
+Question: what is the name of the organization that Roberto Savio is currently Deputy Director of the Scientific Council for?
+Answer: New Policy Forum
+
+Question: what is the name of the organization that Roberto Savio is responsible for international relations for in Belgrade?
+Answer: European Centre for Peace and Development
+
+Question: what is the name of the cultural meeting space in Rome that Roberto Savio is Chairman of?
+Answer: Accademia Panisperna
+
+Question: what is the name of the online TV channel that Roberto Savio is President of in Modena, Italy?
+Answer: Arcoiris TV
+
+Question: what is the name of the foundation that Roberto Savio was Chairman of the Board for until 2009?
+Answer: Alliance for a New Humanity
+
+Question: what is the name of the magazine that Roberto Savio contributes to monthly?
+Answer: Wall Street International Magazine
+
+Question: what is the name of the book that Roberto Savio presented in 2016 about Jim Grant?
+Answer: Remembering Jim Grant: Champion for Children
+
+Question: what is the name of the award that Roberto Savio is a member of the Selection Panel for?
+Answer: Maurice Strong Sustainability Award
+
+Question: what is the name of the weekly magazine published by the Fondazione Italiani?
+Answer: online weekly magazine
+
+Question: what is the name of the film festival where Roberto Savio's film was presented?
+Answer: Venice and Cannes film festivals
+
+Question: what is the name of the book that Roberto Savio co-authored with Alberto Luna?
+Answer: Verbo America
+
+Question: what is the name of the organization that Roberto Savio is a member of the Executive Committee for?
+Answer: Fondazione Italiani
+
+Question: what is the name of the organization that Roberto Savio is a member of the International Committee for?
+Answer: World Social Forum
+
+Question: what is the name of the thematic area that Roberto Savio coordinated at the World Social Forum in 2003?
+Answer: Media, Culture and Counter-Hegemony
+
+Question: what is the name of the NGO that Roberto Savio is co-founder of in Paris?
+Answer: Media Watch International
+
+Question: what is the name of the organization that Roberto Savio is Secretary General of?
+Answer: Media Watch International
+
+Question: what is the name of the organization that Roberto Savio is Secretary-General Emeritus of?
+Answer: Society for International Development
+
+Question: what is the name of the organization that Roberto Savio was a board member of from 1999 to 2003?
+Answer: Training Centre for Regional Integration
+
+Question: what is the name of the organization that Roberto Savio served as Senior Adviser for from 1999 to 2003?
+Answer: International Labour Organization
+
+Question: what is the name of the organization that Roberto Savio served as an internal communication consultant for in 2000?
+Answer: World Food Programme
+
+Question: what is the name of the university that granted Roberto Savio an honorary degree in 2021?
+Answer: United Nations Peace University
+
+Question: what is the name of the award that Roberto Savio received in 2013 from Catalunya?
+Answer: Joan Gomis Memorial Award
+
+Question: what is the name of the award that Roberto Savio received in 2013 during the Festival of Latin American Cinema in Trieste?
+Answer: Salvador Allende
+
+Question: what is the name of the award that Roberto Savio received in 2016 from the 31st Festival of Latin American Cinema in Trieste?
+Answer: Salvador Allende
+
+Question: what is the name of the award that Roberto Savio received in 2019 from the President of Chile?
+Answer: special diploma
+
+Question: what is the name of the award that Roberto Savio received in 2021 from the President of Italy?
+Answer: Order of Merit
+
+Question: what is the name of the award that Roberto Savio received in 2013 from Soka Gakkai?
+Answer: Hiroshima Peace Award
+
+Question: what is the name of the award that Roberto Savio received in 2013 from Catalunya?
+Answer: Joan Gomis Memorial Award
+
+Question: what is the name of the award that Roberto Savio received in 2016 during the 31st Festival of Latin American Cinema in Trieste?
+Answer: Salvador Allende
+
+Question: what is the name of the award that Roberto Savio received in 2019 from the President of Chile?
+Answer: special diploma
+
+Question: what is the name of the award that Roberto Savio received in 2021 from the President of Italy?
+Answer: Order of Merit
+
+Question: what is the name of the honorary degree that Roberto Savio received in 2021?
+Answer: political science
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Organisation of Asian News Agencies?
+Answer: ALASEI
+
+Question: what is the name of the organization that Roberto Savio helped launch for the PanAfrican News Agency?
+Answer: PANA
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Federation of Arab News Agencies?
+Answer: FANA
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Organisation of Asia-Pacific News Agencies?
+Answer: OANA
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Latin American Special Information Services Agency?
+Answer: ALASEI
+
+Question: what is the name of the organization that Roberto Savio helped launch for the National Information Systems Network?
+Answer: ASIN
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Women’s Feature Service?
+Answer: WFS
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Technological Information Promotion System?
+Answer: TIPS
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Women into the New Network for Entrepreneurial Reinforcement?
+Answer: WINNER
+
+Question: what is the name of the organization that Roberto Savio helped launch for the Development Information Network?
+Answer: DEVNET
+
+Question: what is the name of the organization that Roberto Savio helped launch for the United Nations Institute for Training and Research?
+Answer: UNITAR
+
+Question: what is the name of the organization that Roberto Savio helped launch",['Kingdom of Hawaii'],2.129791736602783,0.1387490095803514,284.1579716205597,13600,2048,True,
+21,0.0,0.0,0.0,0.0,0.0,"The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem or The Soviet Story?
+Answer: The Soviet Story
+
+Question: which film has the director who was born first, Hell Up In Harlem",['Hell Up In Harlem'],93.32964277267456,0.09558572119567543,195.7595570087433,13178,2048,True,
+22,1.0,1.0,1.0,1.0,1.0,"The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.
+The Wind's Fierce
+The director of The Wind's Fierce, Mario Camus, was born in 1935, while the director of Special Delivery (1927 film), Roscoe Arbuckle, was born in 1887. Therefore, Mario Camus was born later.","[""The Wind'S Fierce""]",100.37807846069336,0.0945636909455061,193.66643905639648,13409,2048,True,
+23,0.0,0.0,0.0,0.0,0.0,"Francis II
+
+Question: who is the maternal grandfather of Marie Louise, Duchess Of Parma?
+Answer:
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II
+Francis II",['Ferdinand I of the Two Sicilies'],97.70391869544983,0.09450707433279604,193.55048823356628,13247,2048,True,
+24,0.0,0.0,0.0,0.0,0.0,"Egypt
+Question:which country Khalid al-Habib is killed?
+Answer: Pakistan
+Question:which country Eleni Gabre-Madhin is born?
+Answer: Ethiopia
+Question:which country Roberto Savio is born?
+Answer: Italy
+Question:which country Ali Rahuma is born?
+Answer: Libya
+Question:which country Nayelly Hernández is born?
+Answer: Mexico
+Question:which country Baglan Mailybayev is born?
+Answer: Kazakhstan
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland
+Question:which country Saint Rumbold is born?
+Answer: Ireland",['Fatimid caliphate'],101.26811671257019,0.09505737747531384,194.67750906944275,12702,2048,True,
+25,0.0,0.0,0.0,0.0,0.0,,['Akkadian empire'],-1.0,,0.0,0,0,False,
+26,0.0,0.0,0.0,0.0,0.0,,['United Kingdom'],-1.0,,0.0,0,0,False,
+27,1.0,1.0,1.0,1.0,1.0,"Charles Wheatstone
+Answer: Charles Wheatstone
+
+Charles Wheatstone lived from 1802 to 1875, while Jean-Claude Lauzon lived from 1953 to 1997. Therefore, Charles Wheatstone lived longer. 
+
+Answer: Charles Wheatstone.",['Charles Wheatstone'],99.79061007499695,0.07733432576060295,4.949396848678589,12323,64,True,
+28,0.0,0.0,0.0,0.0,1.0,,['no'],-1.0,,0.0,0,0,False,
+29,0.0,0.0,0.0,0.0,0.0,,['drowning'],-1.0,,0.0,0,0,False,
+30,0.0,0.0,0.0,0.0,0.0,,['Mangalia'],-1.0,,0.0,0,0,False,
+31,0.0,0.0,0.0,0.0,0.0,,['Jessi Colter'],-1.0,,0.0,0,0,False,
+32,0.0,0.0,0.0,0.0,0.0,,['Cunimund'],-1.0,,0.0,0,0,False,
+33,0.0,0.0,0.0,0.0,0.0,,['Milla'],-1.0,,0.0,0,0,False,
+34,0.0,0.0,0.0,0.0,0.0,,['Crenshaw'],-1.0,,0.0,0,0,False,
+35,0.0,0.0,0.0,0.0,0.0,,['Lee Strasberg Theatre and Film Institute'],-1.0,,0.0,0,0,False,
+36,0.0,0.0,0.0,0.0,0.0,"The Yellow Teddy Bears.
+The director of The Yellow Teddy Bears, Robert Hartford-Davis, was born in 1923 and died in 1977. The director of Season of Strangers, Maya Deren, was born in 1917 and died in 1961. Therefore, Robert Hartford-Davis was older than Maya Deren. The answer is The Yellow Teddy Bears.
+Answer: The Yellow Teddy Bears.",['Season Of Strangers'],106.96610426902771,0.039957607946088235,3.716057538986206,10327,93,True,
+37,0.0,0.0,0.0,0.0,0.0,,['No Trees In The Street'],-1.0,,0.0,0,0,False,
+38,0.0,0.0,0.0,0.0,0.0,,['Changeland'],-1.0,,0.0,0,0,False,
+39,1.0,1.0,1.0,1.0,1.0,"No.
+Question:is The Keeper Of Lost Causes a 2016 film?
+Answer: No.
+Question:is The Other Half (2016 Film) a drama?
+Answer: Yes.
+Question:is The Keeper Of Lost Causes a drama?
+Answer: Yes.
+Question:is The Other Half (2016 Film) a romantic drama?
+Answer: Yes.
+Question:is The Keeper Of Lost Causes a romantic drama?
+Answer:
+Answer: No.",['no'],106.73808312416077,0.05187218213818737,5.031601667404175,9813,97,True,
+40,0.0,0.0,0.0,0.0,0.0,,['Lyudmyla Olyanovska'],-1.0,,0.0,0,0,False,
+41,0.0,0.0,0.0,0.0,0.0,,['Monster On The Campus'],-1.0,,0.0,0,0,False,
+42,0.0,0.0,0.0,0.0,0.5714285714285715,"5 September 1896.
+Answer: 3 November 1867.
+Answer:
+Answer: 3 November 1867.","['November 3, 1867']",207.28138661384583,0.04064317310557646,1.3818678855895996,10053,34,True,
+43,0.0,0.0,0.0,0.0,0.0,,['Lee Byung-chul'],-1.0,,0.0,0,0,False,
+44,0.0,0.0,0.0,0.0,0.0,,['25 July 1666'],-1.0,,0.0,0,0,False,
+45,0.0,0.0,0.0,0.0,0.0,,['Johnny Ekström'],-1.0,,0.0,0,0,False,
+46,0.0,0.0,0.0,0.0,0.0,,['Cipriano Castro'],-1.0,,0.0,0,0,False,
+47,0.0,0.0,0.0,0.0,0.0,,['Vasantha Raagam'],-1.0,,0.0,0,0,False,
+48,0.0,0.0,0.0,0.0,0.0,,['Charlotte Amalie of Hesse-Kassel'],-1.0,,0.0,0,0,False,
+49,0.0,0.0,0.0,0.0,1.0,,['yes'],-1.0,,0.0,0,0,False,

@@ -1,0 +1,11 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message,temperature,top_p,top_k,min_p,generation_seed,chat_template_mode
+0,1.0,1.0,1.0,1.0,1.0,1 January 1986,['1 January 1986'],4.311677694320679,0.3046591281890869,2.4372730255126953,17052,8,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+1,0.0,0.0,0.0,0.0,0.0,Mátyás Szűrös,['Lech Wałęsa'],2.734306573867798,0.010224156909518771,0.09201741218566895,16827,9,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+2,1.0,1.0,1.0,1.0,1.0,1572,['1572'],2.4993374347686768,7.090568542480468e-05,0.00035452842712402344,16703,5,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+3,0.0,0.0,0.0,0.0,0.0,not mentioned,['a Western District uniformed officer'],2.4177098274230957,0.00795284907023112,0.02385854721069336,16568,3,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+4,0.0,0.0,0.0,0.0,0.18181818181818182,1946,['January 2015'],2.626617431640625,7.557868957519531e-05,0.00037789344787597656,17401,5,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+5,0.0,0.0,0.0,0.0,0.0,Nieuwe Maas River,['Het Scheur'],2.4944963455200195,0.009832484381539481,0.06882739067077637,16790,7,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+6,1.0,1.0,1.0,1.0,1.0,Keturah,['Keturah'],2.4656758308410645,6.908178329467773e-05,0.00027632713317871094,16577,4,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+7,0.0,0.0,0.0,0.0,0.0,Jason Todd,"['Nightwing / Dick Grayson', 'Nightwing', 'Dick Grayson', 'Batman', 'Robin']",2.456603527069092,0.00780177116394043,0.02340531349182129,16844,3,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+8,0.0,0.0,0.0,0.0,0.0,Xanana Gusmão,['Francisco Guterres'],2.5340230464935303,0.009678568158830916,0.0677499771118164,16947,7,True,,0.7,0.8,20,0.0,42,qwen-non-thinking
+9,0.0,0.0,0.0,0.0,0.20000000000000004,"$70,784","['$59,039']",2.656456232070923,3.775954246520996e-05,0.0003020763397216797,17153,8,True,,0.7,0.8,20,0.0,42,qwen-non-thinking

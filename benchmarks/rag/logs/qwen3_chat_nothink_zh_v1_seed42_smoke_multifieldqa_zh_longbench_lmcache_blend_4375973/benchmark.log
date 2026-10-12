@@ -1,0 +1,25 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json
+Precompute from 0 to 2 for model Qwen/Qwen3-32B
+[1m[2026-10-06 05:14:04,536] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:14:04,536] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 05:14:04,537] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 05:14:08,859] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:14:08,875] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 05:14:11,350] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:14:11,350] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_lmcache_blend_4375973/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_lmcache_blend_4375973.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4375973/jieba.cache
+Loading model cost 0.326 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 05:14:11,705] INFO:[0m Summary: 2 requests, average_ttft=1.2463929653167725 (second)
+ average_tpot=0.019856437017696175 (second)
+throughput=0.3067569698411152 (req/s)
+average_quality=0.22360248447204972
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 05:14:11,705] INFO:[0m QA metrics: average_f1_word=0.22360248447204972
+average_f1_tokenizer=0.20570793180133434
+average_precision=0.23106060606060608
+average_recall=0.3192307692307692
+ [3m(rag.py:648:__main__)[0m
+[32;20m[2026-10-06 05:14:11,731] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_lmcache_blend_4375973/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_lmcache_blend_4375973.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json

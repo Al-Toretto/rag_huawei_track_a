@@ -1,0 +1,291 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message
+0,0.027318475916606758,,,,,"Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue: Isabella: Hi Betty!
+Isabella: It was very nice to listen about your work yesterday. Thank you for sharing that!
+Isabella: If you wanted to do sth together, let me know. 
+Betty: Thank you! 
+Summary: Isabella compliments Betty on her work and offers to do something together. Betty thanks her. # #  Dialogue:","['Isabella is grateful to Betty for sharing the information about her work yesterday. Isabella offers Betty her company, should Betty want to do something together.']",2.4532811641693115,0.0246258401311934,50.43372058868408,18221,2048,True,
+1,0.011363636363636364,,,,,"Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary:
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: Huda and Alex are going swimming in 2 hours. # #  Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda",['Alex will go swimming toghether with Huda in two hours.'],1.704150676727295,0.023861427675001323,48.86820387840271,18372,2048,True,

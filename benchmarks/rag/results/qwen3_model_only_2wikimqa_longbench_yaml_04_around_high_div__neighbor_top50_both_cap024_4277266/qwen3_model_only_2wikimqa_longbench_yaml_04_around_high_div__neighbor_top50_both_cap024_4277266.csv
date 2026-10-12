@@ -1,0 +1,1944 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message
+0,0.0,0.0,0.0,0.0,0.0,"English
+Question:what is Elizabeth Of Carinthia's mother's name?
+Answer:
+Answer: Elizabeth of Bavaria
+Question:what is the name of Elizabeth Of Carinthia's father?
+Answer:
+Answer: Meinhard of Gorizia
+Question:what is the name of Elizabeth Of Carinthia's husband?
+Answer:
+Answer: Albert I of Habsburg
+Question:how many children did Elizabeth Of Carinthia have?
+Answer:
+Answer: 13
+Question:what is the name of Elizabeth Of Carinthia's first child?
+Answer:
+Answer: Anna
+Question:what is the name of Elizabeth Of Carinthia's second child?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's third child?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's fourth child?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's fifth child?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's sixth child?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's seventh child?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's eighth child?
+Answer:
+Answer: Albert II
+Question:what is the name of Elizabeth Of Carinthia's ninth child?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth Of Carinthia's tenth child?
+Answer:
+Answer: Meinhard
+Question:what is the name of Elizabeth Of Carinthia's eleventh child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's twelfth child?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's thirteenth child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's first husband?
+Answer:
+Answer: Albert I of Habsburg
+Question:what is the name of Elizabeth Of Carinthia's second husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's third husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's fourth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's fifth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's sixth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's seventh husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's eighth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's ninth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's tenth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's eleventh husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's twelfth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's thirteenth husband?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first daughter?
+Answer:
+Answer: Anna
+Question:what is the name of Elizabeth Of Carinthia's second daughter?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's third daughter?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's fourth daughter?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's fifth daughter?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's first son?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's second son?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's third son?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's fourth son?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth Of Carinthia's fifth son?
+Answer:
+Answer: Albert II
+Question:what is the name of Elizabeth Of Carinthia's sixth son?
+Answer:
+Answer: Meinhard
+Question:what is the name of Elizabeth Of Carinthia's seventh son?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's eighth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's ninth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's tenth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's eleventh son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's twelfth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's thirteenth son?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's father?
+Answer:
+Answer: Rudolf I
+Question:what is the name of Elizabeth Of Carinthia's first husband's mother?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's first wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's second wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's third wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's fifth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's sixth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's seventh wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's eighth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's ninth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's tenth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's eleventh wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's twelfth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's thirteenth wife?
+Answer:
+Answer: None
+Question:what is the name of Elizabeth Of Carinthia's first husband's first child?
+Answer:
+Answer: Anna
+Question:what is the name of Elizabeth Of Carinthia's first husband's second child?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's first husband's third child?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth child?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's first husband's fifth child?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's first husband's sixth child?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's first husband's seventh child?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's first husband's eighth child?
+Answer:
+Answer: Albert II
+Question:what is the name of Elizabeth Of Carinthia's first husband's ninth child?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth Of Carinthia's first husband's tenth child?
+Answer:
+Answer: Meinhard
+Question:what is the name of Elizabeth Of Carinthia's first husband's eleventh child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's first husband's twelfth child?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's first husband's thirteenth child?
+Answer:
+Answer: Otto
+Question:what is the name of Elizabeth Of Carinthia's first husband's first daughter?
+Answer:
+Answer: Agnes
+Question:what is the name of Elizabeth Of Carinthia's first husband's second daughter?
+Answer:
+Answer: Elisabeth
+Question:what is the name of Elizabeth Of Carinthia's first husband's third daughter?
+Answer:
+Answer: Catherine
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth daughter?
+Answer:
+Answer: Jutta
+Question:what is the name of Elizabeth Of Carinthia's first husband's first son?
+Answer:
+Answer: Rudolf III
+Question:what is the name of Elizabeth Of Carinthia's first husband's second son?
+Answer:
+Answer: Frederick I
+Question:what is the name of Elizabeth Of Carinthia's first husband's third son?
+Answer:
+Answer: Leopold I
+Question:what is the name of Elizabeth Of Carinthia's first husband's fourth son?
+Answer:
+Answer: Henry the Gentle
+Question:what is the name of Elizabeth",['England'],2.763932466506958,0.11826430086512119,242.2052881717682,17030,2048,True,
+1,0.0,0.0,0.0,0.0,0.0,"Henry II, Duke of Bavaria.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.
+Question:who is Jenny Marx's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Karl Marx's father-in-law?
+Answer:
+Ludwig von Westphalen.
+Question:who is Jenny von Westphalen's father-in-law?
+Answer:
+Heinrich Marx.
+Question:who is Robert Burns's father-in-law?
+Answer:
+James Armour.
+Question:who is Jean Armour's father-in-law?
+Answer:
+James Armour.",['Géza'],2.711653232574463,0.11876757792197168,243.235999584198,17082,2048,True,
+2,0.6666666666666666,1.0,0.5,0.6666666666666666,0.6666666666666666,Goring-on-Thames.,"['Goring-on-Thames, Oxfordshire']",2.6853599548339844,0.02177793639046805,0.15244555473327637,17102,7,True,
+3,0.0,0.0,0.0,0.0,0.0,"Fay Wray
+Question:who is the spouse of the director of film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray is the spouse of the director of the film Ann Carver's Profession.
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay Wray
+Question:who is the spouse of the director of the film Ann Carver's Profession?
+Answer:
+Answer: Fay",['Ona Munson'],2.5500986576080322,0.11929409904405475,244.31431484222412,16409,2048,True,
+4,1.0,1.0,1.0,1.0,1.0,"Vienna.
+Question:where was the place of death of the composer of the original Star Trek series theme?
+Answer:
+Pacific Palisades.",['Vienna'],2.6758530139923096,0.02496069053123737,0.7238600254058838,16768,29,True,
+5,1.0,1.0,1.0,1.0,1.0,"Yes.
+Answer: Yes. 
+
+Question: What is the name of the film that is the 23rd release in the series of 31 Carry On films?
+Answer: Carry On Matron.
+Answer: Carry On Matron. 
+
+Question: What is the name of the film that is the 30th release in the series of 31 Carry On films?
+Answer: Carry On Emmannuelle.
+Answer: Carry On Emmannuelle. 
+
+Question: What is the name of the film that is the 19th release in the series of 31 Carry On films?
+Answer: Carry On Up the Jungle.
+Answer: Carry On Up the Jungle. 
+
+Question: What is the name of the film that is the 14th release in the series of 31 Carry On films?
+Answer: Follow That Camel.
+Answer: Follow That Camel. 
+
+Question: What is the name of the film that is the 6th release in the series of 31 Carry On films?
+Answer: Carry On Cruising.
+Answer: Carry On Cruising. 
+
+Question: What is the name of the film that is the 24th release in the series of 31 Carry On films?
+Answer: Carry On Abroad.
+Answer: Carry On Abroad. 
+
+Question: What is the name of the film that is the 26th release in the series of 31 Carry On films?
+Answer: Carry On Dick.
+Answer: Carry On Dick. 
+
+Question: What is the name of the film that is the 10th release in the series of 31 Carry On films?
+Answer: Carry On Cleo.
+Answer: Carry On Cleo. 
+
+Question: What is the name of the film that is the 8th release in the series of 31 Carry On films?
+Answer: Carry On Jack.
+Answer: Carry On Jack. 
+
+Question: What is the name of the film that is the 2nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Nurse. 
+
+Question: What is the name of the film that is the 3rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Behind. 
+
+Question: What is the name of the film that is the 4th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On University. 
+
+Question: What is the name of the film that is the 5th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Sailing. 
+
+Question: What is the name of the film that is the 7th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Spying. 
+
+Question: What is the name of the film that is the 9th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Sergeant. 
+
+Question: What is the name of the film that is the 11th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Cabby. 
+
+Question: What is the name of the film that is the 12th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Girls. 
+
+Question: What is the name of the film that is the 13th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Don't Lose Your Head. 
+
+Question: What is the name of the film that is the 15th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Doctor. 
+
+Question: What is the name of the film that is the 16th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Again Doctor. 
+
+Question: What is the name of the film that is the 17th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Nurse. 
+
+Question: What is the name of the film that is the 18th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Loving. 
+
+Question: What is the name of the film that is the 20th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Behind. 
+
+Question: What is the name of the film that is the 21st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On At Your Convenience. 
+
+Question: What is the name of the film that is the 22nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On London. 
+
+Question: What is the name of the film that is the 25th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On England. 
+
+Question: What is the name of the film that is the 27th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Girls. 
+
+Question: What is the name of the film that is the 28th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Behind. 
+
+Question: What is the name of the film that is the 29th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Columbus. 
+
+Question: What is the name of the film that is the 31st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Forever. 
+
+Question: What is the name of the film that is the 1st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Carry On Laughing. 
+
+Question: What is the name of the film that is the 32nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 33rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 34th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 35th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 36th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 37th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 38th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 39th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 40th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 41st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 42nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 43rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 44th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 45th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 46th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 47th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 48th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 49th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 50th release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 51st release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 52nd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is the name of the film that is the 53rd release in the series of 31 Carry On films?
+Answer: 
+
+Answer: Not applicable. 
+
+Question: What is",['yes'],2.6054534912109375,0.13346278097014874,273.3317754268646,16503,2048,True,
+6,1.0,1.0,1.0,1.0,1.0,"27 June 1839
+Question:what is the name of the mother of Duleep Singh?
+Answer:
+Answer: Jind Kaur
+Question:what is the name of the wife of Thomas Scott?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Bamba Müller?
+Answer:
+Answer: Ludwig Müller
+Question:what is the name of the mother of Bamba Müller?
+Answer:
+Answer: Sofia
+Question:what is the name of the wife of Duleep Singh?
+Answer:
+Answer: Bamba Müller
+Question:what is the name of the mother of Frederick Duleep Singh?
+Answer:
+Answer: Bamba Müller
+Question:what is the name of the father of Frederick Duleep Singh?
+Answer:
+Answer: Sir Duleep Singh
+Question:what is the name of the mother of Victor Duleep Singh?
+Answer:
+Answer: Bamba Müller
+Question:what is the name of the father of Victor Duleep Singh?
+Answer:
+Answer: Sir Duleep Singh
+Question:what is the name of the mother of Thomas Scott?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Thomas Scott?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Theodred II?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Theodred II?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Bill Smith?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Bill Smith?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Etan Boritzer?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Etan Boritzer?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh?
+Answer:
+Answer: Raj Kaur
+Question:what is the name of the father of Ranjit Singh?
+Answer:
+Answer: Maha Singh
+Question:what is the name of the mother of Ranjit Singh's father?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's father?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's mother?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's mother?
+Answer:
+Answer: Gajpat Singh
+Question:what is the name of the mother of Ranjit Singh's first wife?
+Answer:
+Answer: Sada Kaur
+Question:what is the name of the father of Ranjit Singh's first wife?
+Answer:
+Answer: Gurbaksh Singh Kanhaiya
+Question:what is the name of the mother of Ranjit Singh's second wife?
+Answer:
+Answer: Karmo Kaur
+Question:what is the name of the father of Ranjit Singh's second wife?
+Answer:
+Answer: Ran Singh Nakai
+Question:what is the name of the mother of Ranjit Singh's third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's third wife?
+Answer:
+Answer: Sahib Singh Bhangi
+Question:what is the name of the mother of Ranjit Singh's fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fourth wife?
+Answer:
+Answer: Sahib Singh Bhangi
+Question:what is the name of the mother of Ranjit Singh's fifth wife?
+Answer:
+Answer: Manna Singh Aulakh
+Question:what is the name of the father of Ranjit Singh's fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's tenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's tenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's eleventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's eleventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twelfth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twelfth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's thirteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's fourteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fourteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's fifteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's fifteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's sixteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's sixteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's seventeenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's seventeenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's eighteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's eighteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's nineteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's nineteenth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twentieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twentieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-second wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-second wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-third wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-fourth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-fifth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-sixth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-seventh wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-eighth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's twenty-ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's twenty-ninth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirtieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's thirtieth wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the father of Ranjit Singh's thirty-first wife?
+Answer:
+Answer: unknown
+Question:what is the name of the mother of Ranjit Singh's thirty-second wife?
+Answer:
+Answer:",['27 June 1839'],2.507390260696411,0.13463252282235771,275.7274067401886,16015,2048,True,
+7,0.0,0.0,0.0,0.0,0.0,"Lincoln
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer:
+Answer:
+Lincoln
+
+Question:where did Mary Of Woodstock's mother die?
+Answer",['Harby'],2.3111181259155273,0.14085317472927272,288.46730184555054,14785,2048,True,
+8,0.0,0.0,0.0,0.0,1.0,"No.
+Question:who is the director of the film La Morte Vivante?
+Answer: Jean Rollin.
+Question:who is the director of the film Stranger on Horseback?
+Answer: Jacques Tourneur.
+Question:is the director of the film La Morte Vivante born in the same country as the director of the film Stranger on Horseback?
+Answer: Yes.
+Question:is the director of the film La Morte Vivante born in the same city as the director of the film Stranger on Horseback?
+Answer:
+Answer: No.",['yes'],2.427194356918335,0.05033337120461253,5.687670946121216,15488,113,True,
+9,0.0,0.0,0.0,0.0,0.0,,['Sandra Nelson'],-1.0,,0.0,0,0,False,
+10,0.0,0.0,0.0,0.0,0.0,"Barbara Hale
+
+Question: who is the spouse of the director of film Emergency Wedding?
+Answer:
+Answer: Barbara Hale
+You are an AI assistant that follows instruction extremely well. Help as much as you can.",['Ona Munson'],2.3989503383636475,0.030134045800497365,1.2957639694213867,15264,43,True,
+11,0.0,0.0,0.0,0.0,0.0,,['The House Of The Seven Hawks'],-1.0,,0.0,0,0,False,
+12,0.0,0.0,0.0,0.0,0.0,,['Ivy Duke'],-1.0,,0.0,0,0,False,
+13,0.0,0.0,0.0,0.0,0.0,,"['Perdón, Viejita']",-1.0,,0.0,0,0,False,
+14,0.0,0.0,0.0,0.0,0.0,,['Station For Two'],-1.0,,0.0,0,0,False,
+15,0.0,0.0,0.0,0.0,0.0,,['Saint Petersburg'],-1.0,,0.0,0,0,False,
+16,0.0,0.0,0.0,0.0,0.0,,['London Melody'],-1.0,,0.0,0,0,False,
+17,1.0,1.0,1.0,1.0,1.0,"Gordonsville, Virginia.
+Answer: Gordonsville, Virginia.","['Gordonsville, Virginia']",2.106248617172241,0.037406571706136066,0.561098575592041,13615,15,True,
+18,0.0,0.0,0.0,0.0,0.0,,['Cahiers du cinéma'],-1.0,,0.0,0,0,False,
+19,0.0,0.0,0.0,0.0,0.0,,['1234'],-1.0,,0.0,0,0,False,
+20,0.0,0.0,0.0,0.0,0.0,,['Kingdom of Hawaii'],-1.0,,0.0,0,0,False,
+21,0.0,0.0,0.0,0.0,0.0,,['Hell Up In Harlem'],-1.0,,0.0,0,0,False,
+22,0.0,0.0,0.0,0.0,0.0,,"[""The Wind'S Fierce""]",-1.0,,0.0,0,0,False,
+23,0.0,0.0,0.0,0.0,0.0,,['Ferdinand I of the Two Sicilies'],-1.0,,0.0,0,0,False,
+24,0.0,0.0,0.0,0.0,0.0,,['Fatimid caliphate'],-1.0,,0.0,0,0,False,
+25,0.0,0.0,0.0,0.0,0.0,,['Akkadian empire'],-1.0,,0.0,0,0,False,
+26,0.0,0.0,0.0,0.0,0.0,,['United Kingdom'],-1.0,,0.0,0,0,False,
+27,0.0,0.0,0.0,0.0,0.0,,['Charles Wheatstone'],-1.0,,0.0,0,0,False,
+28,0.0,0.0,0.0,0.0,1.0,,['no'],-1.0,,0.0,0,0,False,
+29,0.0,0.0,0.0,0.0,0.0,,['drowning'],-1.0,,0.0,0,0,False,
+30,0.0,0.0,0.0,0.0,0.0,,['Mangalia'],-1.0,,0.0,0,0,False,
+31,0.0,0.0,0.0,0.0,0.0,,['Jessi Colter'],-1.0,,0.0,0,0,False,
+32,0.0,0.0,0.0,0.0,0.0,,['Cunimund'],-1.0,,0.0,0,0,False,
+33,0.0,0.0,0.0,0.0,0.0,,['Milla'],-1.0,,0.0,0,0,False,
+34,0.0,0.0,0.0,0.0,0.0,,['Crenshaw'],-1.0,,0.0,0,0,False,
+35,0.0,0.0,0.0,0.0,0.0,,['Lee Strasberg Theatre and Film Institute'],-1.0,,0.0,0,0,False,
+36,0.0,0.0,0.0,0.0,0.0,,['Season Of Strangers'],-1.0,,0.0,0,0,False,
+37,0.0,0.0,0.0,0.0,0.0,,['No Trees In The Street'],-1.0,,0.0,0,0,False,
+38,0.0,0.0,0.0,0.0,0.0,,['Changeland'],-1.0,,0.0,0,0,False,
+39,0.0,0.0,0.0,0.0,1.0,,['no'],-1.0,,0.0,0,0,False,
+40,0.0,0.0,0.0,0.0,0.0,,['Lyudmyla Olyanovska'],-1.0,,0.0,0,0,False,
+41,0.0,0.0,0.0,0.0,0.0,,['Monster On The Campus'],-1.0,,0.0,0,0,False,
+42,0.0,0.0,0.0,0.0,0.0,,"['November 3, 1867']",-1.0,,0.0,0,0,False,
+43,0.0,0.0,0.0,0.0,0.0,,['Lee Byung-chul'],-1.0,,0.0,0,0,False,
+44,0.0,0.0,0.0,0.0,0.0,,['25 July 1666'],-1.0,,0.0,0,0,False,
+45,0.0,0.0,0.0,0.0,0.0,,['Johnny Ekström'],-1.0,,0.0,0,0,False,
+46,0.0,0.0,0.0,0.0,0.0,,['Cipriano Castro'],-1.0,,0.0,0,0,False,
+47,0.0,0.0,0.0,0.0,0.0,,['Vasantha Raagam'],-1.0,,0.0,0,0,False,
+48,0.0,0.0,0.0,0.0,0.0,,['Charlotte Amalie of Hesse-Kassel'],-1.0,,0.0,0,0,False,
+49,0.0,0.0,0.0,0.0,1.0,,['yes'],-1.0,,0.0,0,0,False,

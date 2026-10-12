@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 21:22:28,009] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:22:28,010] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 21:22:28,010] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 21:25:45,543] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:25:45,573] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 21:25:48,115] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:25:48,116] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4380390/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4380390.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380390/jieba.cache
+Loading model cost 0.371 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 21:25:48,696] INFO:[0m Summary: 50 requests, average_ttft=0.7107748126983643 (second)
+ average_tpot=0.02258601283677395 (second)
+throughput=0.2513338508382051 (req/s)
+average_quality=0.20671938706903842
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 21:25:48,717] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4380390/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4380390.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

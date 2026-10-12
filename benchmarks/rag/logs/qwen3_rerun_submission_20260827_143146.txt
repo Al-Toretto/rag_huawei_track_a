@@ -1,0 +1,7 @@
+repo_dir=/home/a.tomat/work/LMCache
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+dataset=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+rerun_job_count=15
+sbatch_mem=400G
+dry_run=0

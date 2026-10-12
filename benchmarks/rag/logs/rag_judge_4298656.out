@@ -1,0 +1,15 @@
+node=cn-050
+repo_dir=/home/a.tomat/work/LMCache
+input_file=/home/a.tomat/work/LMCache/benchmarks/rag/results_eval/outputs/qwen3_model_only/judge_input_qwen3_model_only.jsonl
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results_eval/outputs/qwen3_model_only/judge_outputs_qwen3_model_only_smoke.jsonl
+model_name=prometheus-eval/prometheus-7b-v2.0
+judge_conda_env=rag_judge
+hf_local_files_only=1
+python=/home/a.tomat/.conda/envs/rag_judge/bin/python
+torch 2.12.1+cu130
+cuda_available True
+cuda_device NVIDIA H200 NVL
+cuda_total_memory_gb 139.8
+Judge run finished.
+Rows written:
+3 /home/a.tomat/work/LMCache/benchmarks/rag/results_eval/outputs/qwen3_model_only/judge_outputs_qwen3_model_only_smoke.jsonl

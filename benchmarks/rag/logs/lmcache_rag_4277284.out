@@ -1,0 +1,42 @@
+run_name=qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284
+node=cn-051
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_05_no_hkvd_and_layers/margin_only_8.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57284
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37284/health ...
+Server is ready after 445s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-25 23:44:26,181] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-25 23:47:44,588] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-25 23:47:44,608] INFO:[0m Waiting for 40 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-25 23:51:15,642] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-25 23:51:15,642] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-25 23:51:15,663] INFO:[0m Summary: 50 requests, average_ttft=77.27240004062652 (second)
+ average_tpot=0.06568261906978765 (second)
+throughput=0.1226751602280901 (req/s)
+average_quality=0.48036842105263156
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-25 23:51:15,663] INFO:[0m QA metrics: average_f1_word=0.48036842105263156
+average_f1_tokenizer=0.5067479187479187
+average_precision=0.5120238095238094
+average_recall=0.5033333333333334
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-25 23:51:15,697] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__margin_only_8_4277284/benchmark.log

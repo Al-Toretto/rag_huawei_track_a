@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-08 01:33:29,882] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:33:29,883] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 01:33:29,883] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 01:36:48,359] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:36:48,410] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 01:36:49,964] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:36:49,964] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_kv_weighted_k70_v30_4308386/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_kv_weighted_k70_v30_4308386.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 01:36:49,976] INFO:[0m Summary: 50 requests, average_ttft=1.5608369493484497 (second)
+ average_tpot=0.00755501373608907 (second)
+throughput=0.25221270329719264 (req/s)
+average_quality=0.35666666666666663
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 01:36:49,976] INFO:[0m QA metrics: average_f1_word=0.35666666666666663
+average_f1_tokenizer=0.43256816283132077
+average_precision=0.37333333333333335
+average_recall=0.35
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-08 01:36:49,985] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_kv_weighted_k70_v30_4308386/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_kv_weighted_k70_v30_4308386.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

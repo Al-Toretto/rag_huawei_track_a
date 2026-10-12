@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 19:59:45,210] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 19:59:45,210] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 19:59:45,210] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 20:03:02,773] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 20:03:02,801] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 20:03:04,760] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 20:03:04,761] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_4380353/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_4380353.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380353/jieba.cache
+Loading model cost 0.315 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 20:03:05,270] INFO:[0m Summary: 50 requests, average_ttft=1.3277574825286864 (second)
+ average_tpot=0.024326749161284543 (second)
+throughput=0.2520822025365113 (req/s)
+average_quality=0.2311224111963559
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 20:03:05,294] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_4380353/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_4380353.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

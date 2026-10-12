@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-07 17:23:33,149] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 17:23:33,149] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-07 17:23:33,149] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-07 17:26:50,963] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 17:26:50,982] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-07 17:26:51,292] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 17:26:51,292] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4308351/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4308351.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-07 17:26:51,318] INFO:[0m Summary: 50 requests, average_ttft=0.48180686950683593 (second)
+ average_tpot=0.00927991365465363 (second)
+throughput=0.2541374402880438 (req/s)
+average_quality=0.35338095238095235
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-07 17:26:51,318] INFO:[0m QA metrics: average_f1_word=0.35338095238095235
+average_f1_tokenizer=0.3816326958936067
+average_precision=0.36166666666666664
+average_recall=0.37666666666666665
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-07 17:26:51,349] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4308351/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__separator_margin_16_4308351.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

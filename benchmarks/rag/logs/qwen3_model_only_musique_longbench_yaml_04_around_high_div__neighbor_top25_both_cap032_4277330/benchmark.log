@@ -1,0 +1,19 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-26 09:37:54,703] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 09:41:13,235] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 09:41:13,286] INFO:[0m Waiting for 49 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-26 09:56:32,770] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 09:56:32,771] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_04_around_high_div__neighbor_top25_both_cap032_4277330/qwen3_model_only_musique_longbench_yaml_04_around_high_div__neighbor_top25_both_cap032_4277330.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-26 09:56:33,521] INFO:[0m Summary: 50 requests, average_ttft=369.4137245416641 (second)
+ average_tpot=0.14732908793425945 (second)
+throughput=0.04479602237760345 (req/s)
+average_quality=0.408
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-26 09:56:33,521] INFO:[0m QA metrics: average_f1_word=0.408
+average_f1_tokenizer=0.4407706766917293
+average_precision=0.4453333333333333
+average_recall=0.39257142857142857
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-26 09:56:33,718] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_04_around_high_div__neighbor_top25_both_cap032_4277330/qwen3_model_only_musique_longbench_yaml_04_around_high_div__neighbor_top25_both_cap032_4277330.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

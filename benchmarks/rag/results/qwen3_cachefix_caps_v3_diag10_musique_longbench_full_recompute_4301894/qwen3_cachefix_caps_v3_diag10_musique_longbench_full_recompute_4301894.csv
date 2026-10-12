@@ -1,0 +1,18 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message
+0,1.0,1.0,1.0,1.0,1.0,"1 January 1986
+The answer is: 1 January 1986.",['1 January 1986'],2.5266263484954834,0.019728909368100372,0.4537649154663086,17035,23,True,
+1,0.0,0.0,0.0,0.0,0.0,Poland,['Lech Wałęsa'],2.450610399246216,0.011451542377471924,0.045806169509887695,16810,4,True,
+2,1.0,1.0,1.0,1.0,1.0,"1572.
+Margaret May Fish was born September 3, 1871, in Chicago, Illinois, the eldest of three daughters",['1572'],2.553766965866089,0.017624549567699432,0.5639855861663818,16686,32,True,
+3,0.0,0.0,0.0,0.0,0.0,Answer: Bobby Brown does not appear in The Wire,['a Western District uniformed officer'],2.436492443084717,0.017104350603543796,0.22235655784606934,16551,13,True,
+4,0.0,0.0,0.0,0.0,0.18181818181818182,1946,['January 2015'],2.6644883155822754,0.0028463900089263916,0.022771120071411133,17384,8,True,
+5,0.0,0.0,0.0,0.0,0.0,Maasmond,['Het Scheur'],2.477003335952759,0.011275013287862143,0.06765007972717285,16773,6,True,
+6,1.0,1.0,1.0,1.0,1.0,Keturah,['Keturah'],2.4591033458709717,0.007562518119812012,0.04537510871887207,16560,6,True,
+7,0.0,0.0,0.0,0.0,0.0,Red Hood,"['Nightwing / Dick Grayson', 'Nightwing', 'Dick Grayson', 'Batman', 'Robin']",2.4671452045440674,0.013621044158935548,0.06810522079467773,16827,5,True,
+8,0.0,0.0,0.0,0.0,0.0,"Xanana Gusmão
+Answer: Xanana Gusmão
+
+Answer: Xanana Gusmão
+
+Answer: Xanana Gusm",['Francisco Guterres'],2.540095806121826,0.01948818564414978,0.623621940612793,16930,32,True,
+9,0.0,0.0,0.0,0.0,0.20000000000000004,"$70,784","['$59,039']",2.6596546173095703,0.00447852611541748,0.044785261154174805,17136,10,True,

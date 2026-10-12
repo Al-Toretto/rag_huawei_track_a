@@ -1,0 +1,25 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 16:36:42,691] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 16:36:42,691] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 16:36:42,691] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 16:39:59,681] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 16:39:59,688] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 16:40:00,457] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 16:40:00,457] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_yaml_04_around_high_div__neighbor_top50_both_cap032_4380306/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_yaml_04_around_high_div__neighbor_top50_both_cap032_4380306.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380306/jieba.cache
+Loading model cost 0.339 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 16:40:00,818] INFO:[0m Summary: 50 requests, average_ttft=0.7689216947555542 (second)
+ average_tpot=0.010124650388879185 (second)
+throughput=0.25379288269831457 (req/s)
+average_quality=0.5541690335390492
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 16:40:00,818] INFO:[0m QA metrics: average_f1_word=0.5541690335390492
+average_f1_tokenizer=0.5887078624927965
+average_precision=0.5382418939538085
+average_recall=0.7445076677708257
+ [3m(rag.py:648:__main__)[0m
+[32;20m[2026-10-06 16:40:00,827] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_yaml_04_around_high_div__neighbor_top50_both_cap032_4380306/qwen3_chat_nothink_zh_v1_seed42_multifieldqa_zh_longbench_yaml_04_around_high_div__neighbor_top50_both_cap032_4380306.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json

@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 21:20:03,948] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:20:03,949] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 21:20:03,949] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 21:23:21,972] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:23:22,002] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 21:23:23,566] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:23:23,567] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4380387/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4380387.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380387/jieba.cache
+Loading model cost 0.361 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 21:23:24,095] INFO:[0m Summary: 50 requests, average_ttft=0.5705509519577027 (second)
+ average_tpot=0.0216563778139085 (second)
+throughput=0.252292791793268 (req/s)
+average_quality=0.22883099376709432
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 21:23:24,112] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4380387/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4380387.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

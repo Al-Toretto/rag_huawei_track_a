@@ -1,0 +1,53 @@
+run_name=qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338
+node=cn-051
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_04_around_high_div/plain_ratio_100.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=48338
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=32
+sampling_temperature=0.7
+sampling_top_p=0.8
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+chat_template_mode=qwen-non-thinking
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:28338/health ...
+Server is ready after 220s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-07 15:54:45,035] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 15:54:45,035] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-07 15:54:45,035] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-07 15:58:03,172] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 15:58:03,190] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-07 15:58:04,750] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 15:58:04,750] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-07 15:58:04,760] INFO:[0m Summary: 50 requests, average_ttft=3.3626035547256468 (second)
+ average_tpot=0.021548456226764476 (second)
+throughput=0.25246031409266595 (req/s)
+average_quality=0.5076666666666667
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-07 15:58:04,760] INFO:[0m QA metrics: average_f1_word=0.5076666666666667
+average_f1_tokenizer=0.519011877011877
+average_precision=0.5416666666666666
+average_recall=0.5033333333333334
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-07 15:58:04,768] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__plain_ratio_100_4308338/benchmark.log

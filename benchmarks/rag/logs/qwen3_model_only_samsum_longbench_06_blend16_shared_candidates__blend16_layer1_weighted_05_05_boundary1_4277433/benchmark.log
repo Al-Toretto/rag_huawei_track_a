@@ -1,0 +1,14 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 48 for model Qwen/Qwen3-32B
+[1m[2026-08-27 06:54:04,775] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-27 06:57:14,867] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-27 06:57:14,904] INFO:[0m Waiting for 32 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-27 07:00:19,189] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-27 07:00:19,190] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4277433/qwen3_model_only_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4277433.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-27 07:00:19,575] INFO:[0m Summary: 48 requests, average_ttft=62.97018025815487 (second)
+ average_tpot=0.06081354253896876 (second)
+throughput=0.12872133843379732 (req/s)
+average_quality=0.11198472879071424
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-27 07:00:19,611] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4277433/qwen3_model_only_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4277433.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json

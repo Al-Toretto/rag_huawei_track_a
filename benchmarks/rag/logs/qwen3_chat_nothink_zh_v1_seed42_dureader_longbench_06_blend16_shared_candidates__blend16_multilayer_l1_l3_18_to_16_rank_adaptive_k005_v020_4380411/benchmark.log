@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 22:24:16,646] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:24:16,647] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 22:24:16,647] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 22:27:34,326] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:27:34,357] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 22:27:36,429] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:27:36,430] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_4380411/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_4380411.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380411/jieba.cache
+Loading model cost 0.318 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 22:27:36,929] INFO:[0m Summary: 50 requests, average_ttft=1.3424356174468994 (second)
+ average_tpot=0.024133713871888764 (second)
+throughput=0.251773350574464 (req/s)
+average_quality=0.23094721903322163
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 22:27:36,968] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_4380411/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_4380411.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

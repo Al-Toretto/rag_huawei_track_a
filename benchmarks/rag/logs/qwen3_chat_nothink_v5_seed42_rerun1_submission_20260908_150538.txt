@@ -1,0 +1,15 @@
+repo_dir=/home/a.tomat/work/LMCache
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+dataset=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+rerun_job_count=3
+serial=1
+dry_run=0
+sampling_temperature=0.7
+sampling_top_p=0.8
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+chat_template_mode=qwen-non-thinking
+SUBMITTED	job_id=4312305	experiment=qwen3_chat_nothink_v5_seed42_rerun1_2wikimqa_longbench_lmcache_blend	config=/home/a.tomat/work/LMCache/benchmarks/rag/lmcache_blend.yaml
+SUBMITTED	job_id=4312306	experiment=qwen3_chat_nothink_v5_seed42_rerun1_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040	config=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_03_bound_and_mix/lmcache_blend_adaptive_weighted_k015_v040.yaml
+SUBMITTED	job_id=4312307	experiment=qwen3_chat_nothink_v5_seed42_rerun1_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted	config=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_03_bound_and_mix/lmcache_blend_adaptive_weighted.yaml

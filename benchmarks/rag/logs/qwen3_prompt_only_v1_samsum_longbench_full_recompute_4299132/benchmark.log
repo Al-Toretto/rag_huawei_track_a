@@ -1,0 +1,15 @@
+[1m[2026-09-02 22:53:14,356] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-09-02 22:53:14,356] INFO:[0m Warming up the engine [3m(rag.py:303:__main__)[0m
+[32;20m[2026-09-02 22:53:14,746] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-02 22:53:17,069] INFO:[0m Warm up finished. [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-02 22:53:33,663] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-09-02 22:53:33,712] INFO:[0m Waiting for 3 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-02 22:54:23,195] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-09-02 22:54:23,196] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_prompt_only_v1_samsum_longbench_full_recompute_4299132/qwen3_prompt_only_v1_samsum_longbench_full_recompute_4299132.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-09-02 22:54:23,206] INFO:[0m Summary: 5 requests, average_ttft=2.6203792572021483 (second)
+ average_tpot=0.03513213642316329 (second)
+throughput=0.07619871198265978 (req/s)
+average_quality=0.41396663532689615
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-09-02 22:54:23,228] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_prompt_only_v1_samsum_longbench_full_recompute_4299132/qwen3_prompt_only_v1_samsum_longbench_full_recompute_4299132.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json

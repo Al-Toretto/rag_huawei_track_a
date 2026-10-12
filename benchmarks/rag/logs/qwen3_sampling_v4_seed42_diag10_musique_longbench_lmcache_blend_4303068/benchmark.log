@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 10 for model Qwen/Qwen3-32B
+[1m[2026-09-04 12:31:06,192] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:31:06,192] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:31:06,193] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:31:42,962] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:31:43,014] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:31:45,576] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:31:45,576] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_lmcache_blend_4303068/qwen3_sampling_v4_seed42_diag10_musique_longbench_lmcache_blend_4303068.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:31:45,581] INFO:[0m Summary: 10 requests, average_ttft=1.6534349918365479 (second)
+ average_tpot=0.01621295283238093 (second)
+throughput=0.2581367686971946 (req/s)
+average_quality=0.3
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:31:45,581] INFO:[0m QA metrics: average_f1_word=0.3
+average_f1_tokenizer=0.3181818181818182
+average_precision=0.3
+average_recall=0.3
+ [3m(rag.py:615:__main__)[0m
+[32;20m[2026-09-04 12:31:45,621] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_lmcache_blend_4303068/qwen3_sampling_v4_seed42_diag10_musique_longbench_lmcache_blend_4303068.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

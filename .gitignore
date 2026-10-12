@@ -1,0 +1,173 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+durations/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Vim temporary files
+.*.sw*
+
+# misc
+outdated/
+perf-test.py
+*.prof
+*.so
+.ycm_extra_conf.py
+
+# temp tests
+lmcache/experimental/tests
+
+# example
+/examples/example_local.yaml
+/examples/openai_chat_completion_client_local.py
+/lmcache/experimental/examples
+/examples/debug
+/examples/p2p/bash.sh
+
+# example output
+*/offline_inference_outputs.jsonl
+/examples/offline_inference/offline_inference_outputs.jsonl
+/examples/save_decode_cache/offline_inference_outputs.jsonl
+/examples/offline_inference/buggy_example.py
+/examples/test_example
+
+# benchmark results
+
+
+# disk cache
+/remote_disk
+/local_disk
+/tests/local_disk
+/tests/remote_disk
+*.pt
+
+# random scripts
+/misc_scripts
+
+# nvtx profile report
+*.nsys-rep
+*.sqlite
+
+# docs/build
+/docs/build/
+/docs/build.sh
+/docs/output/
+
+/try
+
+# reference kernels
+/csrc/temp.cu
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Setuptools scm version
+/lmcache/_version.py
+
+# Generated hip files
+/csrc_hip
+/csrc/*.hip
+/csrc/*_hip.cuh
+/csrc/*_hip.cpp
+
+# Ignore all log files
+*.log
+
+# uv
+uv.lock
+
+# Coding agent instructions
+CLAUDE.md
+GEMINI.md
+COPILOT.md
+CURSOR.md
+AIDER.md
+
+# Operator build artifacts
+operator/bin/
+operator/dist/
+operator/cover.out
+operator/coverage.html
+operator/Dockerfile.cross
+
+# Phase 2 delivery: retain measurement completion records, omit local artifacts.
+.venv*/
+.mypy_cache/
+.ruff_cache/
+.agents/
+.codex
+**/AGENTS.md
+**/AI_CONTEXT*
+**/ai_context*
+/CLUSTER_HANDOFF.md
+/benchmarks/rag/script.txt
+/benchmarks/rag/results_eval/deep_research_judge_prompt.md
+/benchmarks/rag/docs/
+*.pdf
+*.docx
+*.pptx
+*.tex
+*.debug.csv
+!benchmarks/rag/logs/**/benchmark.log
+!benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_lmcache_blend_4308312/server.log
+!benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_4308314/server.log
+!benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4308313/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap020_adaptive_k005_v020_4277295/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_rank_adaptive_k005_v025_boundary1_4277301/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4277302/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_boundary_2_4277252/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_kv_sum_4277254/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_03_bound_and_mix__lmcache_blend_weighted_10_10_4277258/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_04_around_high_div__neighbor_top50_both_cap032_4277267/server.log
+!benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_yaml_04_around_high_div__neighbor_top50_right_cap024_4277269/server.log

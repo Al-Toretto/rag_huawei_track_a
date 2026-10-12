@@ -1,0 +1,37 @@
+run_name=qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_03_bound_and_mix/lmcache_blend_adaptive_weighted_k015_v040.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57378
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37378/health ...
+Server is ready after 315s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 48 for model Qwen/Qwen3-32B
+[1m[2026-08-26 23:42:33,006] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 23:45:42,967] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 23:45:43,004] INFO:[0m Waiting for 31 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-26 23:51:05,329] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 23:51:05,329] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-26 23:51:05,668] INFO:[0m Summary: 48 requests, average_ttft=83.47141079107921 (second)
+ average_tpot=0.0865499952062994 (second)
+throughput=0.09394966619458739 (req/s)
+average_quality=0.13864406631870477
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-26 23:51:05,680] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_03_bound_and_mix__lmcache_blend_adaptive_weighted_k015_v040_4277378/benchmark.log

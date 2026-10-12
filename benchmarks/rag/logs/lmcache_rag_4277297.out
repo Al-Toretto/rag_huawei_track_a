@@ -1,0 +1,42 @@
+run_name=qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/06_blend16_shared_candidates/blend16_layer1_neighbor_top50_right_cap024_weighted10.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57297
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37297/health ...
+Server is ready after 205s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-26 00:17:02,277] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 00:20:20,170] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 00:20:20,189] INFO:[0m Waiting for 40 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-26 00:23:33,532] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 00:23:33,533] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-26 00:23:33,554] INFO:[0m Summary: 50 requests, average_ttft=64.25397700309753 (second)
+ average_tpot=0.05809529879060233 (second)
+throughput=0.12827953240700138 (req/s)
+average_quality=0.4996666666666667
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-26 00:23:33,554] INFO:[0m QA metrics: average_f1_word=0.4996666666666667
+average_f1_tokenizer=0.5257955377955378
+average_precision=0.5316666666666666
+average_recall=0.5033333333333334
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-26 00:23:33,566] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277297/benchmark.log

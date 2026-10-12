@@ -1,0 +1,133 @@
+Dataset	Experiment	Score Metric	Score	Precision	Recall	Judge Score (0-1)	Judge Correct %	Judge Mostly %	Judge Incorrect %	TTFT(s)	TPOT(s)	Throughput(req/s)	QPS	Run Status	Judge Note	Group
+MuSiQue (LongBench)	Full Recompute	F1	29.99	22.26	41.44	0.485	24.0	30.0	40.0	2.279	0.025	0.251	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) layer 0	F1	28.75	21.33	36.77	0.505	28.0	28.0	40.0	1.882	0.024	0.251	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) layer 1	F1	28.75	21.33	36.77	0.505	28.0	28.0	40.0	1.566	0.024	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) layer 1 margin tokens 1	F1	28.67	20.34	35.57	0.525	30.0	28.0	38.0	1.567	0.024	0.241	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) layer 1 margin tokens 2	F1	26.89	18.53	35.57	0.495	26.0	28.0	40.0	1.569	0.022	0.243	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) layer 1 margin tokens 3	F1	28.72	21.31	36.57	0.480	26.0	26.0	42.0	1.573	0.023	0.240	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) weighted 50-50	F1	22.37	15.32	32.87	0.445	28.0	20.0	46.0	1.567	0.024	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) weighted 30-30	F1	28.65	21.60	35.67	0.530	28.0	28.0	34.0	1.565	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) weighted 20-20	F1	27.65	21.33	37.00	0.500	30.0	24.0	40.0	1.571	0.024	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) weighted 10-10	F1	29.29	22.78	38.67	0.525	28.0	30.0	36.0	1.561	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) weighted K0-V20	F1	31.61	24.01	36.74	0.480	28.0	24.0	42.0	1.564	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) adaptive weights K0-20, V0-20	F1	32.97	26.73	37.17	0.500	32.0	20.0	40.0	1.580	0.023	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (16%) adaptive weights K0-15, V0-40	F1	34.53	27.13	39.17	0.510	34.0	20.0	40.0	1.578	0.023	0.211	0.25	OK		Old
+MuSiQue (LongBench)	SELECTOR K+V	F1	26.19	18.59	35.77	0.510	24.0	34.0	38.0	1.557	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	SELECTOR V	F1	26.78	20.62	33.67	0.480	26.0	26.0	42.0	1.561	0.023	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (20%) layer 1	F1	27.05	19.81	34.87	0.490	28.0	26.0	42.0	1.698	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (24%) layer 1	F1	28.12	20.38	36.07	0.465	26.0	24.0	44.0	1.816	0.023	0.252	0.25	OK		Old
+MuSiQue (LongBench)	Blend (32%) layer 1	F1	31.22	22.47	39.97	0.490	26.0	30.0	42.0	2.038	0.022	0.251	0.25	OK		Old
+MuSiQue (LongBench)	Blend (100%) layer 1	F1	30.15	22.26	41.44	0.485	24.0	30.0	40.0	2.466	0.027	0.250	0.25	OK		Old
+MuSiQue (LongBench)	neighbor top25 both cap024	F1	27.52	19.86	36.57	0.490	28.0	26.0	42.0	1.589	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	neighbor top50 both cap024	F1	27.30	19.08	38.24	0.485	26.0	28.0	42.0	1.685	0.023	0.241	0.25	OK		Old
+MuSiQue (LongBench)	neighbor top50 left cap024	F1	27.29	19.62	36.77	0.510	24.0	34.0	38.0	1.622	0.022	0.252	0.25	OK		Old
+MuSiQue (LongBench)	neighbor top50 right cap024	F1	28.36	20.86	36.24	0.520	28.0	30.0	38.0	1.619	0.024	0.252	0.25	OK		Old
+MuSiQue (LongBench)	neighbor top25 both cap032	F1	27.52	19.86	36.57	0.495	26.0	28.0	40.0	1.594	0.024	0.252	0.25	OK		Old
+MuSiQue (LongBench)	neighbor top50 both cap032	F1	27.59	19.69	37.24	0.465	24.0	28.0	44.0	1.684	0.024	0.251	0.25	OK		Old
+MuSiQue (LongBench)	neighbor all cap048	F1	27.05	20.80	35.24	0.445	24.0	24.0	46.0	1.899	0.024	0.251	0.25	OK		Old
+MuSiQue (LongBench)	close gap cap24	F1	27.59	19.84	36.00	0.480	24.0	30.0	42.0	1.637	0.023	0.252	0.25	OK		Old
+MuSiQue (LongBench)	close gap2 cap24	F1	27.57	19.64	36.20	0.455	22.0	28.0	44.0	1.724	0.022	0.251	0.25	OK		Old
+MuSiQue (LongBench)	close gap2 cap32	F1	27.57	19.64	36.20	0.455	22.0	28.0	44.0	1.721	0.022	0.251	0.25	OK		Old
+MuSiQue (LongBench)	05 Full Recompute	F1	30.56	22.39	41.44	0.470	24.0	28.0	42.0	2.254	0.023	0.251	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 no recompute	F1	22.21	15.98	29.42	0.474	24.5	30.6	44.9	1.082	0.023	0.253	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 separator only	F1	23.53	16.44	29.16	0.434	22.4	26.5	46.9	1.545	0.024	0.253	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 margin only 2	F1	19.84	14.12	26.90	0.360	22.0	18.0	58.0	1.344	0.022	0.210	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 margin only 4	F1	21.86	16.52	27.03	0.395	26.0	16.0	54.0	1.269	0.022	0.208	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 margin only 8	F1	21.92	14.80	25.62	0.395	22.0	22.0	52.0	1.202	0.022	0.211	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 margin only 16	F1	21.57	15.51	26.47	0.390	22.0	22.0	54.0	1.202	0.022	0.253	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 separator + margin 2	F1	25.40	18.35	30.80	0.370	26.0	14.0	58.0	1.281	0.023	0.211	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 separator + margin 4	F1	29.67	22.75	34.16	0.455	32.0	14.0	46.0	1.247	0.022	0.253	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 separator + margin 8	F1	30.40	22.54	34.49	0.425	30.0	16.0	52.0	1.193	0.023	0.253	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 separator + margin 16	F1	21.47	15.95	30.43	0.370	22.0	16.0	54.0	1.208	0.022	0.253	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 Blend (16%) layer 0	F1	21.80	14.81	30.96	0.413	24.5	18.4	49.0	1.562	0.022	0.252	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 Blend (16%) layer 2	F1	28.42	21.59	38.87	0.530	32.0	26.0	38.0	1.589	0.022	0.252	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 Blend (16%) layer 3	F1	27.19	19.23	39.06	0.515	36.7	18.4	42.9	1.611	0.023	0.252	0.25	OK		YAML 05
+MuSiQue (LongBench)	05 Blend 16% layer 1 then 100% layer 5	F1	28.75	21.33	36.77	0.505	28.0	26.0	38.0	1.572	0.022	0.252	0.25	OK		YAML 05
+2WikiMQA (LongBench)	Full Recompute	F1	42.84	40.01	66.33	0.740	54.0	26.0	18.0	1.628	0.022	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) layer 0	F1	51.75	48.25	64.17	0.689	59.2	12.2	26.5	1.209	0.022	0.209	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) layer 1	F1	51.67	48.19	62.17	0.689	59.2	12.2	26.5	1.029	0.021	0.210	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) layer 1 margin tokens 1	F1	51.98	48.58	64.17	0.675	58.0	12.0	28.0	1.029	0.021	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) layer 1 margin tokens 2	F1	51.67	48.19	62.17	0.689	59.2	12.2	26.5	1.008	0.022	0.208	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) layer 1 margin tokens 3	F1	51.98	48.58	64.17	0.675	58.0	12.0	28.0	1.017	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) weighted 50-50	F1	27.79	24.73	46.80	0.585	46.0	16.0	36.0	1.023	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) weighted 30-30	F1	39.68	34.70	52.97	0.640	52.0	16.0	32.0	1.035	0.021	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) weighted 20-20	F1	44.34	40.64	58.17	0.645	54.0	14.0	32.0	1.008	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) weighted 10-10	F1	50.76	47.33	63.17	0.700	58.0	16.0	26.0	1.006	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) weighted K0-V20	F1	46.18	42.66	58.17	0.655	56.0	12.0	30.0	1.009	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) adaptive weights K0-20, V0-20	F1	46.81	43.24	58.17	0.655	56.0	12.0	30.0	1.038	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (16%) adaptive weights K0-15, V0-40	F1	47.05	44.98	55.67	0.640	56.0	10.0	32.0	1.039	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	SELECTOR K+V	F1	52.06	49.98	60.00	0.685	60.0	10.0	26.0	1.012	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	SELECTOR V	F1	53.20	49.19	63.50	0.695	58.0	14.0	24.0	1.026	0.022	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (20%) layer 1	F1	52.61	48.72	64.17	0.700	56.0	18.0	24.0	1.093	0.022	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (24%) layer 1	F1	53.11	49.12	64.83	0.710	58.0	16.0	22.0	1.175	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (32%) layer 1	F1	53.92	49.50	66.33	0.725	58.0	18.0	20.0	1.378	0.021	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	Blend (100%) layer 1	F1	44.11	41.18	68.33	0.730	58.0	18.0	18.0	1.857	0.021	0.252	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor top25 both cap024	F1	51.90	48.52	62.17	0.675	56.0	14.0	26.0	1.036	0.022	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor top50 both cap024	F1	49.69	46.21	59.67	0.660	56.0	12.0	28.0	1.086	0.021	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor top50 left cap024	F1	49.22	46.58	58.67	0.655	54.0	14.0	28.0	1.041	0.021	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor top50 right cap024	F1	52.24	49.98	60.67	0.694	59.2	12.2	24.5	1.052	0.021	0.210	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor top25 both cap032	F1	51.90	48.52	62.17	0.675	56.0	14.0	26.0	1.014	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor top50 both cap032	F1	49.69	46.21	59.67	0.660	56.0	12.0	28.0	1.057	0.021	0.254	0.25	OK		Old
+2WikiMQA (LongBench)	neighbor all cap048	F1	54.90	51.92	65.83	0.710	58.0	16.0	22.0	1.215	0.022	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	close gap cap24	F1	52.24	49.98	60.67	0.694	59.2	12.2	24.5	1.059	0.023	0.208	0.25	OK		Old
+2WikiMQA (LongBench)	close gap2 cap24	F1	52.91	49.99	63.83	0.690	56.0	16.0	24.0	1.101	0.022	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	close gap2 cap32	F1	52.91	49.99	63.83	0.690	56.0	16.0	24.0	1.121	0.021	0.253	0.25	OK		Old
+2WikiMQA (LongBench)	05 Full Recompute	F1	42.71	40.15	65.13	0.720	52.0	26.0	20.0	1.650	0.021	0.253	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 no recompute	F1	25.38	19.12	41.40	0.450	32.0	14.0	46.0	0.609	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 separator only	F1	25.43	21.26	44.80	0.535	40.0	18.0	42.0	1.190	0.021	0.253	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 margin only 2	F1	29.01	24.96	40.13	0.525	42.0	12.0	42.0	0.811	0.021	0.229	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 margin only 4	F1	28.53	24.43	36.80	0.470	40.0	8.0	48.0	0.731	0.020	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 margin only 8	F1	27.36	24.38	36.80	0.495	36.0	18.0	46.0	0.712	0.020	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 margin only 16	F1	31.60	29.18	45.80	0.580	46.0	16.0	38.0	0.724	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 separator + margin 2	F1	32.65	29.32	44.80	0.540	44.0	12.0	40.0	0.782	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 separator + margin 4	F1	40.00	37.91	48.80	0.560	48.0	10.0	40.0	0.736	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 separator + margin 8	F1	36.22	34.34	44.80	0.490	42.0	8.0	46.0	0.711	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 separator + margin 16	F1	30.22	29.08	41.80	0.465	38.0	10.0	48.0	0.731	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 Blend (16%) layer 0	F1	27.12	21.61	43.80	0.525	36.0	20.0	40.0	1.000	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 Blend (16%) layer 2	F1	54.16	51.19	64.67	0.700	62.0	10.0	26.0	1.030	0.021	0.254	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 Blend (16%) layer 3	F1	52.24	49.98	60.17	0.690	60.0	10.0	24.0	1.054	0.021	0.253	0.25	OK		YAML 05
+2WikiMQA (LongBench)	05 Blend 16% layer 1 then 100% layer 5	F1	51.67	48.19	62.17	0.694	61.2	10.2	26.5	1.012	0.021	0.211	0.25	OK		YAML 05
+SAMSum (LongBench)	Full Recompute	ROUGE-L	32.60			0.555	0.0	66.0	22.0	2.012	0.022	0.049	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) layer 0	ROUGE-L												NA	not run	Old
+SAMSum (LongBench)	Blend (16%) layer 1	ROUGE-L	15.97			0.337	0.0	44.9	55.1	1.040	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) layer 1 margin tokens 1	ROUGE-L	14.80			0.325	0.0	42.0	56.0	1.064	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) layer 1 margin tokens 2	ROUGE-L	16.71			0.400	0.0	48.0	44.0	1.106	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) layer 1 margin tokens 3	ROUGE-L	16.25			0.365	0.0	46.0	50.0	1.130	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) weighted 50-50	ROUGE-L	37.05			0.685	0.0	78.0	2.0	1.040	0.022	0.051	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) weighted 30-30	ROUGE-L	33.01			0.429	0.0	46.9	36.7	1.085	0.033	0.195	0.25	OK		Old
+SAMSum (LongBench)	Blend (16%) weighted 20-20	ROUGE-L	34.13			0.449	0.0	57.1	38.8	1.066	0.033	0.193	0.25	OK		Old
+SAMSum (LongBench)	Blend (16%) weighted 10-10	ROUGE-L	27.93			0.610	0.0	76.0	16.0	1.080	0.028	0.212	0.25	OK		Old
+SAMSum (LongBench)	Blend (16%) weighted K0-V20	ROUGE-L	15.65			0.365	0.0	42.0	48.0	1.061	0.023	0.049	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) adaptive weights K0-20, V0-20	ROUGE-L	30.47			0.625	0.0	74.0	12.0	1.056	0.022	0.051	0.05	OK		Old
+SAMSum (LongBench)	Blend (16%) adaptive weights K0-15, V0-40	ROUGE-L	25.30			0.535	0.0	68.0	26.0	1.046	0.022	0.050	0.05	OK		Old
+SAMSum (LongBench)	SELECTOR K+V	ROUGE-L	14.96			0.320	0.0	40.0	56.0	1.057	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	SELECTOR V	ROUGE-L	15.91			0.310	0.0	36.0	56.0	1.037	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (20%) layer 1	ROUGE-L	15.33			0.320	0.0	40.0	56.0	1.206	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (24%) layer 1	ROUGE-L	13.72			0.300	0.0	36.0	58.0	1.421	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (32%) layer 1	ROUGE-L	14.02			0.270	0.0	30.0	60.0	1.762	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	Blend (100%) layer 1	ROUGE-L	33.93			0.580	0.0	68.0	18.0	2.369	0.022	0.049	0.05	OK		Old
+SAMSum (LongBench)	neighbor top25 both cap024	ROUGE-L	17.75			0.393	0.0	51.0	46.9	1.134	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	neighbor top50 both cap024	ROUGE-L	18.69			0.415	0.0	54.0	44.0	1.224	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	neighbor top50 left cap024	ROUGE-L	19.59			0.400	0.0	48.0	44.0	1.149	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	neighbor top50 right cap024	ROUGE-L	12.88			0.290	0.0	32.0	58.0	1.130	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	neighbor top25 both cap032	ROUGE-L	17.74			0.385	0.0	50.0	48.0	1.076	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	neighbor top50 both cap032	ROUGE-L	18.68			0.390	0.0	48.0	46.0	1.237	0.023	0.050	0.05	OK		Old
+SAMSum (LongBench)	neighbor all cap048	ROUGE-L	17.59			0.370	0.0	42.0	46.0	1.632	0.024	0.051	0.05	OK		Old
+SAMSum (LongBench)	close gap cap24	ROUGE-L	14.09			0.300	0.0	36.0	58.0	1.184	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	close gap2 cap24	ROUGE-L	15.21			0.335	0.0	42.0	54.0	1.297	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	close gap2 cap32	ROUGE-L	15.20			0.335	0.0	42.0	54.0	1.277	0.024	0.050	0.05	OK		Old
+SAMSum (LongBench)	05 Full Recompute	ROUGE-L	31.98			0.565	0.0	70.0	22.0	2.037	0.038	0.199	0.25	OK		YAML 05
+SAMSum (LongBench)	05 no recompute	ROUGE-L	31.06			0.640	0.0	70.0	6.0	0.436	0.026	0.244	0.25	OK		YAML 05
+SAMSum (LongBench)	05 separator only	ROUGE-L	31.89			0.320	2.0	32.0	52.0	0.534	0.034	0.198	0.25	OK		YAML 05
+SAMSum (LongBench)	05 margin only 2	ROUGE-L	16.06			0.375	0.0	30.0	40.0	0.539	0.032	0.200	0.25	OK		YAML 05
+SAMSum (LongBench)	05 margin only 4	ROUGE-L	19.42			0.525	0.0	56.0	20.0	0.572	0.028	0.215	0.25	OK		YAML 05
+SAMSum (LongBench)	05 margin only 8	ROUGE-L	22.04			0.520	0.0	46.0	18.0	0.748	0.027	0.229	0.25	OK		YAML 05
+SAMSum (LongBench)	05 margin only 16	ROUGE-L	23.13			0.600	2.0	64.0	14.0	1.144	0.027	0.206	0.25	OK		YAML 05
+SAMSum (LongBench)	05 separator + margin 2	ROUGE-L	12.20			0.190	0.0	16.0	70.0	6.351	0.039	0.183	0.25	OK		YAML 05
+SAMSum (LongBench)	05 separator + margin 4	ROUGE-L	12.16			0.275	2.0	22.0	58.0	0.950	0.038	0.191	0.25	OK		YAML 05
+SAMSum (LongBench)	05 separator + margin 8	ROUGE-L	12.32			0.291	2.0	26.5	57.1	1.140	0.040	0.192	0.25	OK		YAML 05
+SAMSum (LongBench)	05 separator + margin 16	ROUGE-L	20.16			0.470	0.0	60.0	36.0	1.243	0.039	0.204	0.25	OK		YAML 05
+SAMSum (LongBench)	05 Blend (16%) layer 0	ROUGE-L	36.17			0.625	2.0	56.0	4.0	1.034	0.022	0.205	0.25	OK		YAML 05
+SAMSum (LongBench)	05 Blend (16%) layer 2	ROUGE-L	10.82			0.240	0.0	28.0	66.0	23.585	0.045	0.166	0.25	OK		YAML 05
+SAMSum (LongBench)	05 Blend (16%) layer 3	ROUGE-L	15.39			0.345	2.0	38.0	52.0	2.411	0.044	0.194	0.25	OK		YAML 05
+SAMSum (LongBench)	05 Blend 16% layer 1 then 100% layer 5	ROUGE-L	14.35			0.316	0.0	36.7	55.1	10.594	0.040	0.177	0.25	OK		YAML 05

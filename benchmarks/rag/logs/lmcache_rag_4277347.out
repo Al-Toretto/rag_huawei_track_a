@@ -1,0 +1,42 @@
+run_name=qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_05_no_hkvd_and_layers/margin_only_2.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57347
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37347/health ...
+Server is ready after 320s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-26 18:29:18,551] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 18:32:37,008] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 18:32:37,063] INFO:[0m Waiting for 49 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-26 18:49:42,960] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 18:49:42,961] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-26 18:49:42,992] INFO:[0m Summary: 50 requests, average_ttft=392.5818367052078 (second)
+ average_tpot=0.15922291084917795 (second)
+throughput=0.04089717509357208 (req/s)
+average_quality=0.408
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-26 18:49:42,992] INFO:[0m QA metrics: average_f1_word=0.408
+average_f1_tokenizer=0.4407706766917293
+average_precision=0.4453333333333333
+average_recall=0.39257142857142857
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-26 18:49:43,015] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_2_4277347/benchmark.log

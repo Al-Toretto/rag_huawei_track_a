@@ -1,0 +1,22 @@
+[1m[2026-09-04 12:34:40,413] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:34:40,413] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:34:40,413] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:34:40,414] INFO:[0m Warming up the engine [3m(rag.py:421:__main__)[0m
+[32;20m[2026-09-04 12:34:40,798] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:34:43,228] INFO:[0m Warm up finished. [3m(rag.py:427:__main__)[0m
+[32;20m[2026-09-04 12:35:20,023] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:35:20,075] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:35:23,207] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:35:23,207] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:35:23,212] INFO:[0m Summary: 10 requests, average_ttft=2.5096688508987426 (second)
+ average_tpot=0.0163982655107975 (second)
+throughput=0.25429262770647193 (req/s)
+average_quality=0.3
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:35:23,212] INFO:[0m QA metrics: average_f1_word=0.3
+average_f1_tokenizer=0.3181818181818182
+average_precision=0.3
+average_recall=0.3
+ [3m(rag.py:615:__main__)[0m
+[32;20m[2026-09-04 12:35:23,241] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

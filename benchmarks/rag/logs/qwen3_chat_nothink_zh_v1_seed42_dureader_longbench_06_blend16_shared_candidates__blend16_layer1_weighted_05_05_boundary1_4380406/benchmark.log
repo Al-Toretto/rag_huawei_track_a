@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 22:12:03,638] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:12:03,639] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 22:12:03,639] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 22:15:21,544] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:15:21,573] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 22:15:23,640] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:15:23,641] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4380406/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4380406.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380406/jieba.cache
+Loading model cost 0.344 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 22:15:24,165] INFO:[0m Summary: 50 requests, average_ttft=1.3478899383544922 (second)
+ average_tpot=0.024876514230016654 (second)
+throughput=0.2517292948225158 (req/s)
+average_quality=0.23529046983189839
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 22:15:24,192] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4380406/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_06_blend16_shared_candidates__blend16_layer1_weighted_05_05_boundary1_4380406.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

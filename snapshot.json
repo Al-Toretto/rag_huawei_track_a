@@ -1,0 +1,83 @@
+{
+  "name": "Phase 2 Track A source and measured artifacts",
+  "date": "2026-10-12",
+  "source_commit": "cb9e9038357b6054dae5f71170cb424887b17ff0",
+  "upstream_repository": "https://github.com/LMCache/LMCache",
+  "upstream_base_commit": "9d413181c30ec2ec97bcb6b17defa7c5f9f8e36e",
+  "lmcache_package_version": "0.4.2.dev28",
+  "included_source_working_tree_additions": [
+    "benchmarks/rag/07_accuracy_recovery/",
+    "benchmarks/rag/results_eval/build_round7_metrics.py",
+    "benchmarks/rag/sbash_runs/submit_round7.sh",
+    "tests/benchmarks/test_rag_round7_metrics.py",
+    "tests/benchmarks/test_rag_round7_submission.py"
+  ],
+  "delivery_edits": [
+    "README.md",
+    ".gitignore",
+    "docs/source/index.rst",
+    "docs/source/production/observability/index.rst",
+    "docs/source/production/observability/internal_api_server.rst",
+    "docs/source/production/observability/chunk_statistics.rst",
+    "docs/source/developer_guide/extending_lmcache/runtime_plugins.rst",
+    "docs/source/getting_started/quickstart/standalone_starter.rst",
+    "docs/source/mp/observability.rst",
+    "docs/source/controller/freeze_mode.rst",
+    "docs/source/controller/index.rst",
+    "docs/source/kv_cache_management/index.rst",
+    "benchmarks/rag/README.md",
+    "benchmarks/rag/BLEND_EXPERIMENT_PARAMS.md",
+    "benchmarks/rag/results_eval/README.md",
+    "benchmarks/rag/06_blend16_shared_candidates/README.md",
+    "benchmarks/rag/07_accuracy_recovery/README.rst"
+  ],
+  "new_delivery_support": [
+    "README_LMCACHE.md",
+    "requirements/phase2-serving.txt",
+    "benchmarks/rag/phase2_smoke.yaml",
+    "tools/phase2/apply_vllm_patch.py",
+    "tools/phase2/vllm_0_10_0_model_registration.patch",
+    "tools/phase2/README.md",
+    "tests/benchmarks/test_phase2_vllm_patch.py",
+    ".gitattributes"
+  ],
+  "retained_artifact_files": 2407,
+  "excluded_material": [
+    "AI context and agent instruction files",
+    "project reports and papers",
+    "source Git history and virtual environments",
+    "compiled extensions and caches",
+    "duplicate prompt/token debug CSVs",
+    "verbose successful-run server traces",
+    "regenerable display tables"
+  ],
+  "validation": {
+    "CPU_RAG_and_patch_tests_passed": 105,
+    "strict_Sphinx_HTML_build": "PASS, no warnings",
+    "current_manifest_paths_resolve": true,
+    "current_aggregate_rows_reproduced": 325,
+    "English_judge_inputs_exact_match": 9622,
+    "Chinese_judge_inputs_exact_match": 6500,
+    "English_judge_summary_groups_reproduced": 195,
+    "Chinese_judge_summary_groups_reproduced": 130,
+    "original_measurement_files_byte_identical": true,
+    "GPU_benchmark_executed_during_packaging": false,
+    "Round7_completed_results_included": false
+  },
+  "recorded_protocol": {
+    "generation_model": "Qwen/Qwen3-32B",
+    "model_revision": "9216db5781bf21249d130ec9da846c4624c16137",
+    "vllm": "0.10.0",
+    "dtype": "BF16",
+    "max_model_len": 30000,
+    "max_num_batched_tokens": 16384,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "min_p": 0.0,
+    "seed": 42,
+    "offered_QPS": 0.25,
+    "judge_model": "prometheus-eval/prometheus-7b-v2.0",
+    "Chinese_judge_revision": "66ffb1fc20beebfb60a3964a957d9011723116c5"
+  }
+}

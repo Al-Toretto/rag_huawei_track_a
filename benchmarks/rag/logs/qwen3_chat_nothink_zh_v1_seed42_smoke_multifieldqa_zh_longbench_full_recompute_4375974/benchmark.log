@@ -1,0 +1,26 @@
+[1m[2026-10-06 05:13:38,544] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:13:38,545] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 05:13:38,545] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 05:13:38,545] INFO:[0m Warming up the engine [3m(rag.py:450:__main__)[0m
+[32;20m[2026-10-06 05:13:45,767] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:13:49,853] INFO:[0m Warm up finished. [3m(rag.py:456:__main__)[0m
+[32;20m[2026-10-06 05:13:54,209] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:13:54,224] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 05:13:56,768] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:13:56,768] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_full_recompute_4375974/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_full_recompute_4375974.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4375974/jieba.cache
+Loading model cost 0.367 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 05:13:57,411] INFO:[0m Summary: 2 requests, average_ttft=1.7555277347564697 (second)
+ average_tpot=0.01967263377952732 (second)
+throughput=0.30349651999237914 (req/s)
+average_quality=0.2391304347826087
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 05:13:57,411] INFO:[0m QA metrics: average_f1_word=0.2391304347826087
+average_f1_tokenizer=0.22051056338028172
+average_precision=0.4393939393939394
+average_recall=0.3192307692307692
+ [3m(rag.py:648:__main__)[0m
+[32;20m[2026-10-06 05:13:57,497] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_full_recompute_4375974/qwen3_chat_nothink_zh_v1_seed42_smoke_multifieldqa_zh_longbench_full_recompute_4375974.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/multifieldqa_zh_longbench.json

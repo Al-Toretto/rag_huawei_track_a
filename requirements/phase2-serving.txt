@@ -1,0 +1,6 @@
+# Track A serving stack, installed before LMCache's editable native build.
+torch==2.7.1
+xformers==0.0.31
+vllm==0.10.0
+transformers==4.57.6
+numpy==2.2.6

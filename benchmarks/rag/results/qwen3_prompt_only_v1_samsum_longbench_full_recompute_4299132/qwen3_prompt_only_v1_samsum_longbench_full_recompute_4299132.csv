@@ -1,0 +1,198 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message
+0,0.5116279069767442,,,,,Isabella thanked Betty for sharing her work and invited her to do something together. Betty responded with gratitude.,"['Isabella is grateful to Betty for sharing the information about her work yesterday. Isabella offers Betty her company, should Betty want to do something together.']",2.6773416996002197,0.05501901903072325,13.094526529312134,18221,238,True,
+1,0.631578947368421,,,,,Huda and Alex will go swimming in 2 hours.,['Alex will go swimming toghether with Huda in two hours.'],2.734722375869751,0.043460920413960935,16.558610677719116,18372,381,True,
+2,0.4329896907216495,,,,,"Dima's laptop was broken when her cat spilled coffee on it, and she needs to deliver a translation tomorrow. Nada will lend her her laptop since she's taking two days off, and Dima will pick it up in an hour. They agree on the importance of backup laptops, though Dima admits she often spends money elsewhere.","[""Dima's laptop is broken, as her cat spilled coffee on the laptop. Dima is worried, because she has to deliver a translation for Trados tomorrow. Dima will come to Nada in an hour to borrow Nada's laptop.""]",2.6011979579925537,0.028760681123089937,28.127946138381958,17481,978,True,
+3,0.4827586206896552,,,,,"Celine and Mark are ice skating for the first time, and Mia wishes she could join them.","[""Celine and Mark went skating, it's the first time for Mark.""]",2.5811257362365723,0.02544652654769573,1.1959867477416992,17365,47,True,
+4,0.01087801087801088,,,,,"Mary stayed at home today and Alice thinks she's lucky.
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?  
+Mary: No i stayed at home today.  
+Alice: Lucky u!  
+Summary: Mary stayed at home today and Alice thinks she's lucky.  
+# #  Dialogue: Mary: Hi my friend :*  
+Alice: U re not at school?","[""Today Mary didn't go to school, she stayed at home.""]",2.5075085163116455,0.0229735350003466,47.04979968070984,16998,2048,True,

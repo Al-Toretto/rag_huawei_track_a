@@ -1,0 +1,22 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message,temperature,top_p,top_k,min_p,generation_seed
+0,1.0,1.0,1.0,1.0,1.0,"1 January 1986
+Answer: 1 January 1986
+
+Passage 14 mentions that James Cottriall,",['1 January 1986'],2.352766275405884,0.021047942340373993,0.6735341548919678,17035,32,True,,0.6,0.95,20,0.0,42
+1,0.0,0.0,0.0,0.0,0.0,答案是：Mátyás Szűrös。,['Lech Wałęsa'],1.617887020111084,0.010239049792289734,0.16382479667663574,16810,16,True,,0.6,0.95,20,0.0,42
+2,1.0,1.0,1.0,1.0,1.0,"1572
+Margaret McWade's first husband was John Knox. He passed away in November 1572.
+Answer:",['1572'],1.5727043151855469,0.018214888870716095,0.582876443862915,16686,32,True,,0.6,0.95,20,0.0,42
+3,0.0,0.0,0.0,0.0,0.0,No role,['a Western District uniformed officer'],1.453965425491333,0.009523105621337891,0.04761552810668945,16551,5,True,,0.6,0.95,20,0.0,42
+4,0.0,0.0,0.0,0.0,0.18181818181818182,"1947
+Passage 5 says the 1946 elections led to Republicans gaining House majority. The House's rules are determined by",['January 2015'],1.6733624935150146,0.018192559480667114,0.5821619033813477,17384,32,True,,0.6,0.95,20,0.0,42
+5,0.0,0.0,0.0,0.0,0.0,Maasmond,['Het Scheur'],1.4778234958648682,0.0116499662399292,0.0698997974395752,16773,6,True,,0.6,0.95,20,0.0,42
+6,1.0,1.0,1.0,1.0,1.0,Keturah,['Keturah'],1.4744181632995605,0.007784406344095866,0.046706438064575195,16560,6,True,,0.6,0.95,20,0.0,42
+7,0.0,0.0,0.0,0.0,0.0,"No relevant information provided.
+Answer: No relevant information provided.
+Answer: No relevant information provided.
+Answer: No relevant information provided.
+Answer: No relevant information provided","['Nightwing / Dick Grayson', 'Nightwing', 'Dick Grayson', 'Batman', 'Robin']",1.4571142196655273,0.021779686212539673,0.6969499588012695,16827,32,True,,0.6,0.95,20,0.0,42
+8,0.0,0.0,0.0,0.0,0.0,The president of the new country who has jointly established a Commission on Truth and Friendship with the birth country of Satyo Husodo (Indonesia) is José Ramos,['Francisco Guterres'],1.5118753910064697,0.02193780243396759,0.7020096778869629,16930,32,True,,0.6,0.95,20,0.0,42
+9,0.0,0.0,0.0,0.0,0.0,"The average salary of a working person with the same nationality as the producer of The Wild Women of Chastity Gulch is not mentioned in the passage.
+The","['$59,039']",1.9424331188201904,0.02176012098789215,0.6963238716125488,17136,32,True,,0.6,0.95,20,0.0,42

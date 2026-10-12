@@ -1,0 +1,22 @@
+[1m[2026-09-04 12:23:49,698] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:23:49,698] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:23:49,699] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:23:49,699] INFO:[0m Warming up the engine [3m(rag.py:421:__main__)[0m
+[32;20m[2026-09-04 12:23:50,115] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:23:52,756] INFO:[0m Warm up finished. [3m(rag.py:427:__main__)[0m
+[32;20m[2026-09-04 12:24:29,505] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:24:29,550] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:24:31,694] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:24:31,695] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_full_recompute_4303067/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_full_recompute_4303067.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:24:31,698] INFO:[0m Summary: 10 requests, average_ttft=2.3608592987060546 (second)
+ average_tpot=0.014617497672637304 (second)
+throughput=0.2609825379931829 (req/s)
+average_quality=0.26666666666666666
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:24:31,699] INFO:[0m QA metrics: average_f1_word=0.26666666666666666
+average_f1_tokenizer=0.3393939393939394
+average_precision=0.3
+average_recall=0.25
+ [3m(rag.py:615:__main__)[0m
+[32;20m[2026-09-04 12:24:31,711] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_full_recompute_4303067/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_full_recompute_4303067.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

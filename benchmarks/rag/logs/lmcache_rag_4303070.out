@@ -1,0 +1,47 @@
+run_name=qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/lmcache_blend.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=43070
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=256
+sampling_temperature=0.6
+sampling_top_p=0.95
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:23070/health ...
+Server is ready after 210s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 10 for model Qwen/Qwen3-32B
+[1m[2026-09-04 12:40:25,863] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:40:25,864] INFO:[0m Generation stop sequences: ['# #', 'Dialogue:'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:40:25,864] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:41:02,607] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:41:02,658] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:41:04,507] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:41:04,507] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:41:04,514] INFO:[0m Summary: 10 requests, average_ttft=1.663300347328186 (second)
+ average_tpot=0.025577770466256134 (second)
+throughput=0.2629157299692856 (req/s)
+average_quality=0.35944384311854194
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:41:04,544] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_samsum_longbench_lmcache_blend_4303070/benchmark.log

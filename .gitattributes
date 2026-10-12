@@ -1,0 +1,5 @@
+# Preserve recorded measurement bytes across checkouts.
+*.csv -text
+*.tsv -text
+*.jsonl -text
+*.xlsx binary

@@ -1,0 +1,37 @@
+run_name=qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_05_no_hkvd_and_layers/margin_only_4.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57414
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37414/health ...
+Server is ready after 205s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 48 for model Qwen/Qwen3-32B
+[1m[2026-08-27 04:46:10,471] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-27 04:49:20,292] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-27 04:49:20,328] INFO:[0m Waiting for 36 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-27 04:54:55,299] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-27 04:54:55,300] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-27 04:54:55,709] INFO:[0m Summary: 48 requests, average_ttft=115.84705809752147 (second)
+ average_tpot=0.08951378951619156 (second)
+throughput=0.09169041926166889 (req/s)
+average_quality=0.06613267656239796
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-27 04:54:55,737] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_samsum_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4277414/benchmark.log

@@ -1,0 +1,177 @@
+run_name=qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_05_no_hkvd_and_layers/blend_layer3_ratio016.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=48344
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=32
+sampling_temperature=0.7
+sampling_top_p=0.8
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+chat_template_mode=qwen-non-thinking
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:28344/health ...
+Timed out waiting for server after 1800s.
+Last 120 server log lines:
+ERROR 09-07 16:25:46 [core.py:632]     submod_0 = self.submod_0(l_input_ids_, s0, l_self_modules_embed_tokens_parameters_weight_, l_self_modules_layers_modules_0_modules_input_layernorm_parameters_weight_, l_self_modules_layers_modules_0_modules_self_attn_modules_qkv_proj_parameters_weight_, l_self_modules_layers_modules_0_modules_self_attn_modules_q_norm_parameters_weight_, l_self_modules_layers_modules_0_modules_self_attn_modules_k_norm_parameters_weight_, l_positions_, l_self_modules_layers_modules_0_modules_self_attn_modules_rotary_emb_buffers_cos_sin_cache_);  l_input_ids_ = l_self_modules_embed_tokens_parameters_weight_ = l_self_modules_layers_modules_0_modules_input_layernorm_parameters_weight_ = l_self_modules_layers_modules_0_modules_self_attn_modules_qkv_proj_parameters_weight_ = l_self_modules_layers_modules_0_modules_self_attn_modules_q_norm_parameters_weight_ = l_self_modules_layers_modules_0_modules_self_attn_modules_k_norm_parameters_weight_ = None
+ERROR 09-07 16:25:46 [core.py:632]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 09-07 16:25:46 [core.py:632]   File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/compilation/cuda_piecewise_backend.py", line 112, in __call__
+ERROR 09-07 16:25:46 [core.py:632]     return self.compiled_graph_for_general_shape(*args)
+ERROR 09-07 16:25:46 [core.py:632]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 09-07 16:25:46 [core.py:632]   File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/compilation/compiler_interface.py", line 518, in compiled_graph
+ERROR 09-07 16:25:46 [core.py:632]     graph_output = inductor_compiled_graph(list_args)
+ERROR 09-07 16:25:46 [core.py:632]                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 09-07 16:25:46 [core.py:632]   File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/_inductor/output_code.py", line 460, in __call__
+ERROR 09-07 16:25:46 [core.py:632]     return self.current_callable(inputs)
+ERROR 09-07 16:25:46 [core.py:632]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 09-07 16:25:46 [core.py:632]   File "/home/a.tomat/.cache/vllm/torch_compile_cache/77f8f795d5/rank_0_0/inductor_cache/bo/cbo2taog6tksbybzybfgossuifkry2ci7diz7ybg4osr4nxtizdb.py", line 458, in call
+ERROR 09-07 16:25:46 [core.py:632]     buf0 = empty_strided_cuda((s0, 5120), (5120, 1), torch.bfloat16)
+ERROR 09-07 16:25:46 [core.py:632]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 09-07 16:25:46 [core.py:632] RuntimeError: CUDA error: invalid argument
+ERROR 09-07 16:25:46 [core.py:632] CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+ERROR 09-07 16:25:46 [core.py:632] For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+ERROR 09-07 16:25:46 [core.py:632] Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+ERROR 09-07 16:25:46 [core.py:632] 
+Process EngineCore_0:
+Traceback (most recent call last):
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core.py", line 636, in run_engine_core
+    raise e
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core.py", line 623, in run_engine_core
+    engine_core = EngineCoreProc(*args, **kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core.py", line 441, in __init__
+    super().__init__(vllm_config, executor_class, log_stats,
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core.py", line 86, in __init__
+    self._initialize_kv_caches(vllm_config)
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core.py", line 158, in _initialize_kv_caches
+    self.model_executor.determine_available_memory())
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/executor/abstract.py", line 76, in determine_available_memory
+    output = self.collective_rpc("determine_available_memory")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/executor/uniproc_executor.py", line 58, in collective_rpc
+    answer = run_method(self.driver_worker, method, args, kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/utils/__init__.py", line 2985, in run_method
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/worker/gpu_worker.py", line 241, in determine_available_memory
+    self.model_runner.profile_run()
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/worker/gpu_model_runner.py", line 2416, in profile_run
+    = self._dummy_run(self.max_num_tokens, is_profile=True)
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/worker/gpu_model_runner.py", line 2168, in _dummy_run
+    outputs = model(
+              ^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/model_executor/models/qwen3.py", line 301, in forward
+    hidden_states = self.model(input_ids, positions, intermediate_tensors,
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/compilation/decorators.py", line 272, in __call__
+    output = self.compiled_callable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py", line 655, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/model_executor/models/qwen2.py", line 336, in forward
+    def forward(
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py", line 838, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/fx/graph_module.py", line 830, in call_wrapped
+    return self._wrapped_call(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/fx/graph_module.py", line 406, in __call__
+    raise e
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/fx/graph_module.py", line 393, in __call__
+    return super(self.cls, obj).__call__(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<eval_with_key>.130", line 522, in forward
+    submod_0 = self.submod_0(l_input_ids_, s0, l_self_modules_embed_tokens_parameters_weight_, l_self_modules_layers_modules_0_modules_input_layernorm_parameters_weight_, l_self_modules_layers_modules_0_modules_self_attn_modules_qkv_proj_parameters_weight_, l_self_modules_layers_modules_0_modules_self_attn_modules_q_norm_parameters_weight_, l_self_modules_layers_modules_0_modules_self_attn_modules_k_norm_parameters_weight_, l_positions_, l_self_modules_layers_modules_0_modules_self_attn_modules_rotary_emb_buffers_cos_sin_cache_);  l_input_ids_ = l_self_modules_embed_tokens_parameters_weight_ = l_self_modules_layers_modules_0_modules_input_layernorm_parameters_weight_ = l_self_modules_layers_modules_0_modules_self_attn_modules_qkv_proj_parameters_weight_ = l_self_modules_layers_modules_0_modules_self_attn_modules_q_norm_parameters_weight_ = l_self_modules_layers_modules_0_modules_self_attn_modules_k_norm_parameters_weight_ = None
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/compilation/cuda_piecewise_backend.py", line 112, in __call__
+    return self.compiled_graph_for_general_shape(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/compilation/compiler_interface.py", line 518, in compiled_graph
+    graph_output = inductor_compiled_graph(list_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/torch/_inductor/output_code.py", line 460, in __call__
+    return self.current_callable(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.cache/vllm/torch_compile_cache/77f8f795d5/rank_0_0/inductor_cache/bo/cbo2taog6tksbybzybfgossuifkry2ci7diz7ybg4osr4nxtizdb.py", line 458, in call
+    buf0 = empty_strided_cuda((s0, 5120), (5120, 1), torch.bfloat16)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA error: invalid argument
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+Starting server attempt 2/2...
+Waiting for vLLM server on http://127.0.0.1:28344/health ...
+Server is ready after 315s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-07 17:04:00,263] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 17:04:00,264] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-07 17:04:00,266] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-07 17:07:18,672] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 17:07:18,694] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-07 17:07:19,366] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 17:07:19,366] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-07 17:07:19,531] INFO:[0m Summary: 50 requests, average_ttft=1.3656939888000488 (second)
+ average_tpot=0.009059709276225009 (second)
+throughput=0.253582142866881 (req/s)
+average_quality=0.3673809523809524
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-07 17:07:19,531] INFO:[0m QA metrics: average_f1_word=0.3673809523809524
+average_f1_tokenizer=0.38784346818493165
+average_precision=0.3972222222222222
+average_recall=0.39333333333333337
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-07 17:07:19,618] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_05_no_hkvd_and_layers__blend_layer3_ratio016_4308344/benchmark.log

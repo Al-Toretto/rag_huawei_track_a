@@ -1,0 +1,107 @@
+{
+  "total_rows": 6500,
+  "original_parsed_rows": 6470,
+  "repaired_rows": 30,
+  "provenance_counts": {
+    "canonical_prompt_1024_tokens": 5,
+    "exact_bare_digit_from_score_only_retry": 1,
+    "analyst_rubric_adjudication_wrong_generation": 24
+  },
+  "method_notes": {
+    "canonical_prompt_1024_tokens": "Same Chinese prompt, rubric, model, and greedy decoding as the original run; only output budget increased from 512 to 1024.",
+    "exact_bare_digit_from_score_only_retry": "The entire model response was the single digit 3. It is mapped unambiguously to rubric score 3/5, or semantic score 0.5.",
+    "analyst_rubric_adjudication_wrong_generation": "The prediction says 42nd generation while the reference says 8th. Both original-prompt judge feedback attempts explicitly say incorrect but loop before a score. The analyst applied rubric score 1/5 (semantic score 0.0); this is not a model-emitted score or an independent human review."
+  },
+  "groups": [
+    {
+      "representative_sample_id": "dureader_longbench:40:Blend (24%) layer 1",
+      "source": "canonical_prompt_1024_tokens",
+      "semantic_score": 0.75,
+      "affected_sample_ids": [
+        "dureader_longbench:40:Blend (24%) layer 1"
+      ],
+      "identical_valid_control_scores": []
+    },
+    {
+      "representative_sample_id": "dureader_longbench:15:05 no recompute",
+      "source": "canonical_prompt_1024_tokens",
+      "semantic_score": 0.75,
+      "affected_sample_ids": [
+        "dureader_longbench:15:05 no recompute",
+        "dureader_longbench:15:05 separator only"
+      ],
+      "identical_valid_control_scores": []
+    },
+    {
+      "representative_sample_id": "dureader_longbench:45:05 no recompute",
+      "source": "canonical_prompt_1024_tokens",
+      "semantic_score": 0.0,
+      "affected_sample_ids": [
+        "dureader_longbench:45:05 no recompute"
+      ],
+      "identical_valid_control_scores": []
+    },
+    {
+      "representative_sample_id": "dureader_longbench:33:05 separator + margin 4",
+      "source": "exact_bare_digit_from_score_only_retry",
+      "semantic_score": 0.5,
+      "affected_sample_ids": [
+        "dureader_longbench:33:05 separator + margin 4"
+      ],
+      "identical_valid_control_scores": []
+    },
+    {
+      "representative_sample_id": "multifieldqa_zh_longbench:29:Blend (16%) weighted 30-30",
+      "source": "analyst_rubric_adjudication_wrong_generation",
+      "semantic_score": 0.0,
+      "affected_sample_ids": [
+        "multifieldqa_zh_longbench:29:Blend (16%) weighted 30-30",
+        "multifieldqa_zh_longbench:29:Blend (16%) weighted 20-20",
+        "multifieldqa_zh_longbench:29:Blend (16%) weighted 10-10",
+        "multifieldqa_zh_longbench:29:Blend (16%) weighted K0-V20",
+        "multifieldqa_zh_longbench:29:Blend (16%) adaptive weights K0-20, V0-20",
+        "multifieldqa_zh_longbench:29:Blend (16%) adaptive weights K0-15, V0-40",
+        "multifieldqa_zh_longbench:29:SELECTOR V",
+        "multifieldqa_zh_longbench:29:neighbor top50 both cap024",
+        "multifieldqa_zh_longbench:29:neighbor top50 left cap024",
+        "multifieldqa_zh_longbench:29:neighbor top50 both cap032",
+        "multifieldqa_zh_longbench:29:neighbor all cap048",
+        "multifieldqa_zh_longbench:29:06 adaptive K0-05 V0-15 + boundary1",
+        "multifieldqa_zh_longbench:29:06 adaptive K0-05 V0-20 + boundary1",
+        "multifieldqa_zh_longbench:29:06 adaptive K0-10 V0-20 + boundary1",
+        "multifieldqa_zh_longbench:29:06 K+V selector + weighted 10-10",
+        "multifieldqa_zh_longbench:29:06 neighbor right top50 cap20 + adaptive K0-05 V0-20",
+        "multifieldqa_zh_longbench:29:06 neighbor right top50 cap20 + weighted 10-10",
+        "multifieldqa_zh_longbench:29:06 neighbor right top50 cap24 + weighted 10-10",
+        "multifieldqa_zh_longbench:29:06 rank adaptive K0-05 V0-20 + boundary1",
+        "multifieldqa_zh_longbench:29:06 rank adaptive K0-05 V0-25 + boundary1",
+        "multifieldqa_zh_longbench:29:06 weighted 05-05 + boundary1",
+        "multifieldqa_zh_longbench:29:06 weighted 10-10 + boundary1",
+        "multifieldqa_zh_longbench:29:06 weighted 15-15 + boundary1",
+        "multifieldqa_zh_longbench:29:06 multilayer L1-L3 18->16 weighted 10-10"
+      ],
+      "identical_valid_control_scores": [],
+      "evidence": {
+        "question": "孔子后代首次获得封号是在哪一代？",
+        "reference_answers": [
+          "8世孙，孔腾被汉高祖刘邦封为奉祀君。"
+        ],
+        "prediction": "孔子后代首次获得封号是在第42代孔端友。",
+        "original_feedback_opening": "The model's answer is incorrect as it states that the first time a descendant of Confucius received a seal was in the 42nd generation, which is not accurate. The correct answer is that the first descendant to receive a seal was Confucius's 8th generation desce",
+        "long_retry_feedback_opening": "The model's answer is incorrect as it states that the first time a descendant of Confucius received a seal was in the 42nd generation, which is not accurate. The correct answer is that the first descendant to receive a seal was Confucius's 8th generation desce",
+        "score_only_retry_opening": "4. 主要答案正确，但有轻微遗漏。 孔子后代首次获得封号是在第42代孔端友，但不提到孔腾的封号，这是一个重要的部分。 孔腾的封号是奉祀君，这是孔子后代的第8世孙，而孔端友是孔腾的第10世孙。 孔腾的封号是孔子后代的第8世孙，而孔端友是孔腾的第10世孙。 孔腾的封号是孔子后代的第8世孙，而孔端友是孔腾的第10世孙。 孔腾的封号是孔子后代的第8世孙，而孔端友是孔腾的第10世孙。 孔腾的封号是孔子后代的第8世孙，而孔端友是孔腾的第10世孙。 孔腾的封号是孔子后代的第8世孙，而孔端友是孔腾的第10世孙。 孔腾的封号是孔子后"
+      }
+    },
+    {
+      "representative_sample_id": "multifieldqa_zh_longbench:30:06 rank adaptive K0-05 V0-20",
+      "source": "canonical_prompt_1024_tokens",
+      "semantic_score": 0.0,
+      "affected_sample_ids": [
+        "multifieldqa_zh_longbench:30:06 rank adaptive K0-05 V0-20"
+      ],
+      "identical_valid_control_scores": [
+        0.0
+      ]
+    }
+  ]
+}

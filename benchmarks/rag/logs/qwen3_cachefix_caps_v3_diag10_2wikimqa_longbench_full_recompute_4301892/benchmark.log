@@ -1,0 +1,21 @@
+[1m[2026-09-03 20:28:50,709] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:28:50,710] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:202:__main__)[0m
+[32;20m[2026-09-03 20:28:50,710] INFO:[0m Warming up the engine [3m(rag.py:312:__main__)[0m
+[32;20m[2026-09-03 20:28:51,152] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:28:53,570] INFO:[0m Warm up finished. [3m(rag.py:318:__main__)[0m
+[32;20m[2026-09-03 20:29:30,296] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:29:30,339] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-03 20:29:32,479] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:29:32,479] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_2wikimqa_longbench_full_recompute_4301892/qwen3_cachefix_caps_v3_diag10_2wikimqa_longbench_full_recompute_4301892.csv [3m(rag.py:582:__main__)[0m
+[32;20m[2026-09-03 20:29:32,482] INFO:[0m Summary: 10 requests, average_ttft=2.362547254562378 (second)
+ average_tpot=0.014419168969468465 (second)
+throughput=0.2610854096252686 (req/s)
+average_quality=0.2771929824561403
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-09-03 20:29:32,482] INFO:[0m QA metrics: average_f1_word=0.2771929824561403
+average_f1_tokenizer=0.2865203761755486
+average_precision=0.3055555555555555
+average_recall=0.35
+ [3m(rag.py:501:__main__)[0m
+[32;20m[2026-09-03 20:29:32,490] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_2wikimqa_longbench_full_recompute_4301892/qwen3_cachefix_caps_v3_diag10_2wikimqa_longbench_full_recompute_4301892.debug.csv [3m(rag.py:586:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

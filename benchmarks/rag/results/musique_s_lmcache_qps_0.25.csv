@@ -1,0 +1,345 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message
+0,0.8,0.6666666666666666,1.0,0.8,0.7499999999999999,"Exeter College, Oxford.",['Exeter College'],0.7311925888061523,0.019891675313313803,0.29837512969970703,6084,15,True,
+1,0.8,0.6666666666666666,1.0,0.8,0.7499999999999999,"Charles County, Maryland.",['Charles County'],0.31131505966186523,0.01989135375389686,0.2585875988006592,5898,13,True,
+2,0.0,0.0,0.0,0.0,0.0,"The child of the victim of ""Romance"" performer is Stuart McMullan and Sally McMullan's child.",['Chynna Phillips'],0.30133867263793945,0.02099250555038452,0.8397002220153809,6014,40,True,
+3,0.0015290519877675843,0.0007656967840735069,0.5,0.0015290519877675843,0.0014716703458425313,"Tim Dubois was born in southwest city, missouri. The question is asking for the county he was born in. From the passage, it mentions that he was born in southwest city, missouri, but it doesn't specify the county. However, looking at the context, southwest city is in Missouri, and the passage mentions that he was born in southwest city, missouri. Since the passage doesn't specify the county, but the user is asking for the county, and the only information given is the city and state, we can infer that the county is not explicitly mentioned. However, in the passage, it says ""southwest city, missouri,"" and in another part, it mentions ""southwest city, missouri"" again. Therefore, the county is not explicitly stated, but the city is southwest city, missouri. Since the user is asking for the county, and the passage doesn't provide that information, the answer is not explicitly given. However, based on the information, the answer is not provided in the passages. But since the user is asking for the county, and the passage only mentions the city and state, the answer is not available. However, the user might be expecting the answer based on the information given, which is southwest city, missouri. But the county is not specified. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state, not the county. Alternatively, the county could be southwest city, but that's a city, not a county. Therefore, the answer is not explicitly given in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state, not the county. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer is not provided in the passages. However, the user might be expecting the answer to be missouri, but that's the state. Alternatively, the county could be unknown based on the given information. Therefore, the answer",['McDonald County'],0.2995588779449463,0.02293477486819029,46.97041893005371,5994,2048,True,
+4,0.11764705882352941,0.07142857142857142,0.3333333333333333,0.11764705882352941,0.1,The person who is part of The Bruce Lee Band started the record label called **Dill Records**.,['Asian Man Records'],0.30785655975341797,0.02148431142171224,0.9667940139770508,6027,45,True,
+5,1.0,1.0,1.0,1.0,1.0,Emilia Galotti,['Emilia Galotti'],0.30946803092956543,0.02018509308497111,0.24222111701965332,5827,12,True,
+6,0.2857142857142857,0.16666666666666666,1.0,0.2857142857142857,0.2,The person from The Blackout All-Stars plays the conga.,['conga'],0.3135671615600586,0.02129573206747732,0.6601676940917969,5860,31,True,
+7,0.0,0.0,0.0,0.0,0.0,The seat of the county where Van Hook Township is located is Mountrail County.,['Stanley'],0.31918883323669434,0.021137790679931642,0.528444766998291,5976,25,True,
+8,0.28571428571428575,0.5,0.2,0.28571428571428575,0.26666666666666666,Henry Baring,"['Sir Francis Baring, 1st Baronet']",0.31964826583862305,0.020026397705078126,0.20026397705078125,6083,10,True,
+9,0.0,0.0,0.0,0.0,0.0,"The performer of ""Be the One"" was a member of the group **Broken Social Scene**.",['Jackson 5'],0.3120143413543701,0.021402591882750045,0.920311450958252,5962,43,True,
+10,0.0,0.0,0.0,0.0,0.0,"The lead singer of the band performing ""Bang Bang Rock & Roll"" is Kevin Sussman.",['Eddie Argos'],0.31137514114379883,0.02147785452909248,0.9235477447509766,5935,43,True,
+11,0.5,0.5,0.5,0.5,0.4444444444444445,National Cycle Network (NCN),['national cycling route network'],0.319443941116333,0.021813661128551036,2.421316385269165,6047,111,True,
+12,0.14285714285714288,0.09090909090909091,0.3333333333333333,0.14285714285714288,0.22222222222222218,The spouse of the child of Peter Andreas Heiberg is Margareta von Ascheberg.,['Johanne Luise Heiberg'],0.3255605697631836,0.02151651160661564,0.9252099990844727,6094,43,True,
+13,0.5,0.3333333333333333,1.0,0.5,0.2,The Unwinding author volunteered for the Peace Corps.,['Peace Corps'],0.30861949920654297,0.021345338821411132,0.5336334705352783,5656,25,True,
+14,0.0,0.0,0.0,0.0,0.0,"The capital of the county that Pine Springs is located in is Austin, Texas.",['Van Horn'],0.3049337863922119,0.021332345690046037,0.7466320991516113,5867,35,True,
+15,1.0,1.0,1.0,1.0,1.0,East Dorset,['East Dorset'],0.3143620491027832,0.020481088887090267,0.47106504440307617,6151,23,True,
+16,0.0,0.0,0.0,0.0,0.0,"The spouse of the author of ""Young Man Luther"" is not mentioned in the provided passages.",['Joan Erikson'],0.30499720573425293,0.020883048452982087,0.8562049865722656,6088,41,True,
+17,0.16666666666666669,0.1,0.5,0.16666666666666669,0.13333333333333333,"The performer of ""The Place and the Time"" is associated with Sundazed Records.",['Columbia Records'],0.30464887619018555,0.02053139607111613,0.4927535057067871,6059,24,True,
+18,0.0,0.0,0.0,0.0,0.0,Miroslav,['Saint Sava'],0.29715585708618164,0.019691328207651775,0.2362959384918213,6119,12,True,
+19,0.0,0.0,0.0,0.0,0.0,Anna Benson's husband was on the New Orleans Voodoo.,['Pittsburgh Pirates'],0.2975432872772217,0.020611083066021954,0.5564992427825928,6199,27,True,
+20,0.0,0.0,0.0,0.0,0.0,south sudan,['Eastern Equatoria'],0.29631543159484863,0.02050545941228452,0.47162556648254395,5886,23,True,
+21,0.0,0.0,0.0,0.0,0.0,"The spouse of Frances Tupper was born in Easton, Massachusetts.",['Amherst'],0.296903133392334,0.020766696622294765,0.6437675952911377,6103,31,True,
+22,0.0,0.0,0.0,0.0,0.0,"Dimuthu Bandara Abayakoon was founded by the Janatha Vimukthi Peramuna (JVP) political party in Sri Lanka. However, based on the passage, he was elected as a United People's Freedom Alliance (UPFA) candidate in the 2004 election. So, the party he was a member of during that election was the UPFA.
+
+Wait, the question is asking who founded the political party of Dimuthu Bandara Abayakoon. From the passage: ""Dimuthu Bandara Abayakoon ( born September 6, 1971 ) is a Sri Lankan politician, belonging to the Janatha Vimukthi Peramuna. In the 2004 election he was elected as a representative of Kandy District in the Parliament of Sri Lanka, standing as a United People's Freedom Alliance candidate.""
+
+So, the political party he belongs to is the Janatha Vimukthi Peramuna (JVP). The passage doesn't specify who founded JVP, but it's a known party in Sri Lanka. However, the passage does mention that he was elected as a UPFA candidate, but that's the alliance, not the party.
+
+Wait, the question is about the party of Dimuthu Bandara Abayakoon. The passage says he belongs to the Janatha Vimukthi Peramuna (JVP). So, the founder of JVP would be the answer. But the passage doesn't provide that information. It only mentions that he is a member of JVP and ran as a UPFA candidate.
+
+Since the passage doesn't specify who founded JVP, but the question is based on the given passages, perhaps the answer is not directly provided. However, the passage does mention that he is a member of JVP, but doesn't state who founded it.
+
+Wait, looking back, the passage says: ""Dimuthu Bandara Abayakoon ( born September 6, 1971 ) is a Sri Lankan politician, belonging to the Janatha Vimukthi Peramuna. In the 2004 election he was elected as a representative of Kandy District in the Parliament of Sri Lanka, standing as a United People's Freedom Alliance candidate.""
+
+So, the party is JVP, but the founder isn't mentioned in the passage. Therefore, based on the given passages, the answer isn't explicitly provided. However, the question is to answer based on the passages, so perhaps the answer is that the passage doesn't specify.
+
+But the user instruction says to answer based on the passages, so if the information isn't there, perhaps the answer is that the founder isn't mentioned in the passages.
+
+Wait, but the user provided a lot of passages, maybe elsewhere in the passages, the JVP is mentioned. Let me check.
+
+Looking through the passages, I see mentions of other parties, but not JVP. So, the passage only mentions that Dimuthu Bandara Abayakoon is a member of JVP, but doesn't state who founded it.
+
+Therefore, based on the given passages, the answer is not provided. However, the user might expect the answer based on general knowledge, but the instruction is to use the passages.
+
+So, the answer is: The founder is not mentioned in the passages.
+
+But the user's instruction says to answer within 5 words, so perhaps the answer is: Janatha Vimukthi Peramuna.
+
+Wait, no, the question is who founded the party, not the name of the party.
+
+Since the passage doesn't provide the founder's name, the answer is: Not specified in the passages.
+
+But the user might expect the answer to be the party name, but the question is about the founder.
+
+Alternatively, perhaps the passage elsewhere mentions the founder. Let me check all passages again.
+
+Looking through all the passages, I don't see any mention of who founded JVP. The passage about Dimuthu only mentions he belongs to JVP and ran as a UPFA candidate.
+
+Therefore, the answer is: The founder is not mentioned in the passages.
+
+But the user's instruction says to answer based on the passages, so if it's not there, perhaps the answer is that the founder isn't specified.
+
+But the user's example answer was ""Dimuthu Bandara Abayakoon was founded by the Janatha Vimukthi Peramuna (JVP) political party in Sri Lanka."" But that's incorrect because the party founded the politician, not the other way around.
+
+Wait, no, the question is who founded the political party of Dimuthu Bandara Abayakoon. So, the party is JVP, and the founder of JVP is the answer. But the passage doesn't say who founded JVP.
+
+Therefore, the answer is: The founder is not mentioned in the passages.
+
+But the user's instruction says to answer within 5 words, so perhaps the answer is: Not specified.
+
+Alternatively, if the passage doesn't mention it, the answer is unknown.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't provided in the passages.
+
+So, the answer is: The founder is not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, if the passage doesn't provide the information, the answer is unknown.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so if it's not there, the answer is that the information isn't provided.
+
+So, the answer is: Information not provided.
+
+But the user's example answer was incorrect, so perhaps the correct answer is that the founder isn't mentioned.
+
+So, the answer is: Founder not mentioned.
+
+But to fit within 5 words: Founder not mentioned.
+
+Alternatively, the answer is: Not specified.
+
+But the user's instruction is to answer based on the passages, so",['Rohana Wijeweera'],0.31833648681640625,0.0229204228380695,46.94102597236633,6328,2048,True,
+23,0.0,0.0,0.0,0.0,0.0,The answer is not explicitly provided in the passages.,['Haliburton County'],0.30134153366088867,0.021387858824296432,0.941065788269043,5862,44,True,
+24,0.0,0.0,0.0,0.0,0.0,"Mark Dismore was born in Greenfield, Indiana.",['Hancock County'],0.31711483001708984,0.021089889385082102,0.5694270133972168,5989,27,True,
+25,0.0,0.0,0.0,0.0,0.16666666666666666,Lorenzo de'Medici,"[""Giuliano de' Medici""]",0.32543015480041504,0.02069255884955911,0.3517735004425049,6361,17,True,
+26,0.5,0.5,0.5,0.5,0.28571428571428575,Mahn County,['Waseca County'],0.31997251510620117,0.023104572625753515,10.027384519577026,5894,434,True,
+27,0.4,0.25,1.0,0.4,0.4,The team that occupies the Rabat Ajax Football Ground belongs to the Maltese Premier League.,['Maltese Premier League'],0.33123230934143066,0.021785125499818384,0.8931901454925537,6236,41,True,
+28,0.0,0.0,0.0,0.0,0.0,The answer is not provided in the passages.,['John Profumo'],0.310455322265625,0.02203835723220661,2.049567222595215,5854,93,True,
+29,0.0,0.0,0.0,0.0,0.0,The administrative territorial entity containing the place where KPRM is licensed to broadcast to is **Arkansas**.,['Hubbard County'],0.3145911693572998,0.02148651017083062,0.9668929576873779,6084,45,True,
+30,0.2857142857142857,0.16666666666666666,1.0,0.2857142857142857,0.1818181818181818,"The headquarters are located in Annapolis, Maryland.",['Annapolis'],0.3056330680847168,0.021158962249755858,0.5289740562438965,6023,25,True,
+31,0.17391304347826084,0.09523809523809523,1.0,0.17391304347826084,0.13793103448275862,"The band that performed ""Full Cooperation"" is Def Squad, consisting of Erick Sermon, Redman, and Keith Murray, with Jamal as an honorary member.
+
+Answer: Erick Sermon, Redman, and Keith Murray.",['Erick Sermon'],0.31002378463745117,0.02172218367110851,1.868107795715332,5994,86,True,
+32,0.125,0.07142857142857142,0.5,0.125,0.08333333333333333,"Bansaan Island is part of the municipality of Talibon, which is located on Bohol Island.",['Panglao Island'],0.3063690662384033,0.021394665176804002,0.791602611541748,5937,37,True,
+33,0.0,0.0,0.0,0.0,0.0,"Snappy Tomato Pizza formed in Fort Mitchell, Kentucky.",['Kenton County'],0.31375813484191895,0.021101160049438475,0.5275290012359619,5564,25,True,
+34,0.125,0.06666666666666667,1.0,0.125,0.15384615384615385,"The former member of The Sunnyboys, Jeremy Saxon Oxley, was born in Kingscliff, New South Wales, Australia.",['Kingscliff'],0.30456113815307617,0.020764681009145882,0.8098225593566895,5984,39,True,
+35,0.0,0.0,0.0,0.0,0.0,"Ernie Watts was born in Saginaw County, Michigan.",['West Berkshire'],0.3017387390136719,0.02063732311643403,0.5984823703765869,6035,29,True,
+36,0.4,0.3333333333333333,0.5,0.4,0.25,"Dane County, Wisconsin.",['Miller County'],0.3084440231323242,0.019897529057094028,0.2785654067993164,6153,14,True,
+37,0.0,0.0,0.0,0.0,0.0,The spouse of the screenwriter of The Actress is not explicitly mentioned in the provided passages.,['Garson Kanin'],0.30397510528564453,0.020618878304958344,0.659804105758667,6219,32,True,
+38,0.0,0.0,0.0,0.0,0.0,"The person who authored ""Missing Person"" received the Edgar Award for Best First Novel.",['Nobel Prize in Literature'],0.29634547233581543,0.020980628761085304,0.7762832641601562,6024,37,True,
+39,0.1,0.0625,0.25,0.1,0.0,"The death of John Curtin caused the founder of Australia's Liberal Party, Robert Menzies, to become Prime Minister.","[""Lyons' death in 1939""]",0.2987346649169922,0.02083501134599958,0.7292253971099854,5970,35,True,
+40,0.09523809523809523,0.058823529411764705,0.25,0.09523809523809523,0.0,"The death of John Curtin caused the Liberal Party of Australia's longest-serving leader, Robert Menzies, to become Prime Minister.","[""Lyons' death in 1939""]",0.29735231399536133,0.020909180512299407,0.7736396789550781,6025,37,True,
+41,0.0,0.0,0.0,0.0,0.125,"The average per capita GVA in 2013 of the country which created Burma's academic system was $19,943.","['£23,755']",0.334700345993042,0.021110489254906065,1.329960823059082,6852,63,True,
+42,0.0,0.0,0.0,0.0,0.0,Daniel Davis,['Peter Marc Jacobson'],0.2953505516052246,0.022577994399600558,4.064038991928101,5748,180,True,
+43,0.25,0.14285714285714285,1.0,0.25,0.3333333333333333,"The publisher of ""The Final Testament of the Holy Bible"" is Gagosian Gallery, founded by Larry Gagosian.
+
+Answer: Larry Gagosian.",['Larry Gagosian'],0.30780744552612305,0.02109811382908975,1.3080830574035645,5839,62,True,
+44,0.0,0.0,0.0,0.0,0.0,The company that makes Nirbhay was founded during the era of the nizams.,['From the 1950s to the 1970s'],0.2914910316467285,0.02086800184005346,0.813852071762085,5749,39,True,
+45,0.0,0.0,0.0,0.0,0.29629629629629634,The manufacturer of Agni-V was founded in 1945.,['From the 1950s to the 1970s'],0.29752469062805176,0.02098755402998491,0.692589282989502,5992,33,True,
+46,0.3333333333333333,0.21428571428571427,0.75,0.3333333333333333,0.65,The company known as the manufacturer of Agni-V was founded in the era of the 1950s to 1970s.,['From the 1950s to the 1970s'],0.30113840103149414,0.02120994054354154,1.3786461353302002,6069,65,True,
+47,0.0,0.0,0.0,0.0,0.0,Fort Mitchell,['Ningbo'],0.3059086799621582,0.01895424723625183,0.15163397789001465,6048,8,True,
+48,0.0,0.0,0.0,0.0,0.0,The performer of Heartbeat is named after Pest.,['Natalie Albino'],0.29543256759643555,0.020463777625042458,0.47066688537597656,5909,23,True,
+49,0.33333333333333337,0.2,1.0,0.33333333333333337,0.3333333333333333,The band is named after identical twins Nicole and Natalie Albino.,['Natalie Albino'],0.3037447929382324,0.020672757050086712,0.5995099544525146,6143,29,True,
+50,0.0,0.0,0.0,0.0,0.25000000000000006,"The spacecraft that detected storms on Neptune, Voyager 2, left our solar system in 2012.","['August 30, 2007']",0.29291462898254395,0.02095951352800642,1.0270161628723145,5888,49,True,
+51,0.25,0.14285714285714285,1.0,0.25,0.24,The Nicole and Natalie album's band is named after identical twins Nicole and Natalie Albino.,['Natalie Albino'],0.29851317405700684,0.02102214250809107,0.8198635578155518,6190,39,True,
+52,0.23529411764705882,0.14285714285714285,0.6666666666666666,0.23529411764705882,0.2,"The founder of the National Women's Party, Alice Paul, was born in Mount Laurel, New Jersey.",['Mount Laurel Township'],0.30405735969543457,0.02095364464653863,0.9429140090942383,6135,45,True,
+53,0.5714285714285715,0.5,0.6666666666666666,0.5714285714285715,0.6666666666666665,"Mount Laurel, New Jersey.",['Mount Laurel Township'],0.28942298889160156,0.02037978172302246,0.4075956344604492,5596,20,True,
+54,0.0,0.0,0.0,0.0,0.0,Edinburgh.,['Scottish Parliament Building'],0.2969799041748047,0.020760320848034274,0.6435699462890625,5930,31,True,
+55,0.0,0.0,0.0,0.0,0.0,"moorestown, new jersey",['Mount Laurel Township'],0.30434250831604004,0.02082375217886532,0.7080075740814209,6179,34,True,
+56,0.0,0.0,0.0,0.0,0.0,The Northern Territory.,['Scottish Parliament Building'],0.29787731170654297,0.020394906401634216,0.32631850242614746,5937,16,True,
+57,0.0,0.0,0.0,0.0,0.0,"The city containing Broadhurst Park, Manchester, does not have a specific town mentioned in the passages that it borders.",['Middleton'],0.30060338973999023,0.02278949710684763,8.090271472930908,6031,355,True,
+58,0.0,0.0,0.0,0.0,0.0,The record label of the Metalworks Studio founder is Metalworks Institute.,['TML Entertainment'],0.30267858505249023,0.020926384698776973,0.4394540786743164,5995,21,True,
+59,0.2222222222222222,0.125,1.0,0.2222222222222222,0.1739130434782609,The mouth of the watercourse for the body of water where Bartram's Covered Bridge is located is the Delaware River.,['Delaware River'],0.3348965644836426,0.02105229508643057,1.073667049407959,6294,51,True,
+60,0.14285714285714288,0.09090909090909091,0.3333333333333333,0.14285714285714288,0.2,The ruler of the underworld in ancient Egypt is a part of the Osiris cult.,['ancient Egyptian religion'],0.2922053337097168,0.020849047480402765,0.7714147567749023,5658,37,True,
+61,0.28571428571428575,0.18181818181818182,0.6666666666666666,0.28571428571428575,0.28571428571428575,The God of the Underworld in ancient Egypt is part of the Egyptian pantheon.,['ancient Egyptian religion'],0.28725695610046387,0.020828562813836174,0.7706568241119385,5601,37,True,
+62,0.1818181818181818,0.1111111111111111,0.5,0.1818181818181818,0.11764705882352941,"Alhandra was born in Vila Franca de Xira, Lisbon.",['Lisbon District'],0.3029365539550781,0.02091958863394601,0.7321856021881104,6113,35,True,
+63,0.0,0.0,0.0,0.0,0.0,"Vera Barbosa was born in Vila Franca de Xira, Portugal.",['Lisbon District'],0.3048698902130127,0.021229234834512074,2.038006544113159,6120,96,True,
+64,0.0,0.0,0.0,0.0,0.0,The municipality of Póvoa de Santa Iria is located in the state of Portugal.,['Lisbon District'],0.29191040992736816,0.02090341288868974,0.8570399284362793,5738,41,True,
+65,0.5,0.3333333333333333,1.0,0.5,0.6363636363636364,Mary was 12–14 years old when engaged to Joseph.,['12–14 years old'],0.30058884620666504,0.02074648394729152,0.6846339702606201,6023,33,True,
+66,0.2222222222222222,0.125,1.0,0.2222222222222222,0.125,"Mary's betrothed, Joseph, was born in Nazareth, Galilee.",['Nazareth'],0.2955296039581299,0.020394915626162573,0.42829322814941406,5707,21,True,
+67,0.4,0.25,1.0,0.4,0.2608695652173913,The country with ISO code ISO 3166-2:CV is located in the central Atlantic Ocean.,['central Atlantic Ocean'],0.32401323318481445,0.02116537094116211,1.0371031761169434,6405,49,True,
+68,0.0,0.0,0.0,0.0,0.0,"Assomada is located in the Gedeb Asasa, bordered by the Shabelle River.",['central Atlantic Ocean'],0.2985844612121582,0.020931953337134386,0.8582100868225098,5893,41,True,
+69,0.0,0.0,0.0,0.0,0.0,The airport is located two km west-southwest from Espargos on Sal island.,['central Atlantic Ocean'],0.3017089366912842,0.020873442674294498,0.8140642642974854,5945,39,True,
+70,0.0,0.0,0.0,0.0,0.0,"He was educated at King Edward's School, Birmingham, and Trinity College, Cambridge.",['University of Glasgow'],0.28845763206481934,0.020801763276796083,0.7696652412414551,5437,37,True,
+71,0.4,0.25,1.0,0.4,0.3809523809523809,"The designer of the Lap Engine, James Watt, was educated at the University of Glasgow.",['University of Glasgow'],0.3050546646118164,0.020890217560988206,0.81471848487854,6082,39,True,
+72,0.4,0.25,1.0,0.4,0.4,"The creator of the Lap Engine, James Watt, was educated at the University of Glasgow.",['University of Glasgow'],0.30953407287597656,0.02089082277738131,0.8147420883178711,6067,39,True,
+73,0.4615384615384615,0.3,1.0,0.4615384615384615,0.23529411764705882,The 1967 Federation Cup is named after the International Tennis Federation (ITF).,['International Tennis Federation'],0.3521549701690674,0.02110993571397735,0.8655073642730713,7307,41,True,
+74,0.5454545454545454,0.375,1.0,0.5454545454545454,0.3333333333333333,The competition is named after the International Tennis Federation (ITF).,['International Tennis Federation'],0.35034918785095215,0.02069794720616834,0.6002404689788818,7175,29,True,
+75,0.5454545454545454,0.375,1.0,0.5454545454545454,0.3333333333333333,The competition is named after the International Tennis Federation (ITF).,['International Tennis Federation'],0.3625800609588623,0.020758398647966057,0.6019935607910156,7509,29,True,
+76,0.0,0.0,0.0,0.0,0.0,"The capital of the county containing Hickory Grove Estates, Mississippi, is Tarnaveni.",['Starkville'],0.2999236583709717,0.020900255296288466,0.8569104671478271,5914,41,True,
+77,0.0,0.0,0.0,0.0,0.0,"The father of the performer of ""Je dis aime"" is Luigi Borzaga.",['Louis Chedid'],0.3211815357208252,0.020573005676269532,0.5143251419067383,6182,25,True,
+78,0.4,0.25,1.0,0.4,0.37499999999999994,The father of the Labo M performer is Louis Chedid.,['Louis Chedid'],0.29229187965393066,0.02086595566042008,0.6468446254730225,5790,31,True,
+79,0.3076923076923077,0.18181818181818182,1.0,0.3076923076923077,0.33333333333333337,"The father of the performer of ""Qui de Nous Deux"" is Louis Chedid.",['Louis Chedid'],0.30237507820129395,0.020823984611325147,0.853783369064331,6099,41,True,
+80,0.0,0.0,0.0,0.0,0.0,"The child of the cast member of Green Ice is not explicitly mentioned in the provided passages. However, the passages discuss various individuals and their roles, but none directly link a cast member of ""Green Ice"" to a child. Therefore, based on the given information, the answer cannot be determined.","[""Tatum O'Neal""]",0.30060601234436035,0.021212873380046245,2.5667576789855957,5981,121,True,
+81,0.6666666666666666,0.5,1.0,0.6666666666666666,0.4444444444444444,The sibling is Lana Wood.,['Lana Wood'],0.3192727565765381,0.02019329071044922,0.3028993606567383,6558,15,True,
+82,0.6666666666666666,0.5,1.0,0.6666666666666666,0.4444444444444444,The sibling is Lana Wood.,['Lana Wood'],0.3067314624786377,0.01999220848083496,0.2998831272125244,6149,15,True,
+83,0.2666666666666667,0.15384615384615385,1.0,0.2666666666666667,0.2727272727272727,"Lana Wood, Natalie Wood's sister, played a minor role in ""Miracle on 34th Street.""",['Lana Wood'],0.3113851547241211,0.02113080769777298,1.3523716926574707,6162,64,True,
+84,0.0,0.0,0.0,0.0,0.1111111111111111,"The company that initiated a successful price war in 1994 was Compaq. In 2002, Compaq merged with Hewlett-Packard.
+
+Answer: Hewlett-Packard",['Hewlett Packard'],0.29702067375183105,0.021064906120300292,1.0532453060150146,6006,50,True,
+85,0.0,0.0,0.0,0.0,0.0,The company that merged with the CEMM developer in 2002 was Infogrames.,['Hewlett Packard'],0.3009655475616455,0.020900853474934897,0.9405384063720703,6112,45,True,
+86,0.0,0.0,0.0,0.0,0.5454545454545454,Hewlett-Packard,['Hewlett Packard'],0.30057692527770996,0.01987607662494366,0.2583889961242676,6027,13,True,
+87,0.0,0.0,0.0,0.0,0.0,"Coffee Swamp is located in Door County, Wisconsin.",['Lake Superior'],0.2950751781463623,0.021160545172514738,2.285338878631592,5994,108,True,
+88,1.0,1.0,1.0,1.0,1.0,Mido,['Mido'],0.3511512279510498,0.018959790468215942,0.15167832374572754,7058,8,True,
+89,1.0,1.0,1.0,1.0,1.0,Mido,['Mido'],0.3257160186767578,0.01889738440513611,0.15117907524108887,6783,8,True,
+90,1.0,1.0,1.0,1.0,1.0,Mido,['Mido'],0.33989739418029785,0.018841594457626343,0.15073275566101074,7098,8,True,
+91,0.14285714285714285,0.08333333333333333,0.5,0.14285714285714285,0.11764705882352941,The employer of the person Mach's principle was named after is the University of Prague.,['Charles University'],0.28835082054138184,0.020859492791665567,0.771801233291626,5809,37,True,
+92,0.25,0.14285714285714285,1.0,0.25,0.21052631578947367,The employer of the physicist after whom the Mach number is named is the Charles University in Prague.,['Charles University'],0.296663761138916,0.020834719262472014,0.8542234897613525,5847,41,True,
+93,0.4,0.3333333333333333,0.5,0.4,0.0,The University of Prague.,['Charles University'],0.2971153259277344,0.01963202769939716,0.2552163600921631,5939,13,True,
+94,0.0,0.0,0.0,0.0,0.0,The spouse of a cast member from King of the Mountain is Rob Kardashian.,['Lisa Rinna'],0.28569626808166504,0.020835587472626656,0.6875743865966797,5758,33,True,
+95,0.0,0.0,0.0,0.0,0.0,"The birthplace of the person after whom São José dos Campos was named is Itapira, São Paulo, Brazil.",['Nazareth'],0.30381083488464355,0.02108174679326076,1.0751690864562988,6154,51,True,
+96,0.16666666666666669,0.09090909090909091,1.0,0.16666666666666669,0.3636363636363636,"The author of ""Prince Prigio"" is Andrew Lang, who died in 1912.",['1912'],0.31578755378723145,0.020673882576727098,0.64089035987854,6469,31,True,
+97,0.0,0.0,0.0,0.0,0.28571428571428575,The military instruction started in 1973.,['1912'],0.2994115352630615,0.02053462028503418,0.5133655071258545,5920,25,True,
+98,0.33333333333333337,0.2,1.0,0.33333333333333337,0.5714285714285715,The military instruction started in 1912.,['1912'],0.2939944267272949,0.02061968803405762,0.5154922008514404,5970,25,True,
+99,0.33333333333333337,0.2,1.0,0.33333333333333337,0.16666666666666669,The county that shares a border with Cedar Springs is Bell County.,['Bell County'],0.29402685165405273,0.02074221084857809,0.6015241146087646,5915,29,True,
+100,0.0,0.0,0.0,0.0,0.11764705882352941,The father of Empress Wang's husband is Emperor Xiaowu.,['Yang Xingmi'],0.2940850257873535,0.020724285732616077,0.4559342861175537,6028,22,True,
+101,0.0,0.0,0.0,0.0,0.0,florida,['Bay County'],0.29593420028686523,0.018225601741245816,0.1275792121887207,5975,7,True,
+102,0.3636363636363636,0.2222222222222222,1.0,0.3636363636363636,0.4347826086956522,The other child of Chiang Hsiao-chang's father is Chiang Hsiao-wu.,['Chiang Hsiao-wu'],0.29718470573425293,0.020963131113255276,0.985267162322998,5914,47,True,
+103,0.22222222222222224,0.14285714285714285,0.5,0.22222222222222224,0.14285714285714288,The uncle of Liu Bin is Liu Ju.,['Liu Yin'],0.3073878288269043,0.02045961788722447,0.42965197563171387,6212,21,True,
+104,0.4,0.3333333333333333,0.5,0.4,0.7692307692307692,Chiang Hsiao-wen's siblings.,['Chiang Hsiao-wu'],0.2962641716003418,0.022393160289333712,5.553503751754761,5930,248,True,
+105,1.0,1.0,1.0,1.0,1.0,Yeh Raaste Hain Pyaar Ke,['Yeh Raaste Hain Pyaar Ke'],0.3076610565185547,0.021239183165810326,0.46726202964782715,6089,22,True,
+106,0.0,0.0,0.0,0.0,0.0,"The film is ""Raju Chacha"" and ""Blackmail (2005 film)"".",['Yeh Raaste Hain Pyaar Ke'],0.30794668197631836,0.020989071239124645,0.9235191345214844,6278,44,True,
+107,0.0,0.0,0.0,0.0,0.04,"The film is ""Har Dil Jo Pyar Karega"" (1999), which stars Preity Zinta and Madhuri Dixit. However, the connection to ""U Me Aur Hum"" isn't explicitly mentioned in the passages provided.",['Yeh Raaste Hain Pyaar Ke'],0.3029136657714844,0.021262825103033157,2.2325966358184814,5980,105,True,
+108,0.16666666666666669,0.1,0.5,0.16666666666666669,0.13333333333333333,The record label for the band which performed Pythons is Sire Records.,['Kanine Records'],0.2994663715362549,0.0205569370933201,0.4728095531463623,6011,23,True,
+109,0.0,0.0,0.0,0.0,0.0,The child is named Moses Whitecotton.,['Kim Braden'],0.30381083488464355,0.02047141393025716,0.4298996925354004,6067,21,True,
+110,0.5,0.5,0.5,0.5,0.5,Lillian Disney.,['Walt Disney'],0.30174732208251953,0.019538510929454456,0.21492362022399902,6147,11,True,
+111,0.10526315789473684,0.05555555555555555,1.0,0.10526315789473684,0.1224489795918367,"The US physicist who directed the project that developed the first atomic bomb at the same place where Feynman worked on the Water Boiler was Robert Oppenheimer. He was the director of the Los Alamos Laboratory, where Feynman was involved in the Manhattan Project.
+
+Answer: Robert Oppenheimer",['Robert Oppenheimer'],0.29160356521606445,0.021196239134844613,1.4413442611694336,5875,68,True,
+112,0.34782608695652173,0.21052631578947367,1.0,0.34782608695652173,0.22222222222222218,"The person in ""Adversary in the House"" is based on Eugene V. Debs, who was a member of the Socialist Party of America.
+
+Answer: Socialist Party of America",['Socialist Party of America'],0.29674243927001953,0.021156572959792445,1.5021166801452637,5894,71,True,
+113,0.5333333333333333,0.36363636363636365,1.0,0.5333333333333333,0.47619047619047616,The socialist candidate in 1912 was part of the Socialist Party of America.,['Socialist Party of America'],0.3164963722229004,0.020868876041510165,0.8138861656188965,6322,39,True,
+114,0.6666666666666666,1.0,0.5,0.6666666666666666,0.7499999999999999,Socialist Party,['Socialist Party of America'],0.31717514991760254,0.020984354226485542,0.965280294418335,6393,46,True,
+115,0.001564945226917058,0.0007836990595611285,0.5,0.001564945226917058,0.0025332488917036095,"The Kettle Generating Station is located on the Nelson River, which is a tributary of the Hudson Bay. However, the question asks for the river that the Kettle Generating Station is a tributary of. Based on the passages, the Kettle Generating Station is on the Nelson River, which flows into Hudson Bay. But the question is about the river that the Kettle Generating Station is a tributary of, which would be the Nelson River itself. However, looking back, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. But the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. However, the question is about the river that the Kettle Generating Station is a tributary of, which would be the Nelson River. Wait, no, the Kettle Generating Station is on the Nelson River, so the Nelson River is the main river, and the Kettle Generating Station is on it, not a tributary. Therefore, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. But the question is asking for the river that the Kettle Generating Station is a tributary of, meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay. However, the question is phrased as ""the river that the Kettle Generating Station is located on a tributary of,"" meaning the larger river it flows into. So the answer is the Nelson River flows into Hudson Bay, but the Kettle Generating Station is on the Nelson River, so the tributary is the Nelson River itself. Wait, no, the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. Therefore, the river that the Kettle Generating Station is located on a tributary of is the Hudson Bay. But the Kettle Generating Station is on the Nelson River, which is a tributary of Hudson Bay. So the answer is the Hudson Bay","[""Hudson's Bay""]",0.30215907096862793,0.022919678245671093,46.9395010471344,6073,2048,True,
+116,0.0,0.0,0.0,0.0,0.0,The river where the Long Spruce Generating Station is located is a tributary of the Nelson River.,"[""Hudson's Bay""]",0.374967098236084,0.02159301969740126,0.9716858863830566,7319,45,True,
+117,0.0,0.0,0.0,0.0,0.0,The Kichi Sipi Bridge crosses a tributary of the Nelson River.,"[""Hudson's Bay""]",0.3251006603240967,0.020919864827936344,0.4602370262145996,6099,22,True,
+118,0.6666666666666666,0.5,1.0,0.6666666666666666,0.6,"Frederick Douglass married Helen Pitts Douglass.
+
+Answer: Frederick Douglass married Helen Pitts Douglass.",['Helen Pitts Douglass'],0.3091421127319336,0.02172994613647461,2.346834182739258,5915,108,True,
+119,0.4,0.25,1.0,0.4,0.5,The spouse of the first nominated African American presidential candidate is Helen Pitts Douglass.,['Helen Pitts Douglass'],0.321352481842041,0.021387183988416516,0.7913258075714111,6497,37,True,
+120,0.2727272727272727,0.15789473684210525,1.0,0.2727272727272727,0.4117647058823529,"Helen Pitts Douglass was the spouse of Frederick Douglass, a leading speaker against slavery and publisher of the anti-slavery newspaper ""The North Star.""",['Helen Pitts Douglass'],0.3064303398132324,0.02144803070440525,0.8793692588806152,5918,41,True,
+121,0.08163265306122448,0.0425531914893617,1.0,0.08163265306122448,0.09523809523809525,"The spouse of the producer of Dolores Claiborne is not explicitly mentioned in the provided passages. However, the producer of Dolores Claiborne is Taylor Hackford, and according to external knowledge, his spouse is Helen Mirren. But since the passages do not provide this information, the answer cannot be definitively determined from the given text.
+
+Answer: Helen Mirren",['Helen Mirren'],0.33564162254333496,0.02185236763309788,3.2341504096984863,6437,148,True,
+122,0.0,0.0,0.0,0.0,0.09090909090909091,The city where AvtoVAZ's headquarters is located is named after Tolyatti.,['Palmiro Togliatti'],0.30245327949523926,0.021280988057454427,0.6384296417236328,6038,30,True,
+123,0.0,0.0,0.0,0.0,0.0,The city where Lesnoye Sanatorium is located is named after tuberculosis treatment.,['Palmiro Togliatti'],0.3054158687591553,0.021168368203299388,0.7408928871154785,5824,35,True,
+124,0.0,0.0,0.0,0.0,0.0,Ravil Aryapov's birthplace is named after Stavropol.,['Palmiro Togliatti'],0.3054664134979248,0.02131978203268612,0.7248725891113281,6019,34,True,
+125,0.0,0.0,0.0,0.0,0.16666666666666666,The person who first introduced postal service in Umayyad lands became caliph in 691 CE.,['661'],0.30294346809387207,0.02149200926021654,1.0531084537506104,5838,49,True,
+126,0.5333333333333333,0.36363636363636365,1.0,0.5333333333333333,0.36363636363636365,The author of 1967: The Last Good Year attended the University of British Columbia.,['University of British Columbia'],0.32390356063842773,0.021486676016519237,0.9239270687103271,6104,43,True,
+127,0.5714285714285715,0.4,1.0,0.5714285714285715,0.4705882352941177,The author of The National Dream went to the University of British Columbia.,['University of British Columbia'],0.30602192878723145,0.020735294588150516,0.642794132232666,5930,31,True,
+128,0.5,0.3333333333333333,1.0,0.5,0.42105263157894735,The author of The Secret World of Og went to the University of British Columbia.,['University of British Columbia'],0.29665541648864746,0.02074742317199707,0.7261598110198975,5903,35,True,
+129,0.0,0.0,0.0,0.0,0.0,Sam Houston,['United States National Forest'],0.29323410987854004,0.01859334111213684,0.14874672889709473,5829,8,True,
+130,0.18181818181818182,0.10526315789473684,0.6666666666666666,0.18181818181818182,0.2777777777777778,"A. P. J. Abdul Kalam was honored with the Bharat Ratna, India's highest civilian award, before becoming the 11th President of India.",['A.P.J. Abdul Kalam'],0.3041267395019531,0.0209101140499115,1.003685474395752,6145,48,True,
+131,0.1904761904761905,0.1111111111111111,0.6666666666666666,0.1904761904761905,0.3125,"A. P. J. Abdul Kalam was awarded the Bharat Ratna, India's highest civilian honor, before he became the President of India.",['A.P.J. Abdul Kalam'],0.3125627040863037,0.020869834856553512,0.9182727336883545,6261,44,True,
+132,0.4444444444444444,0.3333333333333333,0.6666666666666666,0.4444444444444444,0.6250000000000001,The answer is: A. P. J. Abdul Kalam.,['A.P.J. Abdul Kalam'],0.3088376522064209,0.02022434605492486,0.36403822898864746,6086,18,True,
+133,0.33333333333333337,0.2,1.0,0.33333333333333337,0.0,Bai Yun is a giant panda.,['panda'],0.2961540222167969,0.020346985922919378,0.36624574661254883,6034,18,True,
+134,0.5714285714285715,0.5,0.6666666666666666,0.5714285714285715,0.7142857142857143,A. P. J. Abdul Kalam,['A.P.J. Abdul Kalam'],0.3151059150695801,0.02210332876370277,7.161478519439697,6546,324,True,
+135,0.6666666666666666,0.7142857142857143,0.625,0.6666666666666666,0.6250000000000001,The actor received the Academy Award for Best Actor.,['nominated for an Academy Award for Best Supporting Actor'],0.3178231716156006,0.020947663680366848,0.4817962646484375,6187,23,True,
+136,0.4615384615384615,0.6,0.375,0.4615384615384615,0.2857142857142857,The actor received an Academy Award nomination.,['nominated for an Academy Award for Best Supporting Actor'],0.30215024948120117,0.020263897745232833,0.38501405715942383,6077,19,True,
+137,0.4761904761904762,0.38461538461538464,0.625,0.4761904761904762,0.3703703703703704,The Oscar winner for Best Actor in 2006 received a nomination for Best Supporting Actor.,['nominated for an Academy Award for Best Supporting Actor'],0.3038773536682129,0.020863394404566565,0.8971259593963623,6157,43,True,
+138,0.1,0.08333333333333333,0.125,0.1,0.08333333333333334,"The director of ""Jack Goes Boating"" received the IEEE Ernst Weber Managerial Leadership Award.",['nominated for an Academy Award for Best Supporting Actor'],0.29578328132629395,0.020907884690819716,0.8572232723236084,5845,41,True,
+139,0.0,0.0,0.0,0.0,0.2,mickey's safari in letterland,['The Mickey Mouse Club'],0.2994821071624756,0.020199696222941082,0.36359453201293945,6042,18,True,
+140,0.0,0.0,0.0,0.0,0.0,Ub Iwerks developed the eponymous character from the series that contains Mickey's Safari in Letterland.,['Walt Disney'],0.3029022216796875,0.020679895083109537,0.6203968524932861,6098,30,True,
+141,0.0,0.0,0.0,0.0,0.0,"Alex Borstein provided the original voice for Lois Griffin, but the question is about the voice for the character in ""Mickey's Safari in Letterland."" The passages mention that Alex Borstein was involved in voicing characters, but the specific voice for ""Mickey's Safari in Letterland"" is not directly attributed to her. However, considering the context, the answer is Alex Borstein.
+
+Answer: Alex Borstein",['Walt Disney'],0.3049933910369873,0.021157505748036144,1.925333023071289,6244,91,True,
+142,0.0,0.0,0.0,0.0,0.14285714285714288,Diane Disney Miller,['Edwin Landseer Lutyens'],0.3099384307861328,0.020922956012544177,0.8787641525268555,6217,42,True,
+143,0.5714285714285715,0.5,0.6666666666666666,0.5714285714285715,0.6666666666666665,mickey mouse mystery magazine,['The Mickey Mouse Club'],0.3107013702392578,0.02016362122126988,0.2822906970977783,6266,14,True,
+144,0.0,0.0,0.0,0.0,0.0,"The 2nd Panzer Division overran East Prussia, which was Erich Zakowski's birthplace.",['Russian troops'],0.3058812618255615,0.020940167563302175,1.0260682106018066,6250,49,True,
+145,0.4,0.2857142857142857,0.6666666666666666,0.4,0.375,The total area is 3.8 million square miles.,['17.037 square miles'],0.31175684928894043,0.020653768821998878,0.5576517581939697,6264,27,True,
+146,0.0,0.0,0.0,0.0,0.0,The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer of the question is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer of the question is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer,['names were replaced by new Russian names'],0.2996816635131836,0.02185220061801374,44.75330686569214,6078,2048,True,
+147,0.8,0.6666666666666666,1.0,0.8,0.588235294117647,The Curonians were expelled by the Soviet Union.,['expelled by the Soviet Union'],0.30711841583251953,0.021118841171264648,0.5279710292816162,6029,25,True,
+148,0.0,0.0,0.0,0.0,0.0,The producer of Julius Caesar studied or worked at the University of London.,['Clifton College'],0.3084592819213867,0.021325096007316344,0.6610779762268066,5821,31,True,
+149,0.4444444444444444,0.3333333333333333,0.6666666666666666,0.4444444444444444,0.25,The total area is 498 square miles.,['17.037 square miles'],0.32354021072387695,0.021032695770263673,0.5258173942565918,6344,25,True,

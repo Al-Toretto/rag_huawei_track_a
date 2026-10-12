@@ -1,0 +1,49 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"gnu12/12.1"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "gnu12/12.1"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"gnu12/12.1"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "gnu12/12.1"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"tools/git/v2.33"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "tools/git/v2.33"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+
+Currently Loaded Modules:
+  1) Python/Miniconda (H)   2) CUDA/12.9.1 (H)
+
+  Where:
+   H:  Hidden Module
+
+ 
+
+Lmod has detected the following error: Unable to find: "tools/git/v2.33".
+
+
+

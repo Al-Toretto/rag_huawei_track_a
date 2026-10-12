@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-07 15:30:52,544] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 15:30:52,544] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-07 15:30:52,544] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-07 15:34:10,532] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 15:34:10,551] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-07 15:34:11,279] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 15:34:11,280] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__neighbor_top50_left_cap024_4308333/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__neighbor_top50_left_cap024_4308333.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-07 15:34:11,289] INFO:[0m Summary: 50 requests, average_ttft=1.161390824317932 (second)
+ average_tpot=0.007855609119301183 (second)
+throughput=0.25358386396415145 (req/s)
+average_quality=0.34838095238095235
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-07 15:34:11,289] INFO:[0m QA metrics: average_f1_word=0.34838095238095235
+average_f1_tokenizer=0.36185803085803087
+average_precision=0.37
+average_recall=0.36166666666666664
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-07 15:34:11,297] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__neighbor_top50_left_cap024_4308333/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__neighbor_top50_left_cap024_4308333.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

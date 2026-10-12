@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 10 for model Qwen/Qwen3-32B
+[1m[2026-09-04 12:17:09,652] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:17:09,653] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:17:09,653] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:17:46,482] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:17:46,526] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:17:47,826] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:17:47,826] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_lmcache_blend_4303066/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_lmcache_blend_4303066.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:17:48,058] INFO:[0m Summary: 10 requests, average_ttft=1.5215555429458618 (second)
+ average_tpot=0.01510166817241245 (second)
+throughput=0.2668906638002201 (req/s)
+average_quality=0.26666666666666666
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:17:48,058] INFO:[0m QA metrics: average_f1_word=0.26666666666666666
+average_f1_tokenizer=0.3393939393939394
+average_precision=0.3
+average_recall=0.25
+ [3m(rag.py:615:__main__)[0m
+[32;20m[2026-09-04 12:17:48,178] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_lmcache_blend_4303066/qwen3_sampling_v4_seed42_diag10_2wikimqa_longbench_lmcache_blend_4303066.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

@@ -1,0 +1,16 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 48 for model Qwen/Qwen3-32B
+[1m[2026-09-08 05:06:47,307] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 05:06:47,307] INFO:[0m Generation stop sequences: ['# #', 'Dialogue:'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 05:06:47,307] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 05:09:57,274] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 05:09:57,310] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 05:09:59,013] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 05:09:59,014] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_rank_adaptive_k005_v020_boundary1_4308493/qwen3_chat_nothink_v5_seed42_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_rank_adaptive_k005_v020_boundary1_4308493.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 05:09:59,033] INFO:[0m Summary: 48 requests, average_ttft=1.5034724473953247 (second)
+ average_tpot=0.021193497088796448 (second)
+throughput=0.2523176463060621 (req/s)
+average_quality=0.3799770989862567
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 05:09:59,051] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_rank_adaptive_k005_v020_boundary1_4308493/qwen3_chat_nothink_v5_seed42_samsum_longbench_06_blend16_shared_candidates__blend16_layer1_rank_adaptive_k005_v020_boundary1_4308493.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json

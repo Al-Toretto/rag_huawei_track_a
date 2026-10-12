@@ -1,0 +1,20 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 2 for model Qwen/Qwen3-32B
+[1m[2026-10-06 05:14:38,971] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:14:38,971] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 05:14:38,971] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 05:14:43,353] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:14:43,407] INFO:[0m Waiting for 3 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 05:14:58,275] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 05:14:58,275] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_smoke_dureader_longbench_lmcache_blend_4375975/qwen3_chat_nothink_zh_v1_seed42_smoke_dureader_longbench_lmcache_blend_4375975.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4375975/jieba.cache
+Loading model cost 0.322 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 05:14:58,621] INFO:[0m Summary: 2 requests, average_ttft=3.1502721309661865 (second)
+ average_tpot=0.049130054668828416 (second)
+throughput=0.10548620548425637 (req/s)
+average_quality=0.18576444302585385
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 05:14:58,637] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_smoke_dureader_longbench_lmcache_blend_4375975/qwen3_chat_nothink_zh_v1_seed42_smoke_dureader_longbench_lmcache_blend_4375975.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

@@ -1,0 +1,6 @@
+Normal module lookup failed for gnu12/12.1; retrying without the Lmod cache.
+WARNING: optional compiler module gnu12/12.1 is unavailable.
+Continuing with the compiler/runtime libraries provided by Conda and the system.
+Failed to load module: tools/git/v2.33
+Current loaded modules:
+module spider output for tools/git/v2.33:

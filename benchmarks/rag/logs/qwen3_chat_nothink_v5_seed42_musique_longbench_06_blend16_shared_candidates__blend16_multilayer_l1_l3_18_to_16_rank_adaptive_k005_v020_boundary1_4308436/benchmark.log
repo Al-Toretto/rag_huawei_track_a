@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-08 03:10:27,172] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 03:10:27,172] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 03:10:27,172] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 03:13:46,140] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 03:13:46,194] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 03:13:47,823] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 03:13:47,823] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_boundary1_4308436/qwen3_chat_nothink_v5_seed42_musique_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_boundary1_4308436.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 03:13:47,998] INFO:[0m Summary: 50 requests, average_ttft=1.6644916152954101 (second)
+ average_tpot=0.007428061141854241 (second)
+throughput=0.25207942549644596 (req/s)
+average_quality=0.35333333333333333
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 03:13:47,998] INFO:[0m QA metrics: average_f1_word=0.35333333333333333
+average_f1_tokenizer=0.41139500265816054
+average_precision=0.36333333333333334
+average_recall=0.35
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-08 03:13:48,062] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_boundary1_4308436/qwen3_chat_nothink_v5_seed42_musique_longbench_06_blend16_shared_candidates__blend16_multilayer_l1_l3_18_to_16_rank_adaptive_k005_v020_boundary1_4308436.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

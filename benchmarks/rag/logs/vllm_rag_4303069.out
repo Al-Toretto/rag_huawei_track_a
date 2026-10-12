@@ -1,0 +1,51 @@
+run_name=qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+end_index=10
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=32
+sampling_temperature=0.6
+sampling_top_p=0.95
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:23069/health ...
+Server is ready after 95s. Starting benchmark...
+[1m[2026-09-04 12:34:40,413] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:34:40,413] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:298:__main__)[0m
+[32;20m[2026-09-04 12:34:40,413] INFO:[0m Generation sampling: temperature=0.6 top_p=0.95 top_k=20 min_p=0.0 seed=42 [3m(rag.py:299:__main__)[0m
+[32;20m[2026-09-04 12:34:40,414] INFO:[0m Warming up the engine [3m(rag.py:421:__main__)[0m
+[32;20m[2026-09-04 12:34:40,798] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:34:43,228] INFO:[0m Warm up finished. [3m(rag.py:427:__main__)[0m
+[32;20m[2026-09-04 12:35:20,023] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:35:20,075] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-04 12:35:23,207] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-04 12:35:23,207] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.csv [3m(rag.py:711:__main__)[0m
+[32;20m[2026-09-04 12:35:23,212] INFO:[0m Summary: 10 requests, average_ttft=2.5096688508987426 (second)
+ average_tpot=0.0163982655107975 (second)
+throughput=0.25429262770647193 (req/s)
+average_quality=0.3
+ [3m(rag.py:608:__main__)[0m
+[32;20m[2026-09-04 12:35:23,212] INFO:[0m QA metrics: average_f1_word=0.3
+average_f1_tokenizer=0.3181818181818182
+average_precision=0.3
+average_recall=0.3
+ [3m(rag.py:615:__main__)[0m
+[32;20m[2026-09-04 12:35:23,241] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.debug.csv [3m(rag.py:715:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_sampling_v4_seed42_diag10_musique_longbench_full_recompute_4303069/benchmark.log

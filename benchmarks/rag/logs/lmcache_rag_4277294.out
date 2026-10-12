@@ -1,0 +1,165 @@
+run_name=qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294
+node=cn-050
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/06_blend16_shared_candidates/blend16_layer1_kvsum_weighted10.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57294
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37294/health ...
+Server exited before becoming ready. Last 120 server log lines:
+INFO 08-26 00:09:37 [parallel_state.py:1102] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+WARNING 08-26 00:09:37 [topk_topp_sampler.py:59] FlashInfer is not available. Falling back to the PyTorch-native implementation of top-p & top-k sampling. For the best performance, please install FlashInfer.
+INFO 08-26 00:09:37 [gpu_model_runner.py:1843] Starting to load model /home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137...
+INFO 08-26 00:09:37 [gpu_model_runner.py:1875] Loading model from scratch...
+INFO 08-26 00:09:37 [cuda.py:290] Using Flash Attention backend on V1 engine.
+Loading safetensors checkpoint shards:   0% Completed | 0/17 [00:00<?, ?it/s]
+Loading safetensors checkpoint shards:   6% Completed | 1/17 [00:08<02:21,  8.83s/it]
+Loading safetensors checkpoint shards:  12% Completed | 2/17 [00:16<01:58,  7.93s/it]
+Loading safetensors checkpoint shards:  18% Completed | 3/17 [00:23<01:44,  7.48s/it]
+Loading safetensors checkpoint shards:  24% Completed | 4/17 [00:27<01:20,  6.20s/it]
+Loading safetensors checkpoint shards:  29% Completed | 5/17 [00:31<01:07,  5.63s/it]
+Loading safetensors checkpoint shards:  35% Completed | 6/17 [00:36<00:56,  5.15s/it]
+Loading safetensors checkpoint shards:  41% Completed | 7/17 [00:40<00:48,  4.86s/it]
+Loading safetensors checkpoint shards:  47% Completed | 8/17 [00:42<00:36,  4.06s/it]
+Loading safetensors checkpoint shards:  53% Completed | 9/17 [00:45<00:29,  3.71s/it]
+Loading safetensors checkpoint shards:  59% Completed | 10/17 [00:47<00:22,  3.22s/it]
+Loading safetensors checkpoint shards:  65% Completed | 11/17 [00:51<00:21,  3.51s/it]
+Loading safetensors checkpoint shards:  71% Completed | 12/17 [00:55<00:17,  3.41s/it]
+Loading safetensors checkpoint shards:  76% Completed | 13/17 [00:57<00:12,  3.17s/it]
+Loading safetensors checkpoint shards:  82% Completed | 14/17 [01:03<00:11,  3.82s/it]
+Loading safetensors checkpoint shards:  88% Completed | 15/17 [01:07<00:07,  3.93s/it]
+Loading safetensors checkpoint shards:  94% Completed | 16/17 [01:09<00:03,  3.49s/it]
+Loading safetensors checkpoint shards: 100% Completed | 17/17 [01:14<00:00,  3.76s/it]
+Loading safetensors checkpoint shards: 100% Completed | 17/17 [01:14<00:00,  4.36s/it]
+
+INFO 08-26 00:10:52 [default_loader.py:262] Loading weights took 74.20 seconds
+INFO 08-26 00:10:52 [gpu_model_runner.py:1892] Model loading took 61.0347 GiB and 74.577106 seconds
+[32;20m[2026-08-26 00:10:52,610] LMCache INFO:[0m Registering vllm model for vllm-instance [3m(utils.py:70:lmcache.v1.compute.models.utils)[0m
+INFO 08-26 00:10:52 [factory.py:74] Creating v1 connector with name: LMCacheConnectorV1 and engine_id: c15f6d68-9c70-4db5-9711-c8d70a134895
+WARNING 08-26 00:10:52 [base.py:71] Initializing KVConnectorBase_V1. This API is experimental and subject to change in the future as we iterate the design.
+[32;20m[2026-08-26 00:10:52,742] LMCache INFO:[0m Loading LMCache config file /home/a.tomat/work/LMCache/benchmarks/rag/06_blend16_shared_candidates/blend16_layer1_kvsum_weighted10.yaml [3m(utils.py:66:lmcache.integration.vllm.utils)[0m
+[32;20m[2026-08-26 00:10:52,782] LMCache INFO:[0m num_layer: 64, chunk_size: 256, num_kv_head (per gpu): 8, head_size: 128, hidden_dim (D) for KV (per gpu): 1024, use mla: False, kv shape: (64, 2, 256, 8, 128), num_draft_layers: 0 [3m(manager.py:334:lmcache.v1.manager)[0m
+[32;20m[2026-08-26 00:10:52,782] LMCache INFO:[0m CUDA device is available. Using CUDA for LMCache engine. [3m(utils.py:302:lmcache.integration.vllm.utils)[0m
+[32;20m[2026-08-26 00:10:52,782] LMCache INFO:[0m CUDA device is available. Using CUDA for LMCache engine. [3m(utils.py:302:lmcache.integration.vllm.utils)[0m
+[32;20m[2026-08-26 00:10:52,788] LMCache INFO:[0m Creating LMCacheEngine instance vllm-instance [3m(cache_engine.py:1942:lmcache.v1.cache_engine)[0m
+[32;20m[2026-08-26 00:10:52,788] LMCache INFO:[0m NUMA mapping for instance vllm-instance: None [3m(cache_engine.py:1945:lmcache.v1.cache_engine)[0m
+[33;20m[2026-08-26 00:10:52,788] LMCache WARNING:[0m Could not load 'builtin' from vLLM. Using builtin hash. This may cause inconsistencies in distributed caching. [3m(token_database.py:136:lmcache.v1.token_database)[0m
+[33;20m[2026-08-26 00:10:52,788] LMCache WARNING:[0m Using builtin hash without PYTHONHASHSEED set. For production environments (non-testing scenarios), you MUST set PYTHONHASHSEED to ensure consistent hashing across processes. Example: export PYTHONHASHSEED=0 [3m(token_database.py:143:lmcache.v1.token_database)[0m
+[32;20m[2026-08-26 00:10:52,789] LMCache INFO:[0m Initialized NONE_HASH=9893195733436671792746961080605466697655631537259382779658746172002779545977 from vLLM (>= PR#20511) [3m(token_database.py:74:lmcache.v1.token_database)[0m
+[32;20m[2026-08-26 00:10:52,789] LMCache INFO:[0m Using hash algorithm: builtin [3m(token_database.py:84:lmcache.v1.token_database)[0m
+[32;20m[2026-08-26 00:10:53,079] LMCache INFO:[0m Creating LMCacheEngine with config: {'chunk_size': 256, 'local_cpu': True, 'max_local_cpu_size': 320.0, 'reserve_local_cpu_size': 0.0, 'local_disk': None, 'max_local_disk_size': 0.0, 'remote_url': None, 'remote_serde': 'naive', 'use_layerwise': True, 'save_decode_cache': False, 'pre_caching_hash_algorithm': 'builtin', 'enable_blending': True, 'blend_recompute_ratios': [0.16], 'blend_thresholds': None, 'blend_check_layers': [1], 'blend_min_tokens': 256, 'blend_special_str': ' # # ', 'retrieve_locations': None, 'store_location': None, 'enable_p2p': False, 'p2p_host': None, 'p2p_init_ports': None, 'p2p_lookup_ports': None, 'enable_controller': False, 'lmcache_instance_id': None, 'controller_pull_url': None, 'controller_reply_url': None, 'lmcache_worker_ports': None, 'lmcache_worker_ids': None, 'lmcache_worker_heartbeat_delay_time': 10, 'lmcache_worker_heartbeat_time': None, 'enable_pd': False, 'pd_role': None, 'pd_buffer_size': None, 'pd_buffer_device': None, 'pd_peer_host': None, 'pd_peer_init_port': None, 'pd_peer_alloc_port': None, 'pd_proxy_host': None, 'pd_proxy_port': None, 'transfer_channel': None, 'nixl_backends': None, 'nixl_buffer_size': None, 'nixl_buffer_device': None, 'gds_path': None, 'cufile_buffer_size': None, 'audit_actual_remote_url': None, 'internal_api_server_host': '0.0.0.0', 'extra_config': {'blend_selected_attention_backend': 'xformers', 'blend_selection_strategy': 'topk_diff_kv_sum', 'blend_fusion_strategy': 'weighted_selected', 'blend_log_selection_stats': True, 'blend_log_fusion_stats': True, 'blend_force_chunk_boundary_tokens': False, 'blend_chunk_boundary_token_count': 1, 'blend_cached_k_weight': 0.1, 'blend_cached_v_weight': 0.1}, 'save_unfull_chunk': True, 'blocking_timeout_secs': 10, 'external_lookup_client': None, 'py_enable_gc': True, 'cache_policy': 'LRU', 'numa_mode': None, 'enable_async_loading': False, 'internal_api_server_enabled': False, 'internal_api_server_port_start': 6999, 'priority_limit': None, 'internal_api_server_include_index_list': None, 'internal_api_server_socket_path_prefix': None, 'runtime_plugin_locations': None, 'storage_plugins': None, 'remote_storage_plugins': None, 'lookup_timeout_ms': 3000, 'min_retrieve_tokens': 0, 'hit_miss_ratio': None, 'lookup_server_worker_ids': None, 'enable_scheduler_bypass_lookup': False, 'script_allowed_imports': None, 'enable_lazy_memory_allocator': False, 'lazy_memory_initial_ratio': 0.2, 'lazy_memory_expand_trigger_ratio': 0.5, 'lazy_memory_step_ratio': 0.1, 'lazy_memory_safe_size': 0.0, 'enable_chunk_statistics': False, 'chunk_statistics_auto_start_statistics': False, 'chunk_statistics_auto_exit_timeout_hours': 0.0, 'chunk_statistics_auto_exit_target_unique_chunks': 0, 'chunk_statistics_strategy': 'memory_bloom_filter', 'enable_kv_events': False, 'use_gpu_connector_v3': False, 'pin_timeout_sec': 300, 'pin_check_interval_sec': 30, 'remote_config_url': None, 'app_id': None} [3m(cache_engine.py:104:lmcache.v1.cache_engine)[0m
+[32;20m[2026-08-26 00:10:53,080] LMCache INFO:[0m LMCacheWorker is not initialized (related configs: enable_controller: False, role: worker, worker_id: 0, worker_ids: [0]). [3m(cache_engine.py:146:lmcache.v1.cache_engine)[0m
+[32;20m[2026-08-26 00:10:53,080] LMCache INFO:[0m KV events are disabled. [3m(cache_engine.py:175:lmcache.v1.cache_engine)[0m
+[32;20m[2026-08-26 00:10:53,081] LMCache INFO:[0m Initializing usage context. [3m(usage_context.py:411:lmcache.usage_context)[0m
+[32;20m[2026-08-26 00:11:03,296] LMCache INFO:[0m PeriodicThread PinMonitor-thread entering main loop (interval=30.0s) [3m(periodic_thread.py:279:lmcache.v1.periodic_thread)[0m
+[32;20m[2026-08-26 00:11:03,297] LMCache INFO:[0m Started PeriodicThread: PinMonitor-thread (level=critical, interval=30.0s, init_wait=0.0s) [3m(periodic_thread.py:239:lmcache.v1.periodic_thread)[0m
+[32;20m[2026-08-26 00:11:03,297] LMCache INFO:[0m PinMonitor started [3m(pin_monitor.py:212:lmcache.v1.pin_monitor)[0m
+[32;20m[2026-08-26 00:11:03,536] LMCache INFO:[0m lmcache lookup server started [3m(lmcache_lookup_client.py:259:lmcache.v1.lookup_client.lmcache_lookup_client)[0m
+[32;20m[2026-08-26 00:11:03,537] LMCache INFO:[0m Internal API server disabled. internal_api_server_enabled=False, port_offset=1, port=7000, socket_path=None, include_index_list=None [3m(api_server.py:58:lmcache.v1.internal_api_server.api_server)[0m
+[32;20m[2026-08-26 00:11:03,537] LMCache INFO:[0m Creating blender for vllm-instance [3m(utils.py:38:lmcache.v1.compute.blend.utils)[0m
+[32;20m[2026-08-26 00:11:03,592] LMCache INFO:[0m Max Q error: 0.01171875 [3m(positional_encoding.py:128:lmcache.v1.compute.positional_encoding)[0m
+[32;20m[2026-08-26 00:11:03,592] LMCache INFO:[0m Max K error: 0.01171875 [3m(positional_encoding.py:129:lmcache.v1.compute.positional_encoding)[0m
+[32;20m[2026-08-26 00:11:03,594] LMCache INFO:[0m Max K error (fused): 0.01171875 [3m(positional_encoding.py:142:lmcache.v1.compute.positional_encoding)[0m
+[32;20m[2026-08-26 00:11:03,910] LMCache INFO:[0m Blend separator tokenization ready model_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137 separator=' # # ' separator_token_count=3 force_chunk_boundaries=False chunk_boundary_token_count=1 selection_strategy=topk_diff_kv_sum selection_k_weight=1.000 selection_v_weight=1.000 final_recompute_ratio=0.000 neighbor_expand_top_ratio=1.000 neighbor_expand_radius=1 neighbor_expand_direction=both span_close_max_gap=1 fusion_strategy=weighted_selected cached_k_weight=0.100 cached_v_weight=0.100 min_cached_k_weight=0.000 max_cached_k_weight=1.000 min_cached_v_weight=0.000 max_cached_v_weight=1.000 [3m(blender.py:363:lmcache.v1.compute.blend.blender)[0m
+[33;20m[2026-08-26 00:11:03,936] LMCache WARNING:[0m Please use the latest lmcache connector, otherwise some features may not work, such as DSA [3m(vllm_v1_adapter.py:597:lmcache.integration.vllm.vllm_v1_adapter)[0m
+[32;20m[2026-08-26 00:11:03,939] LMCache INFO:[0m Post initializing LMCacheEngine [3m(cache_engine.py:283:lmcache.v1.cache_engine)[0m
+[32;20m[2026-08-26 00:11:03,940] LMCache INFO:[0m Initialize storage manager on rank 0, use layerwise: True,save only first rank: False [3m(cache_engine.py:295:lmcache.v1.cache_engine)[0m
+[32;20m[2026-08-26 00:11:03,941] LMCache INFO:[0m Initializing LRUCachePolicy [3m(lru.py:22:lmcache.v1.storage_backend.cache_policy.lru)[0m
+[32;20m[2026-08-26 00:11:03,941] LMCache INFO:[0m NUMA mapping None [3m(local_cpu_backend.py:369:lmcache.v1.storage_backend.local_cpu_backend)[0m
+Traceback (most recent call last):
+  File "/home/a.tomat/.conda/envs/lmcache/bin/vllm", line 6, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/entrypoints/cli/main.py", line 54, in main
+    args.dispatch_function(args)
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/entrypoints/cli/serve.py", line 52, in cmd
+    uvloop.run(run_server(args))
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/uvloop/__init__.py", line 96, in run
+    return __asyncio.run(
+           ^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/uvloop/__init__.py", line 48, in wrapper
+    return await main
+           ^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/entrypoints/openai/api_server.py", line 1791, in run_server
+    await run_server_worker(listen_address, sock, args, **uvicorn_kwargs)
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/entrypoints/openai/api_server.py", line 1811, in run_server_worker
+    async with build_async_engine_client(args, client_config) as engine_client:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/entrypoints/openai/api_server.py", line 158, in build_async_engine_client
+    async with build_async_engine_client_from_engine_args(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/entrypoints/openai/api_server.py", line 194, in build_async_engine_client_from_engine_args
+    async_llm = AsyncLLM.from_vllm_config(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/async_llm.py", line 163, in from_vllm_config
+    return cls(
+           ^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/async_llm.py", line 117, in __init__
+    self.engine_core = EngineCoreClient.make_async_mp_client(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core_client.py", line 98, in make_async_mp_client
+    return AsyncMPClient(*client_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core_client.py", line 677, in __init__
+    super().__init__(
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/core_client.py", line 408, in __init__
+    with launch_core_engines(vllm_config, executor_class,
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/utils.py", line 697, in launch_core_engines
+    wait_for_engine_startup(
+  File "/home/a.tomat/.conda/envs/lmcache/lib/python3.12/site-packages/vllm/v1/engine/utils.py", line 750, in wait_for_engine_startup
+    raise RuntimeError("Engine core initialization failed. "
+RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
+/home/a.tomat/.conda/envs/lmcache/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+Starting server attempt 2/2...
+Waiting for vLLM server on http://127.0.0.1:37294/health ...
+Server is ready after 375s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-26 00:22:36,510] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 00:25:54,298] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 00:25:54,315] INFO:[0m Waiting for 41 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-26 00:31:30,244] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 00:31:30,244] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-26 00:31:30,266] INFO:[0m Summary: 50 requests, average_ttft=113.76020241737366 (second)
+ average_tpot=0.09947774507668282 (second)
+throughput=0.09391130643328673 (req/s)
+average_quality=0.4896666666666667
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-26 00:31:30,266] INFO:[0m QA metrics: average_f1_word=0.4896666666666667
+average_f1_tokenizer=0.5229383949383949
+average_precision=0.5216666666666666
+average_recall=0.49333333333333335
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-26 00:31:30,293] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_kvsum_weighted10_4277294/benchmark.log

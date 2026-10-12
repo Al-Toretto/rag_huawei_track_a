@@ -1,0 +1,53 @@
+run_name=qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387
+node=cn-050
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_03_bound_and_mix/lmcache_blend_selector_diff_v.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=48387
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=32
+sampling_temperature=0.7
+sampling_top_p=0.8
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+chat_template_mode=qwen-non-thinking
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:28387/health ...
+Server is ready after 250s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-08 01:35:58,847] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:35:58,848] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 01:35:58,848] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 01:39:17,447] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:39:17,497] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 01:39:19,053] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:39:19,053] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 01:39:19,065] INFO:[0m Summary: 50 requests, average_ttft=1.560490756034851 (second)
+ average_tpot=0.007434361536184502 (second)
+throughput=0.2522235323598827 (req/s)
+average_quality=0.36666666666666664
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 01:39:19,065] INFO:[0m QA metrics: average_f1_word=0.36666666666666664
+average_f1_tokenizer=0.445901496164654
+average_precision=0.38333333333333336
+average_recall=0.36
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-08 01:39:19,073] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_selector_diff_v_4308387/benchmark.log

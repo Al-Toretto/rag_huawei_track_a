@@ -1,0 +1,3062 @@
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:   0%|          | 1/291 [00:01<05:53,  1.22s/it]Loading weights:   2%|▏         | 6/291 [00:01<00:48,  5.82it/s]Loading weights:   3%|▎         | 10/291 [00:01<00:27, 10.11it/s]Loading weights:   5%|▍         | 14/291 [00:02<00:33,  8.24it/s]Loading weights:   6%|▌         | 17/291 [00:02<00:27,  9.83it/s]Loading weights:   8%|▊         | 22/291 [00:02<00:24, 10.90it/s]Loading weights:  10%|▉         | 28/291 [00:03<00:21, 12.40it/s]Loading weights:  11%|█▏        | 33/291 [00:03<00:15, 16.14it/s]Loading weights:  12%|█▏        | 36/291 [00:03<00:16, 15.22it/s]Loading weights:  14%|█▎        | 40/291 [00:03<00:17, 14.65it/s]Loading weights:  14%|█▍        | 42/291 [00:03<00:18, 13.79it/s]Loading weights:  17%|█▋        | 49/291 [00:04<00:14, 16.62it/s]Loading weights:  18%|█▊        | 51/291 [00:04<00:17, 14.09it/s]Loading weights:  20%|█▉        | 58/291 [00:05<00:19, 12.20it/s]Loading weights:  21%|██        | 60/291 [00:05<00:21, 10.94it/s]Loading weights:  22%|██▏       | 63/291 [00:05<00:18, 12.01it/s]Loading weights:  23%|██▎       | 67/291 [00:05<00:16, 13.35it/s]Loading weights:  24%|██▎       | 69/291 [00:06<00:22, 10.02it/s]Loading weights:  26%|██▌       | 76/291 [00:06<00:15, 13.70it/s]Loading weights:  27%|██▋       | 78/291 [00:06<00:16, 12.74it/s]Loading weights:  28%|██▊       | 82/291 [00:06<00:15, 13.61it/s]Loading weights:  29%|██▉       | 85/291 [00:07<00:14, 13.85it/s]Loading weights:  30%|██▉       | 87/291 [00:07<00:18, 11.24it/s]Loading weights:  31%|███       | 90/291 [00:07<00:14, 13.51it/s]Loading weights:  33%|███▎      | 95/291 [00:08<00:20,  9.44it/s]Loading weights:  35%|███▍      | 101/291 [00:08<00:13, 13.87it/s]Loading weights:  36%|███▌      | 104/291 [00:09<00:17, 10.56it/s]Loading weights:  37%|███▋      | 107/291 [00:09<00:15, 11.50it/s]Loading weights:  38%|███▊      | 112/291 [00:09<00:14, 12.74it/s]Loading weights:  39%|███▉      | 114/291 [00:09<00:15, 11.76it/s]Loading weights:  42%|████▏     | 121/291 [00:10<00:12, 13.79it/s]Loading weights:  43%|████▎     | 124/291 [00:10<00:11, 15.14it/s]Loading weights:  44%|████▎     | 127/291 [00:10<00:11, 14.45it/s]Loading weights:  45%|████▌     | 132/291 [00:10<00:09, 17.16it/s]Loading weights:  48%|████▊     | 139/291 [00:11<00:10, 14.62it/s]Loading weights:  48%|████▊     | 141/291 [00:11<00:12, 12.35it/s]Loading weights:  51%|█████     | 148/291 [00:11<00:08, 16.47it/s]Loading weights:  52%|█████▏    | 152/291 [00:11<00:07, 18.90it/s]Loading weights:  54%|█████▎    | 156/291 [00:12<00:07, 18.02it/s]Loading weights:  56%|█████▌    | 163/291 [00:12<00:05, 21.93it/s]Loading weights:  57%|█████▋    | 166/291 [00:12<00:06, 19.08it/s]Loading weights:  59%|█████▉    | 172/291 [00:12<00:04, 25.16it/s]Loading weights:  60%|██████    | 176/291 [00:13<00:05, 21.95it/s]Loading weights:  62%|██████▏   | 180/291 [00:13<00:04, 24.96it/s]Loading weights:  63%|██████▎   | 184/291 [00:13<00:07, 14.41it/s]Loading weights:  66%|██████▋   | 193/291 [00:14<00:05, 18.88it/s]Loading weights:  68%|██████▊   | 197/291 [00:14<00:04, 19.37it/s]Loading weights:  69%|██████▉   | 202/291 [00:14<00:06, 13.06it/s]Loading weights:  70%|███████   | 204/291 [00:15<00:09,  9.35it/s]Loading weights:  73%|███████▎  | 211/291 [00:15<00:06, 11.64it/s]Loading weights:  75%|███████▌  | 219/291 [00:16<00:04, 17.66it/s]Loading weights:  77%|███████▋  | 223/291 [00:17<00:07,  9.41it/s]Loading weights:  79%|███████▊  | 229/291 [00:17<00:05, 11.26it/s]Loading weights:  80%|████████  | 234/291 [00:18<00:05, 10.33it/s]Loading weights:  84%|████████▎ | 243/291 [00:18<00:03, 15.09it/s]Loading weights:  85%|████████▍ | 246/291 [00:18<00:03, 13.69it/s]Loading weights:  86%|████████▌ | 249/291 [00:18<00:02, 14.39it/s]Loading weights:  87%|████████▋ | 254/291 [00:18<00:02, 18.33it/s]Loading weights:  89%|████████▊ | 258/291 [00:19<00:01, 19.08it/s]Loading weights:  90%|█████████ | 263/291 [00:19<00:01, 19.21it/s]Loading weights:  91%|█████████▏| 266/291 [00:19<00:01, 16.42it/s]Loading weights:  93%|█████████▎| 271/291 [00:19<00:00, 20.84it/s]Loading weights:  94%|█████████▍| 274/291 [00:19<00:00, 21.38it/s]Loading weights:  95%|█████████▌| 277/291 [00:20<00:00, 17.87it/s]Loading weights:  96%|█████████▌| 280/291 [00:20<00:00, 16.56it/s]Loading weights:  97%|█████████▋| 283/291 [00:20<00:00, 18.65it/s]Loading weights:  98%|█████████▊| 286/291 [00:20<00:00, 17.15it/s]Loading weights: 100%|██████████| 291/291 [00:20<00:00, 14.10it/s]
+Wrote samsum_longbench:0:Full Recompute
+Wrote samsum_longbench:1:Full Recompute
+Wrote samsum_longbench:2:Full Recompute
+Wrote samsum_longbench:3:Full Recompute
+Wrote samsum_longbench:4:Full Recompute
+Wrote samsum_longbench:5:Full Recompute
+Wrote samsum_longbench:6:Full Recompute
+Wrote samsum_longbench:7:Full Recompute
+Wrote samsum_longbench:8:Full Recompute
+Wrote samsum_longbench:9:Full Recompute
+Wrote samsum_longbench:10:Full Recompute
+Wrote samsum_longbench:11:Full Recompute
+Wrote samsum_longbench:12:Full Recompute
+Wrote samsum_longbench:13:Full Recompute
+Wrote samsum_longbench:14:Full Recompute
+Wrote samsum_longbench:15:Full Recompute
+Wrote samsum_longbench:16:Full Recompute
+Wrote samsum_longbench:17:Full Recompute
+Wrote samsum_longbench:18:Full Recompute
+Wrote samsum_longbench:19:Full Recompute
+Wrote samsum_longbench:20:Full Recompute
+Wrote samsum_longbench:21:Full Recompute
+Wrote samsum_longbench:22:Full Recompute
+Wrote samsum_longbench:23:Full Recompute
+Wrote samsum_longbench:24:Full Recompute
+Wrote samsum_longbench:25:Full Recompute
+Wrote samsum_longbench:26:Full Recompute
+Wrote samsum_longbench:27:Full Recompute
+Wrote samsum_longbench:28:Full Recompute
+Wrote samsum_longbench:29:Full Recompute
+Wrote samsum_longbench:30:Full Recompute
+Wrote samsum_longbench:31:Full Recompute
+Wrote samsum_longbench:32:Full Recompute
+Wrote samsum_longbench:33:Full Recompute
+Wrote samsum_longbench:34:Full Recompute
+Wrote samsum_longbench:35:Full Recompute
+Wrote samsum_longbench:36:Full Recompute
+Wrote samsum_longbench:37:Full Recompute
+Wrote samsum_longbench:38:Full Recompute
+Wrote samsum_longbench:39:Full Recompute
+Wrote samsum_longbench:40:Full Recompute
+Wrote samsum_longbench:41:Full Recompute
+Wrote samsum_longbench:42:Full Recompute
+Wrote samsum_longbench:43:Full Recompute
+Wrote samsum_longbench:44:Full Recompute
+Wrote samsum_longbench:45:Full Recompute
+Wrote samsum_longbench:46:Full Recompute
+Wrote samsum_longbench:47:Full Recompute
+Wrote samsum_longbench:48:Full Recompute
+Wrote samsum_longbench:49:Full Recompute
+Wrote samsum_longbench:0:Blend (16%) layer 1
+Wrote samsum_longbench:1:Blend (16%) layer 1
+Wrote samsum_longbench:2:Blend (16%) layer 1
+Wrote samsum_longbench:3:Blend (16%) layer 1
+Wrote samsum_longbench:4:Blend (16%) layer 1
+Wrote samsum_longbench:5:Blend (16%) layer 1
+Wrote samsum_longbench:6:Blend (16%) layer 1
+Wrote samsum_longbench:7:Blend (16%) layer 1
+Wrote samsum_longbench:8:Blend (16%) layer 1
+Wrote samsum_longbench:9:Blend (16%) layer 1
+Wrote samsum_longbench:10:Blend (16%) layer 1
+Wrote samsum_longbench:11:Blend (16%) layer 1
+Wrote samsum_longbench:12:Blend (16%) layer 1
+Wrote samsum_longbench:13:Blend (16%) layer 1
+Wrote samsum_longbench:14:Blend (16%) layer 1
+Wrote samsum_longbench:15:Blend (16%) layer 1
+Wrote samsum_longbench:16:Blend (16%) layer 1
+Wrote samsum_longbench:17:Blend (16%) layer 1
+Wrote samsum_longbench:18:Blend (16%) layer 1
+Wrote samsum_longbench:19:Blend (16%) layer 1
+Wrote samsum_longbench:20:Blend (16%) layer 1
+Wrote samsum_longbench:21:Blend (16%) layer 1
+Wrote samsum_longbench:22:Blend (16%) layer 1
+Wrote samsum_longbench:23:Blend (16%) layer 1
+Wrote samsum_longbench:24:Blend (16%) layer 1
+Wrote samsum_longbench:25:Blend (16%) layer 1
+Wrote samsum_longbench:26:Blend (16%) layer 1
+Wrote samsum_longbench:27:Blend (16%) layer 1
+Wrote samsum_longbench:28:Blend (16%) layer 1
+Wrote samsum_longbench:29:Blend (16%) layer 1
+Wrote samsum_longbench:30:Blend (16%) layer 1
+Wrote samsum_longbench:31:Blend (16%) layer 1
+Wrote samsum_longbench:32:Blend (16%) layer 1
+Wrote samsum_longbench:33:Blend (16%) layer 1
+Wrote samsum_longbench:34:Blend (16%) layer 1
+Wrote samsum_longbench:35:Blend (16%) layer 1
+Wrote samsum_longbench:36:Blend (16%) layer 1
+Wrote samsum_longbench:37:Blend (16%) layer 1
+Wrote samsum_longbench:38:Blend (16%) layer 1
+Wrote samsum_longbench:39:Blend (16%) layer 1
+Wrote samsum_longbench:40:Blend (16%) layer 1
+Wrote samsum_longbench:41:Blend (16%) layer 1
+Wrote samsum_longbench:42:Blend (16%) layer 1
+Wrote samsum_longbench:43:Blend (16%) layer 1
+Wrote samsum_longbench:44:Blend (16%) layer 1
+Wrote samsum_longbench:45:Blend (16%) layer 1
+Wrote samsum_longbench:46:Blend (16%) layer 1
+Wrote samsum_longbench:47:Blend (16%) layer 1
+Wrote samsum_longbench:48:Blend (16%) layer 1
+Wrote samsum_longbench:49:Blend (16%) layer 1
+Wrote samsum_longbench:0:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:1:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:2:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:3:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:4:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:5:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:6:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:7:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:8:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:9:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:10:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:11:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:12:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:13:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:14:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:15:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:16:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:17:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:18:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:19:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:20:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:21:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:22:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:23:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:24:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:25:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:26:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:27:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:28:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:29:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:30:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:31:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:32:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:33:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:34:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:35:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:36:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:37:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:38:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:39:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:40:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:41:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:42:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:43:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:44:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:45:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:46:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:47:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:48:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:49:Blend (16%) layer 1 margin tokens 1
+Wrote samsum_longbench:0:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:1:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:2:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:3:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:4:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:5:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:6:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:7:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:8:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:9:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:10:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:11:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:12:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:13:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:14:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:15:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:16:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:17:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:18:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:19:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:20:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:21:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:22:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:23:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:24:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:25:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:26:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:27:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:28:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:29:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:30:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:31:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:32:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:33:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:34:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:35:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:36:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:37:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:38:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:39:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:40:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:41:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:42:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:43:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:44:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:45:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:46:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:47:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:48:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:49:Blend (16%) layer 1 margin tokens 2
+Wrote samsum_longbench:0:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:1:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:2:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:3:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:4:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:5:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:6:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:7:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:8:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:9:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:10:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:11:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:12:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:13:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:14:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:15:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:16:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:17:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:18:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:19:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:20:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:21:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:22:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:23:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:24:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:25:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:26:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:27:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:28:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:29:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:30:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:31:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:32:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:33:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:34:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:35:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:36:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:37:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:38:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:39:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:40:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:41:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:42:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:43:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:44:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:45:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:46:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:47:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:48:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:49:Blend (16%) layer 1 margin tokens 3
+Wrote samsum_longbench:0:Blend (16%) weighted 50-50
+Wrote samsum_longbench:1:Blend (16%) weighted 50-50
+Wrote samsum_longbench:2:Blend (16%) weighted 50-50
+Wrote samsum_longbench:3:Blend (16%) weighted 50-50
+Wrote samsum_longbench:4:Blend (16%) weighted 50-50
+Wrote samsum_longbench:5:Blend (16%) weighted 50-50
+Wrote samsum_longbench:6:Blend (16%) weighted 50-50
+Wrote samsum_longbench:7:Blend (16%) weighted 50-50
+Wrote samsum_longbench:8:Blend (16%) weighted 50-50
+Wrote samsum_longbench:9:Blend (16%) weighted 50-50
+Wrote samsum_longbench:10:Blend (16%) weighted 50-50
+Wrote samsum_longbench:11:Blend (16%) weighted 50-50
+Wrote samsum_longbench:12:Blend (16%) weighted 50-50
+Wrote samsum_longbench:13:Blend (16%) weighted 50-50
+Wrote samsum_longbench:14:Blend (16%) weighted 50-50
+Wrote samsum_longbench:15:Blend (16%) weighted 50-50
+Wrote samsum_longbench:16:Blend (16%) weighted 50-50
+Wrote samsum_longbench:17:Blend (16%) weighted 50-50
+Wrote samsum_longbench:18:Blend (16%) weighted 50-50
+Wrote samsum_longbench:19:Blend (16%) weighted 50-50
+Wrote samsum_longbench:20:Blend (16%) weighted 50-50
+Wrote samsum_longbench:21:Blend (16%) weighted 50-50
+Wrote samsum_longbench:22:Blend (16%) weighted 50-50
+Wrote samsum_longbench:23:Blend (16%) weighted 50-50
+Wrote samsum_longbench:24:Blend (16%) weighted 50-50
+Wrote samsum_longbench:25:Blend (16%) weighted 50-50
+Wrote samsum_longbench:26:Blend (16%) weighted 50-50
+Wrote samsum_longbench:27:Blend (16%) weighted 50-50
+Wrote samsum_longbench:28:Blend (16%) weighted 50-50
+Wrote samsum_longbench:29:Blend (16%) weighted 50-50
+Wrote samsum_longbench:30:Blend (16%) weighted 50-50
+Wrote samsum_longbench:31:Blend (16%) weighted 50-50
+Wrote samsum_longbench:32:Blend (16%) weighted 50-50
+Wrote samsum_longbench:33:Blend (16%) weighted 50-50
+Wrote samsum_longbench:34:Blend (16%) weighted 50-50
+Wrote samsum_longbench:35:Blend (16%) weighted 50-50
+Wrote samsum_longbench:36:Blend (16%) weighted 50-50
+Wrote samsum_longbench:37:Blend (16%) weighted 50-50
+Wrote samsum_longbench:38:Blend (16%) weighted 50-50
+Wrote samsum_longbench:39:Blend (16%) weighted 50-50
+Wrote samsum_longbench:40:Blend (16%) weighted 50-50
+Wrote samsum_longbench:41:Blend (16%) weighted 50-50
+Wrote samsum_longbench:42:Blend (16%) weighted 50-50
+Wrote samsum_longbench:43:Blend (16%) weighted 50-50
+Wrote samsum_longbench:44:Blend (16%) weighted 50-50
+Wrote samsum_longbench:45:Blend (16%) weighted 50-50
+Wrote samsum_longbench:46:Blend (16%) weighted 50-50
+Wrote samsum_longbench:47:Blend (16%) weighted 50-50
+Wrote samsum_longbench:48:Blend (16%) weighted 50-50
+Wrote samsum_longbench:49:Blend (16%) weighted 50-50
+Wrote samsum_longbench:0:Blend (16%) weighted 30-30
+Wrote samsum_longbench:1:Blend (16%) weighted 30-30
+Wrote samsum_longbench:2:Blend (16%) weighted 30-30
+Wrote samsum_longbench:3:Blend (16%) weighted 30-30
+Wrote samsum_longbench:4:Blend (16%) weighted 30-30
+Wrote samsum_longbench:5:Blend (16%) weighted 30-30
+Wrote samsum_longbench:6:Blend (16%) weighted 30-30
+Wrote samsum_longbench:7:Blend (16%) weighted 30-30
+Wrote samsum_longbench:8:Blend (16%) weighted 30-30
+Wrote samsum_longbench:9:Blend (16%) weighted 30-30
+Wrote samsum_longbench:10:Blend (16%) weighted 30-30
+Wrote samsum_longbench:11:Blend (16%) weighted 30-30
+Wrote samsum_longbench:12:Blend (16%) weighted 30-30
+Wrote samsum_longbench:13:Blend (16%) weighted 30-30
+Wrote samsum_longbench:14:Blend (16%) weighted 30-30
+Wrote samsum_longbench:15:Blend (16%) weighted 30-30
+Wrote samsum_longbench:16:Blend (16%) weighted 30-30
+Wrote samsum_longbench:17:Blend (16%) weighted 30-30
+Wrote samsum_longbench:18:Blend (16%) weighted 30-30
+Wrote samsum_longbench:19:Blend (16%) weighted 30-30
+Wrote samsum_longbench:20:Blend (16%) weighted 30-30
+Wrote samsum_longbench:21:Blend (16%) weighted 30-30
+Wrote samsum_longbench:22:Blend (16%) weighted 30-30
+Wrote samsum_longbench:23:Blend (16%) weighted 30-30
+Wrote samsum_longbench:24:Blend (16%) weighted 30-30
+Wrote samsum_longbench:25:Blend (16%) weighted 30-30
+Wrote samsum_longbench:26:Blend (16%) weighted 30-30
+Wrote samsum_longbench:27:Blend (16%) weighted 30-30
+Wrote samsum_longbench:28:Blend (16%) weighted 30-30
+Wrote samsum_longbench:29:Blend (16%) weighted 30-30
+Wrote samsum_longbench:30:Blend (16%) weighted 30-30
+Wrote samsum_longbench:31:Blend (16%) weighted 30-30
+Wrote samsum_longbench:32:Blend (16%) weighted 30-30
+Wrote samsum_longbench:33:Blend (16%) weighted 30-30
+Wrote samsum_longbench:34:Blend (16%) weighted 30-30
+Wrote samsum_longbench:35:Blend (16%) weighted 30-30
+Wrote samsum_longbench:36:Blend (16%) weighted 30-30
+Wrote samsum_longbench:37:Blend (16%) weighted 30-30
+Wrote samsum_longbench:38:Blend (16%) weighted 30-30
+Wrote samsum_longbench:39:Blend (16%) weighted 30-30
+Wrote samsum_longbench:40:Blend (16%) weighted 30-30
+Wrote samsum_longbench:41:Blend (16%) weighted 30-30
+Wrote samsum_longbench:42:Blend (16%) weighted 30-30
+Wrote samsum_longbench:43:Blend (16%) weighted 30-30
+Wrote samsum_longbench:44:Blend (16%) weighted 30-30
+Wrote samsum_longbench:45:Blend (16%) weighted 30-30
+Wrote samsum_longbench:46:Blend (16%) weighted 30-30
+Wrote samsum_longbench:47:Blend (16%) weighted 30-30
+Wrote samsum_longbench:48:Blend (16%) weighted 30-30
+Wrote samsum_longbench:49:Blend (16%) weighted 30-30
+Wrote samsum_longbench:0:Blend (16%) weighted 20-20
+Wrote samsum_longbench:1:Blend (16%) weighted 20-20
+Wrote samsum_longbench:2:Blend (16%) weighted 20-20
+Wrote samsum_longbench:3:Blend (16%) weighted 20-20
+Wrote samsum_longbench:4:Blend (16%) weighted 20-20
+Wrote samsum_longbench:5:Blend (16%) weighted 20-20
+Wrote samsum_longbench:6:Blend (16%) weighted 20-20
+Wrote samsum_longbench:7:Blend (16%) weighted 20-20
+Wrote samsum_longbench:8:Blend (16%) weighted 20-20
+Wrote samsum_longbench:9:Blend (16%) weighted 20-20
+Wrote samsum_longbench:10:Blend (16%) weighted 20-20
+Wrote samsum_longbench:11:Blend (16%) weighted 20-20
+Wrote samsum_longbench:12:Blend (16%) weighted 20-20
+Wrote samsum_longbench:13:Blend (16%) weighted 20-20
+Wrote samsum_longbench:14:Blend (16%) weighted 20-20
+Wrote samsum_longbench:15:Blend (16%) weighted 20-20
+Wrote samsum_longbench:16:Blend (16%) weighted 20-20
+Wrote samsum_longbench:17:Blend (16%) weighted 20-20
+Wrote samsum_longbench:18:Blend (16%) weighted 20-20
+Wrote samsum_longbench:19:Blend (16%) weighted 20-20
+Wrote samsum_longbench:20:Blend (16%) weighted 20-20
+Wrote samsum_longbench:21:Blend (16%) weighted 20-20
+Wrote samsum_longbench:22:Blend (16%) weighted 20-20
+Wrote samsum_longbench:23:Blend (16%) weighted 20-20
+Wrote samsum_longbench:24:Blend (16%) weighted 20-20
+Wrote samsum_longbench:25:Blend (16%) weighted 20-20
+Wrote samsum_longbench:26:Blend (16%) weighted 20-20
+Wrote samsum_longbench:27:Blend (16%) weighted 20-20
+Wrote samsum_longbench:28:Blend (16%) weighted 20-20
+Wrote samsum_longbench:29:Blend (16%) weighted 20-20
+Wrote samsum_longbench:30:Blend (16%) weighted 20-20
+Wrote samsum_longbench:31:Blend (16%) weighted 20-20
+Wrote samsum_longbench:32:Blend (16%) weighted 20-20
+Wrote samsum_longbench:33:Blend (16%) weighted 20-20
+Wrote samsum_longbench:34:Blend (16%) weighted 20-20
+Wrote samsum_longbench:35:Blend (16%) weighted 20-20
+Wrote samsum_longbench:36:Blend (16%) weighted 20-20
+Wrote samsum_longbench:37:Blend (16%) weighted 20-20
+Wrote samsum_longbench:38:Blend (16%) weighted 20-20
+Wrote samsum_longbench:39:Blend (16%) weighted 20-20
+Wrote samsum_longbench:40:Blend (16%) weighted 20-20
+Wrote samsum_longbench:41:Blend (16%) weighted 20-20
+Wrote samsum_longbench:42:Blend (16%) weighted 20-20
+Wrote samsum_longbench:43:Blend (16%) weighted 20-20
+Wrote samsum_longbench:44:Blend (16%) weighted 20-20
+Wrote samsum_longbench:45:Blend (16%) weighted 20-20
+Wrote samsum_longbench:46:Blend (16%) weighted 20-20
+Wrote samsum_longbench:47:Blend (16%) weighted 20-20
+Wrote samsum_longbench:48:Blend (16%) weighted 20-20
+Wrote samsum_longbench:49:Blend (16%) weighted 20-20
+Wrote samsum_longbench:0:Blend (16%) weighted 10-10
+Wrote samsum_longbench:1:Blend (16%) weighted 10-10
+Wrote samsum_longbench:2:Blend (16%) weighted 10-10
+Wrote samsum_longbench:3:Blend (16%) weighted 10-10
+Wrote samsum_longbench:4:Blend (16%) weighted 10-10
+Wrote samsum_longbench:5:Blend (16%) weighted 10-10
+Wrote samsum_longbench:6:Blend (16%) weighted 10-10
+Wrote samsum_longbench:7:Blend (16%) weighted 10-10
+Wrote samsum_longbench:8:Blend (16%) weighted 10-10
+Wrote samsum_longbench:9:Blend (16%) weighted 10-10
+Wrote samsum_longbench:10:Blend (16%) weighted 10-10
+Wrote samsum_longbench:11:Blend (16%) weighted 10-10
+Wrote samsum_longbench:12:Blend (16%) weighted 10-10
+Wrote samsum_longbench:13:Blend (16%) weighted 10-10
+Wrote samsum_longbench:14:Blend (16%) weighted 10-10
+Wrote samsum_longbench:15:Blend (16%) weighted 10-10
+Wrote samsum_longbench:16:Blend (16%) weighted 10-10
+Wrote samsum_longbench:17:Blend (16%) weighted 10-10
+Wrote samsum_longbench:18:Blend (16%) weighted 10-10
+Wrote samsum_longbench:19:Blend (16%) weighted 10-10
+Wrote samsum_longbench:20:Blend (16%) weighted 10-10
+Wrote samsum_longbench:21:Blend (16%) weighted 10-10
+Wrote samsum_longbench:22:Blend (16%) weighted 10-10
+Wrote samsum_longbench:23:Blend (16%) weighted 10-10
+Wrote samsum_longbench:24:Blend (16%) weighted 10-10
+Wrote samsum_longbench:25:Blend (16%) weighted 10-10
+Wrote samsum_longbench:26:Blend (16%) weighted 10-10
+Wrote samsum_longbench:27:Blend (16%) weighted 10-10
+Wrote samsum_longbench:28:Blend (16%) weighted 10-10
+Wrote samsum_longbench:29:Blend (16%) weighted 10-10
+Wrote samsum_longbench:30:Blend (16%) weighted 10-10
+Wrote samsum_longbench:31:Blend (16%) weighted 10-10
+Wrote samsum_longbench:32:Blend (16%) weighted 10-10
+Wrote samsum_longbench:33:Blend (16%) weighted 10-10
+Wrote samsum_longbench:34:Blend (16%) weighted 10-10
+Wrote samsum_longbench:35:Blend (16%) weighted 10-10
+Wrote samsum_longbench:36:Blend (16%) weighted 10-10
+Wrote samsum_longbench:37:Blend (16%) weighted 10-10
+Wrote samsum_longbench:38:Blend (16%) weighted 10-10
+Wrote samsum_longbench:39:Blend (16%) weighted 10-10
+Wrote samsum_longbench:40:Blend (16%) weighted 10-10
+Wrote samsum_longbench:41:Blend (16%) weighted 10-10
+Wrote samsum_longbench:42:Blend (16%) weighted 10-10
+Wrote samsum_longbench:43:Blend (16%) weighted 10-10
+Wrote samsum_longbench:44:Blend (16%) weighted 10-10
+Wrote samsum_longbench:45:Blend (16%) weighted 10-10
+Wrote samsum_longbench:46:Blend (16%) weighted 10-10
+Wrote samsum_longbench:47:Blend (16%) weighted 10-10
+Wrote samsum_longbench:48:Blend (16%) weighted 10-10
+Wrote samsum_longbench:49:Blend (16%) weighted 10-10
+Wrote samsum_longbench:0:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:1:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:2:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:3:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:4:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:5:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:6:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:7:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:8:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:9:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:10:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:11:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:12:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:13:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:14:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:15:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:16:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:17:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:18:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:19:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:20:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:21:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:22:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:23:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:24:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:25:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:26:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:27:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:28:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:29:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:30:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:31:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:32:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:33:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:34:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:35:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:36:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:37:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:38:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:39:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:40:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:41:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:42:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:43:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:44:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:45:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:46:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:47:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:48:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:49:Blend (16%) weighted K0-V20
+Wrote samsum_longbench:0:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:1:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:2:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:3:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:4:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:5:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:6:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:7:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:8:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:9:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:10:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:11:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:12:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:13:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:14:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:15:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:16:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:17:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:18:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:19:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:20:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:21:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:22:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:23:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:24:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:25:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:26:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:27:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:28:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:29:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:30:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:31:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:32:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:33:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:34:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:35:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:36:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:37:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:38:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:39:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:40:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:41:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:42:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:43:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:44:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:45:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:46:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:47:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:48:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:49:Blend (16%) adaptive weights K0-20, V0-20
+Wrote samsum_longbench:0:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:1:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:2:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:3:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:4:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:5:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:6:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:7:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:8:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:9:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:10:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:11:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:12:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:13:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:14:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:15:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:16:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:17:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:18:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:19:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:20:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:21:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:22:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:23:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:24:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:25:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:26:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:27:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:28:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:29:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:30:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:31:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:32:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:33:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:34:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:35:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:36:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:37:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:38:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:39:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:40:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:41:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:42:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:43:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:44:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:45:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:46:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:47:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:48:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:49:Blend (16%) adaptive weights K0-15, V0-40
+Wrote samsum_longbench:0:SELECTOR K+V
+Wrote samsum_longbench:1:SELECTOR K+V
+Wrote samsum_longbench:2:SELECTOR K+V
+Wrote samsum_longbench:3:SELECTOR K+V
+Wrote samsum_longbench:4:SELECTOR K+V
+Wrote samsum_longbench:5:SELECTOR K+V
+Wrote samsum_longbench:6:SELECTOR K+V
+Wrote samsum_longbench:7:SELECTOR K+V
+Wrote samsum_longbench:8:SELECTOR K+V
+Wrote samsum_longbench:9:SELECTOR K+V
+Wrote samsum_longbench:10:SELECTOR K+V
+Wrote samsum_longbench:11:SELECTOR K+V
+Wrote samsum_longbench:12:SELECTOR K+V
+Wrote samsum_longbench:13:SELECTOR K+V
+Wrote samsum_longbench:14:SELECTOR K+V
+Wrote samsum_longbench:15:SELECTOR K+V
+Wrote samsum_longbench:16:SELECTOR K+V
+Wrote samsum_longbench:17:SELECTOR K+V
+Wrote samsum_longbench:18:SELECTOR K+V
+Wrote samsum_longbench:19:SELECTOR K+V
+Wrote samsum_longbench:20:SELECTOR K+V
+Wrote samsum_longbench:21:SELECTOR K+V
+Wrote samsum_longbench:22:SELECTOR K+V
+Wrote samsum_longbench:23:SELECTOR K+V
+Wrote samsum_longbench:24:SELECTOR K+V
+Wrote samsum_longbench:25:SELECTOR K+V
+Wrote samsum_longbench:26:SELECTOR K+V
+Wrote samsum_longbench:27:SELECTOR K+V
+Wrote samsum_longbench:28:SELECTOR K+V
+Wrote samsum_longbench:29:SELECTOR K+V
+Wrote samsum_longbench:30:SELECTOR K+V
+Wrote samsum_longbench:31:SELECTOR K+V
+Wrote samsum_longbench:32:SELECTOR K+V
+Wrote samsum_longbench:33:SELECTOR K+V
+Wrote samsum_longbench:34:SELECTOR K+V
+Wrote samsum_longbench:35:SELECTOR K+V
+Wrote samsum_longbench:36:SELECTOR K+V
+Wrote samsum_longbench:37:SELECTOR K+V
+Wrote samsum_longbench:38:SELECTOR K+V
+Wrote samsum_longbench:39:SELECTOR K+V
+Wrote samsum_longbench:40:SELECTOR K+V
+Wrote samsum_longbench:41:SELECTOR K+V
+Wrote samsum_longbench:42:SELECTOR K+V
+Wrote samsum_longbench:43:SELECTOR K+V
+Wrote samsum_longbench:44:SELECTOR K+V
+Wrote samsum_longbench:45:SELECTOR K+V
+Wrote samsum_longbench:46:SELECTOR K+V
+Wrote samsum_longbench:47:SELECTOR K+V
+Wrote samsum_longbench:48:SELECTOR K+V
+Wrote samsum_longbench:49:SELECTOR K+V
+Wrote samsum_longbench:0:SELECTOR V
+Wrote samsum_longbench:1:SELECTOR V
+Wrote samsum_longbench:2:SELECTOR V
+Wrote samsum_longbench:3:SELECTOR V
+Wrote samsum_longbench:4:SELECTOR V
+Wrote samsum_longbench:5:SELECTOR V
+Wrote samsum_longbench:6:SELECTOR V
+Wrote samsum_longbench:7:SELECTOR V
+Wrote samsum_longbench:8:SELECTOR V
+Wrote samsum_longbench:9:SELECTOR V
+Wrote samsum_longbench:10:SELECTOR V
+Wrote samsum_longbench:11:SELECTOR V
+Wrote samsum_longbench:12:SELECTOR V
+Wrote samsum_longbench:13:SELECTOR V
+Wrote samsum_longbench:14:SELECTOR V
+Wrote samsum_longbench:15:SELECTOR V
+Wrote samsum_longbench:16:SELECTOR V
+Wrote samsum_longbench:17:SELECTOR V
+Wrote samsum_longbench:18:SELECTOR V
+Wrote samsum_longbench:19:SELECTOR V
+Wrote samsum_longbench:20:SELECTOR V
+Wrote samsum_longbench:21:SELECTOR V
+Wrote samsum_longbench:22:SELECTOR V
+Wrote samsum_longbench:23:SELECTOR V
+Wrote samsum_longbench:24:SELECTOR V
+Wrote samsum_longbench:25:SELECTOR V
+Wrote samsum_longbench:26:SELECTOR V
+Wrote samsum_longbench:27:SELECTOR V
+Wrote samsum_longbench:28:SELECTOR V
+Wrote samsum_longbench:29:SELECTOR V
+Wrote samsum_longbench:30:SELECTOR V
+Wrote samsum_longbench:31:SELECTOR V
+Wrote samsum_longbench:32:SELECTOR V
+Wrote samsum_longbench:33:SELECTOR V
+Wrote samsum_longbench:34:SELECTOR V
+Wrote samsum_longbench:35:SELECTOR V
+Wrote samsum_longbench:36:SELECTOR V
+Wrote samsum_longbench:37:SELECTOR V
+Wrote samsum_longbench:38:SELECTOR V
+Wrote samsum_longbench:39:SELECTOR V
+Wrote samsum_longbench:40:SELECTOR V
+Wrote samsum_longbench:41:SELECTOR V
+Wrote samsum_longbench:42:SELECTOR V
+Wrote samsum_longbench:43:SELECTOR V
+Wrote samsum_longbench:44:SELECTOR V
+Wrote samsum_longbench:45:SELECTOR V
+Wrote samsum_longbench:46:SELECTOR V
+Wrote samsum_longbench:47:SELECTOR V
+Wrote samsum_longbench:48:SELECTOR V
+Wrote samsum_longbench:49:SELECTOR V
+Wrote samsum_longbench:0:Blend (20%) layer 1
+Wrote samsum_longbench:1:Blend (20%) layer 1
+Wrote samsum_longbench:2:Blend (20%) layer 1
+Wrote samsum_longbench:3:Blend (20%) layer 1
+Wrote samsum_longbench:4:Blend (20%) layer 1
+Wrote samsum_longbench:5:Blend (20%) layer 1
+Wrote samsum_longbench:6:Blend (20%) layer 1
+Wrote samsum_longbench:7:Blend (20%) layer 1
+Wrote samsum_longbench:8:Blend (20%) layer 1
+Wrote samsum_longbench:9:Blend (20%) layer 1
+Wrote samsum_longbench:10:Blend (20%) layer 1
+Wrote samsum_longbench:11:Blend (20%) layer 1
+Wrote samsum_longbench:12:Blend (20%) layer 1
+Wrote samsum_longbench:13:Blend (20%) layer 1
+Wrote samsum_longbench:14:Blend (20%) layer 1
+Wrote samsum_longbench:15:Blend (20%) layer 1
+Wrote samsum_longbench:16:Blend (20%) layer 1
+Wrote samsum_longbench:17:Blend (20%) layer 1
+Wrote samsum_longbench:18:Blend (20%) layer 1
+Wrote samsum_longbench:19:Blend (20%) layer 1
+Wrote samsum_longbench:20:Blend (20%) layer 1
+Wrote samsum_longbench:21:Blend (20%) layer 1
+Wrote samsum_longbench:22:Blend (20%) layer 1
+Wrote samsum_longbench:23:Blend (20%) layer 1
+Wrote samsum_longbench:24:Blend (20%) layer 1
+Wrote samsum_longbench:25:Blend (20%) layer 1
+Wrote samsum_longbench:26:Blend (20%) layer 1
+Wrote samsum_longbench:27:Blend (20%) layer 1
+Wrote samsum_longbench:28:Blend (20%) layer 1
+Wrote samsum_longbench:29:Blend (20%) layer 1
+Wrote samsum_longbench:30:Blend (20%) layer 1
+Wrote samsum_longbench:31:Blend (20%) layer 1
+Wrote samsum_longbench:32:Blend (20%) layer 1
+Wrote samsum_longbench:33:Blend (20%) layer 1
+Wrote samsum_longbench:34:Blend (20%) layer 1
+Wrote samsum_longbench:35:Blend (20%) layer 1
+Wrote samsum_longbench:36:Blend (20%) layer 1
+Wrote samsum_longbench:37:Blend (20%) layer 1
+Wrote samsum_longbench:38:Blend (20%) layer 1
+Wrote samsum_longbench:39:Blend (20%) layer 1
+Wrote samsum_longbench:40:Blend (20%) layer 1
+Wrote samsum_longbench:41:Blend (20%) layer 1
+Wrote samsum_longbench:42:Blend (20%) layer 1
+Wrote samsum_longbench:43:Blend (20%) layer 1
+Wrote samsum_longbench:44:Blend (20%) layer 1
+Wrote samsum_longbench:45:Blend (20%) layer 1
+Wrote samsum_longbench:46:Blend (20%) layer 1
+Wrote samsum_longbench:47:Blend (20%) layer 1
+Wrote samsum_longbench:48:Blend (20%) layer 1
+Wrote samsum_longbench:49:Blend (20%) layer 1
+Wrote samsum_longbench:0:Blend (24%) layer 1
+Wrote samsum_longbench:1:Blend (24%) layer 1
+Wrote samsum_longbench:2:Blend (24%) layer 1
+Wrote samsum_longbench:3:Blend (24%) layer 1
+Wrote samsum_longbench:4:Blend (24%) layer 1
+Wrote samsum_longbench:5:Blend (24%) layer 1
+Wrote samsum_longbench:6:Blend (24%) layer 1
+Wrote samsum_longbench:7:Blend (24%) layer 1
+Wrote samsum_longbench:8:Blend (24%) layer 1
+Wrote samsum_longbench:9:Blend (24%) layer 1
+Wrote samsum_longbench:10:Blend (24%) layer 1
+Wrote samsum_longbench:11:Blend (24%) layer 1
+Wrote samsum_longbench:12:Blend (24%) layer 1
+Wrote samsum_longbench:13:Blend (24%) layer 1
+Wrote samsum_longbench:14:Blend (24%) layer 1
+Wrote samsum_longbench:15:Blend (24%) layer 1
+Wrote samsum_longbench:16:Blend (24%) layer 1
+Wrote samsum_longbench:17:Blend (24%) layer 1
+Wrote samsum_longbench:18:Blend (24%) layer 1
+Wrote samsum_longbench:19:Blend (24%) layer 1
+Wrote samsum_longbench:20:Blend (24%) layer 1
+Wrote samsum_longbench:21:Blend (24%) layer 1
+Wrote samsum_longbench:22:Blend (24%) layer 1
+Wrote samsum_longbench:23:Blend (24%) layer 1
+Wrote samsum_longbench:24:Blend (24%) layer 1
+Wrote samsum_longbench:25:Blend (24%) layer 1
+Wrote samsum_longbench:26:Blend (24%) layer 1
+Wrote samsum_longbench:27:Blend (24%) layer 1
+Wrote samsum_longbench:28:Blend (24%) layer 1
+Wrote samsum_longbench:29:Blend (24%) layer 1
+Wrote samsum_longbench:30:Blend (24%) layer 1
+Wrote samsum_longbench:31:Blend (24%) layer 1
+Wrote samsum_longbench:32:Blend (24%) layer 1
+Wrote samsum_longbench:33:Blend (24%) layer 1
+Wrote samsum_longbench:34:Blend (24%) layer 1
+Wrote samsum_longbench:35:Blend (24%) layer 1
+Wrote samsum_longbench:36:Blend (24%) layer 1
+Wrote samsum_longbench:37:Blend (24%) layer 1
+Wrote samsum_longbench:38:Blend (24%) layer 1
+Wrote samsum_longbench:39:Blend (24%) layer 1
+Wrote samsum_longbench:40:Blend (24%) layer 1
+Wrote samsum_longbench:41:Blend (24%) layer 1
+Wrote samsum_longbench:42:Blend (24%) layer 1
+Wrote samsum_longbench:43:Blend (24%) layer 1
+Wrote samsum_longbench:44:Blend (24%) layer 1
+Wrote samsum_longbench:45:Blend (24%) layer 1
+Wrote samsum_longbench:46:Blend (24%) layer 1
+Wrote samsum_longbench:47:Blend (24%) layer 1
+Wrote samsum_longbench:48:Blend (24%) layer 1
+Wrote samsum_longbench:49:Blend (24%) layer 1
+Wrote samsum_longbench:0:Blend (32%) layer 1
+Wrote samsum_longbench:1:Blend (32%) layer 1
+Wrote samsum_longbench:2:Blend (32%) layer 1
+Wrote samsum_longbench:3:Blend (32%) layer 1
+Wrote samsum_longbench:4:Blend (32%) layer 1
+Wrote samsum_longbench:5:Blend (32%) layer 1
+Wrote samsum_longbench:6:Blend (32%) layer 1
+Wrote samsum_longbench:7:Blend (32%) layer 1
+Wrote samsum_longbench:8:Blend (32%) layer 1
+Wrote samsum_longbench:9:Blend (32%) layer 1
+Wrote samsum_longbench:10:Blend (32%) layer 1
+Wrote samsum_longbench:11:Blend (32%) layer 1
+Wrote samsum_longbench:12:Blend (32%) layer 1
+Wrote samsum_longbench:13:Blend (32%) layer 1
+Wrote samsum_longbench:14:Blend (32%) layer 1
+Wrote samsum_longbench:15:Blend (32%) layer 1
+Wrote samsum_longbench:16:Blend (32%) layer 1
+Wrote samsum_longbench:17:Blend (32%) layer 1
+Wrote samsum_longbench:18:Blend (32%) layer 1
+Wrote samsum_longbench:19:Blend (32%) layer 1
+Wrote samsum_longbench:20:Blend (32%) layer 1
+Wrote samsum_longbench:21:Blend (32%) layer 1
+Wrote samsum_longbench:22:Blend (32%) layer 1
+Wrote samsum_longbench:23:Blend (32%) layer 1
+Wrote samsum_longbench:24:Blend (32%) layer 1
+Wrote samsum_longbench:25:Blend (32%) layer 1
+Wrote samsum_longbench:26:Blend (32%) layer 1
+Wrote samsum_longbench:27:Blend (32%) layer 1
+Wrote samsum_longbench:28:Blend (32%) layer 1
+Wrote samsum_longbench:29:Blend (32%) layer 1
+Wrote samsum_longbench:30:Blend (32%) layer 1
+Wrote samsum_longbench:31:Blend (32%) layer 1
+Wrote samsum_longbench:32:Blend (32%) layer 1
+Wrote samsum_longbench:33:Blend (32%) layer 1
+Wrote samsum_longbench:34:Blend (32%) layer 1
+Wrote samsum_longbench:35:Blend (32%) layer 1
+Wrote samsum_longbench:36:Blend (32%) layer 1
+Wrote samsum_longbench:37:Blend (32%) layer 1
+Wrote samsum_longbench:38:Blend (32%) layer 1
+Wrote samsum_longbench:39:Blend (32%) layer 1
+Wrote samsum_longbench:40:Blend (32%) layer 1
+Wrote samsum_longbench:41:Blend (32%) layer 1
+Wrote samsum_longbench:42:Blend (32%) layer 1
+Wrote samsum_longbench:43:Blend (32%) layer 1
+Wrote samsum_longbench:44:Blend (32%) layer 1
+Wrote samsum_longbench:45:Blend (32%) layer 1
+Wrote samsum_longbench:46:Blend (32%) layer 1
+Wrote samsum_longbench:47:Blend (32%) layer 1
+Wrote samsum_longbench:48:Blend (32%) layer 1
+Wrote samsum_longbench:49:Blend (32%) layer 1
+Wrote samsum_longbench:0:Blend (100%) layer 1
+Wrote samsum_longbench:1:Blend (100%) layer 1
+Wrote samsum_longbench:2:Blend (100%) layer 1
+Wrote samsum_longbench:3:Blend (100%) layer 1
+Wrote samsum_longbench:4:Blend (100%) layer 1
+Wrote samsum_longbench:5:Blend (100%) layer 1
+Wrote samsum_longbench:6:Blend (100%) layer 1
+Wrote samsum_longbench:7:Blend (100%) layer 1
+Wrote samsum_longbench:8:Blend (100%) layer 1
+Wrote samsum_longbench:9:Blend (100%) layer 1
+Wrote samsum_longbench:10:Blend (100%) layer 1
+Wrote samsum_longbench:11:Blend (100%) layer 1
+Wrote samsum_longbench:12:Blend (100%) layer 1
+Wrote samsum_longbench:13:Blend (100%) layer 1
+Wrote samsum_longbench:14:Blend (100%) layer 1
+Wrote samsum_longbench:15:Blend (100%) layer 1
+Wrote samsum_longbench:16:Blend (100%) layer 1
+Wrote samsum_longbench:17:Blend (100%) layer 1
+Wrote samsum_longbench:18:Blend (100%) layer 1
+Wrote samsum_longbench:19:Blend (100%) layer 1
+Wrote samsum_longbench:20:Blend (100%) layer 1
+Wrote samsum_longbench:21:Blend (100%) layer 1
+Wrote samsum_longbench:22:Blend (100%) layer 1
+Wrote samsum_longbench:23:Blend (100%) layer 1
+Wrote samsum_longbench:24:Blend (100%) layer 1
+Wrote samsum_longbench:25:Blend (100%) layer 1
+Wrote samsum_longbench:26:Blend (100%) layer 1
+Wrote samsum_longbench:27:Blend (100%) layer 1
+Wrote samsum_longbench:28:Blend (100%) layer 1
+Wrote samsum_longbench:29:Blend (100%) layer 1
+Wrote samsum_longbench:30:Blend (100%) layer 1
+Wrote samsum_longbench:31:Blend (100%) layer 1
+Wrote samsum_longbench:32:Blend (100%) layer 1
+Wrote samsum_longbench:33:Blend (100%) layer 1
+Wrote samsum_longbench:34:Blend (100%) layer 1
+Wrote samsum_longbench:35:Blend (100%) layer 1
+Wrote samsum_longbench:36:Blend (100%) layer 1
+Wrote samsum_longbench:37:Blend (100%) layer 1
+Wrote samsum_longbench:38:Blend (100%) layer 1
+Wrote samsum_longbench:39:Blend (100%) layer 1
+Wrote samsum_longbench:40:Blend (100%) layer 1
+Wrote samsum_longbench:41:Blend (100%) layer 1
+Wrote samsum_longbench:42:Blend (100%) layer 1
+Wrote samsum_longbench:43:Blend (100%) layer 1
+Wrote samsum_longbench:44:Blend (100%) layer 1
+Wrote samsum_longbench:45:Blend (100%) layer 1
+Wrote samsum_longbench:46:Blend (100%) layer 1
+Wrote samsum_longbench:47:Blend (100%) layer 1
+Wrote samsum_longbench:48:Blend (100%) layer 1
+Wrote samsum_longbench:49:Blend (100%) layer 1
+Wrote samsum_longbench:0:neighbor top25 both cap024
+Wrote samsum_longbench:1:neighbor top25 both cap024
+Wrote samsum_longbench:2:neighbor top25 both cap024
+Wrote samsum_longbench:3:neighbor top25 both cap024
+Wrote samsum_longbench:4:neighbor top25 both cap024
+Wrote samsum_longbench:5:neighbor top25 both cap024
+Wrote samsum_longbench:6:neighbor top25 both cap024
+Wrote samsum_longbench:7:neighbor top25 both cap024
+Wrote samsum_longbench:8:neighbor top25 both cap024
+Wrote samsum_longbench:9:neighbor top25 both cap024
+Wrote samsum_longbench:10:neighbor top25 both cap024
+Wrote samsum_longbench:11:neighbor top25 both cap024
+Wrote samsum_longbench:12:neighbor top25 both cap024
+Wrote samsum_longbench:13:neighbor top25 both cap024
+Wrote samsum_longbench:14:neighbor top25 both cap024
+Wrote samsum_longbench:15:neighbor top25 both cap024
+Wrote samsum_longbench:16:neighbor top25 both cap024
+Wrote samsum_longbench:17:neighbor top25 both cap024
+Wrote samsum_longbench:18:neighbor top25 both cap024
+Wrote samsum_longbench:19:neighbor top25 both cap024
+Wrote samsum_longbench:20:neighbor top25 both cap024
+Wrote samsum_longbench:21:neighbor top25 both cap024
+Wrote samsum_longbench:22:neighbor top25 both cap024
+Wrote samsum_longbench:23:neighbor top25 both cap024
+Wrote samsum_longbench:24:neighbor top25 both cap024
+Wrote samsum_longbench:25:neighbor top25 both cap024
+Wrote samsum_longbench:26:neighbor top25 both cap024
+Wrote samsum_longbench:27:neighbor top25 both cap024
+Wrote samsum_longbench:28:neighbor top25 both cap024
+Wrote samsum_longbench:29:neighbor top25 both cap024
+Wrote samsum_longbench:30:neighbor top25 both cap024
+Wrote samsum_longbench:31:neighbor top25 both cap024
+Wrote samsum_longbench:32:neighbor top25 both cap024
+Wrote samsum_longbench:33:neighbor top25 both cap024
+Wrote samsum_longbench:34:neighbor top25 both cap024
+Wrote samsum_longbench:35:neighbor top25 both cap024
+Wrote samsum_longbench:36:neighbor top25 both cap024
+Wrote samsum_longbench:37:neighbor top25 both cap024
+Wrote samsum_longbench:38:neighbor top25 both cap024
+Wrote samsum_longbench:39:neighbor top25 both cap024
+Wrote samsum_longbench:40:neighbor top25 both cap024
+Wrote samsum_longbench:41:neighbor top25 both cap024
+Wrote samsum_longbench:42:neighbor top25 both cap024
+Wrote samsum_longbench:43:neighbor top25 both cap024
+Wrote samsum_longbench:44:neighbor top25 both cap024
+Wrote samsum_longbench:45:neighbor top25 both cap024
+Wrote samsum_longbench:46:neighbor top25 both cap024
+Wrote samsum_longbench:47:neighbor top25 both cap024
+Wrote samsum_longbench:48:neighbor top25 both cap024
+Wrote samsum_longbench:49:neighbor top25 both cap024
+Wrote samsum_longbench:0:neighbor top50 both cap024
+Wrote samsum_longbench:1:neighbor top50 both cap024
+Wrote samsum_longbench:2:neighbor top50 both cap024
+Wrote samsum_longbench:3:neighbor top50 both cap024
+Wrote samsum_longbench:4:neighbor top50 both cap024
+Wrote samsum_longbench:5:neighbor top50 both cap024
+Wrote samsum_longbench:6:neighbor top50 both cap024
+Wrote samsum_longbench:7:neighbor top50 both cap024
+Wrote samsum_longbench:8:neighbor top50 both cap024
+Wrote samsum_longbench:9:neighbor top50 both cap024
+Wrote samsum_longbench:10:neighbor top50 both cap024
+Wrote samsum_longbench:11:neighbor top50 both cap024
+Wrote samsum_longbench:12:neighbor top50 both cap024
+Wrote samsum_longbench:13:neighbor top50 both cap024
+Wrote samsum_longbench:14:neighbor top50 both cap024
+Wrote samsum_longbench:15:neighbor top50 both cap024
+Wrote samsum_longbench:16:neighbor top50 both cap024
+Wrote samsum_longbench:17:neighbor top50 both cap024
+Wrote samsum_longbench:18:neighbor top50 both cap024
+Wrote samsum_longbench:19:neighbor top50 both cap024
+Wrote samsum_longbench:20:neighbor top50 both cap024
+Wrote samsum_longbench:21:neighbor top50 both cap024
+Wrote samsum_longbench:22:neighbor top50 both cap024
+Wrote samsum_longbench:23:neighbor top50 both cap024
+Wrote samsum_longbench:24:neighbor top50 both cap024
+Wrote samsum_longbench:25:neighbor top50 both cap024
+Wrote samsum_longbench:26:neighbor top50 both cap024
+Wrote samsum_longbench:27:neighbor top50 both cap024
+Wrote samsum_longbench:28:neighbor top50 both cap024
+Wrote samsum_longbench:29:neighbor top50 both cap024
+Wrote samsum_longbench:30:neighbor top50 both cap024
+Wrote samsum_longbench:31:neighbor top50 both cap024
+Wrote samsum_longbench:32:neighbor top50 both cap024
+Wrote samsum_longbench:33:neighbor top50 both cap024
+Wrote samsum_longbench:34:neighbor top50 both cap024
+Wrote samsum_longbench:35:neighbor top50 both cap024
+Wrote samsum_longbench:36:neighbor top50 both cap024
+Wrote samsum_longbench:37:neighbor top50 both cap024
+Wrote samsum_longbench:38:neighbor top50 both cap024
+Wrote samsum_longbench:39:neighbor top50 both cap024
+Wrote samsum_longbench:40:neighbor top50 both cap024
+Wrote samsum_longbench:41:neighbor top50 both cap024
+Wrote samsum_longbench:42:neighbor top50 both cap024
+Wrote samsum_longbench:43:neighbor top50 both cap024
+Wrote samsum_longbench:44:neighbor top50 both cap024
+Wrote samsum_longbench:45:neighbor top50 both cap024
+Wrote samsum_longbench:46:neighbor top50 both cap024
+Wrote samsum_longbench:47:neighbor top50 both cap024
+Wrote samsum_longbench:48:neighbor top50 both cap024
+Wrote samsum_longbench:49:neighbor top50 both cap024
+Wrote samsum_longbench:0:neighbor top50 left cap024
+Wrote samsum_longbench:1:neighbor top50 left cap024
+Wrote samsum_longbench:2:neighbor top50 left cap024
+Wrote samsum_longbench:3:neighbor top50 left cap024
+Wrote samsum_longbench:4:neighbor top50 left cap024
+Wrote samsum_longbench:5:neighbor top50 left cap024
+Wrote samsum_longbench:6:neighbor top50 left cap024
+Wrote samsum_longbench:7:neighbor top50 left cap024
+Wrote samsum_longbench:8:neighbor top50 left cap024
+Wrote samsum_longbench:9:neighbor top50 left cap024
+Wrote samsum_longbench:10:neighbor top50 left cap024
+Wrote samsum_longbench:11:neighbor top50 left cap024
+Wrote samsum_longbench:12:neighbor top50 left cap024
+Wrote samsum_longbench:13:neighbor top50 left cap024
+Wrote samsum_longbench:14:neighbor top50 left cap024
+Wrote samsum_longbench:15:neighbor top50 left cap024
+Wrote samsum_longbench:16:neighbor top50 left cap024
+Wrote samsum_longbench:17:neighbor top50 left cap024
+Wrote samsum_longbench:18:neighbor top50 left cap024
+Wrote samsum_longbench:19:neighbor top50 left cap024
+Wrote samsum_longbench:20:neighbor top50 left cap024
+Wrote samsum_longbench:21:neighbor top50 left cap024
+Wrote samsum_longbench:22:neighbor top50 left cap024
+Wrote samsum_longbench:23:neighbor top50 left cap024
+Wrote samsum_longbench:24:neighbor top50 left cap024
+Wrote samsum_longbench:25:neighbor top50 left cap024
+Wrote samsum_longbench:26:neighbor top50 left cap024
+Wrote samsum_longbench:27:neighbor top50 left cap024
+Wrote samsum_longbench:28:neighbor top50 left cap024
+Wrote samsum_longbench:29:neighbor top50 left cap024
+Wrote samsum_longbench:30:neighbor top50 left cap024
+Wrote samsum_longbench:31:neighbor top50 left cap024
+Wrote samsum_longbench:32:neighbor top50 left cap024
+Wrote samsum_longbench:33:neighbor top50 left cap024
+Wrote samsum_longbench:34:neighbor top50 left cap024
+Wrote samsum_longbench:35:neighbor top50 left cap024
+Wrote samsum_longbench:36:neighbor top50 left cap024
+Wrote samsum_longbench:37:neighbor top50 left cap024
+Wrote samsum_longbench:38:neighbor top50 left cap024
+Wrote samsum_longbench:39:neighbor top50 left cap024
+Wrote samsum_longbench:40:neighbor top50 left cap024
+Wrote samsum_longbench:41:neighbor top50 left cap024
+Wrote samsum_longbench:42:neighbor top50 left cap024
+Wrote samsum_longbench:43:neighbor top50 left cap024
+Wrote samsum_longbench:44:neighbor top50 left cap024
+Wrote samsum_longbench:45:neighbor top50 left cap024
+Wrote samsum_longbench:46:neighbor top50 left cap024
+Wrote samsum_longbench:47:neighbor top50 left cap024
+Wrote samsum_longbench:48:neighbor top50 left cap024
+Wrote samsum_longbench:49:neighbor top50 left cap024
+Wrote samsum_longbench:0:neighbor top50 right cap024
+Wrote samsum_longbench:1:neighbor top50 right cap024
+Wrote samsum_longbench:2:neighbor top50 right cap024
+Wrote samsum_longbench:3:neighbor top50 right cap024
+Wrote samsum_longbench:4:neighbor top50 right cap024
+Wrote samsum_longbench:5:neighbor top50 right cap024
+Wrote samsum_longbench:6:neighbor top50 right cap024
+Wrote samsum_longbench:7:neighbor top50 right cap024
+Wrote samsum_longbench:8:neighbor top50 right cap024
+Wrote samsum_longbench:9:neighbor top50 right cap024
+Wrote samsum_longbench:10:neighbor top50 right cap024
+Wrote samsum_longbench:11:neighbor top50 right cap024
+Wrote samsum_longbench:12:neighbor top50 right cap024
+Wrote samsum_longbench:13:neighbor top50 right cap024
+Wrote samsum_longbench:14:neighbor top50 right cap024
+Wrote samsum_longbench:15:neighbor top50 right cap024
+Wrote samsum_longbench:16:neighbor top50 right cap024
+Wrote samsum_longbench:17:neighbor top50 right cap024
+Wrote samsum_longbench:18:neighbor top50 right cap024
+Wrote samsum_longbench:19:neighbor top50 right cap024
+Wrote samsum_longbench:20:neighbor top50 right cap024
+Wrote samsum_longbench:21:neighbor top50 right cap024
+Wrote samsum_longbench:22:neighbor top50 right cap024
+Wrote samsum_longbench:23:neighbor top50 right cap024
+Wrote samsum_longbench:24:neighbor top50 right cap024
+Wrote samsum_longbench:25:neighbor top50 right cap024
+Wrote samsum_longbench:26:neighbor top50 right cap024
+Wrote samsum_longbench:27:neighbor top50 right cap024
+Wrote samsum_longbench:28:neighbor top50 right cap024
+Wrote samsum_longbench:29:neighbor top50 right cap024
+Wrote samsum_longbench:30:neighbor top50 right cap024
+Wrote samsum_longbench:31:neighbor top50 right cap024
+Wrote samsum_longbench:32:neighbor top50 right cap024
+Wrote samsum_longbench:33:neighbor top50 right cap024
+Wrote samsum_longbench:34:neighbor top50 right cap024
+Wrote samsum_longbench:35:neighbor top50 right cap024
+Wrote samsum_longbench:36:neighbor top50 right cap024
+Wrote samsum_longbench:37:neighbor top50 right cap024
+Wrote samsum_longbench:38:neighbor top50 right cap024
+Wrote samsum_longbench:39:neighbor top50 right cap024
+Wrote samsum_longbench:40:neighbor top50 right cap024
+Wrote samsum_longbench:41:neighbor top50 right cap024
+Wrote samsum_longbench:42:neighbor top50 right cap024
+Wrote samsum_longbench:43:neighbor top50 right cap024
+Wrote samsum_longbench:44:neighbor top50 right cap024
+Wrote samsum_longbench:45:neighbor top50 right cap024
+Wrote samsum_longbench:46:neighbor top50 right cap024
+Wrote samsum_longbench:47:neighbor top50 right cap024
+Wrote samsum_longbench:48:neighbor top50 right cap024
+Wrote samsum_longbench:49:neighbor top50 right cap024
+Wrote samsum_longbench:0:neighbor top25 both cap032
+Wrote samsum_longbench:1:neighbor top25 both cap032
+Wrote samsum_longbench:2:neighbor top25 both cap032
+Wrote samsum_longbench:3:neighbor top25 both cap032
+Wrote samsum_longbench:4:neighbor top25 both cap032
+Wrote samsum_longbench:5:neighbor top25 both cap032
+Wrote samsum_longbench:6:neighbor top25 both cap032
+Wrote samsum_longbench:7:neighbor top25 both cap032
+Wrote samsum_longbench:8:neighbor top25 both cap032
+Wrote samsum_longbench:9:neighbor top25 both cap032
+Wrote samsum_longbench:10:neighbor top25 both cap032
+Wrote samsum_longbench:11:neighbor top25 both cap032
+Wrote samsum_longbench:12:neighbor top25 both cap032
+Wrote samsum_longbench:13:neighbor top25 both cap032
+Wrote samsum_longbench:14:neighbor top25 both cap032
+Wrote samsum_longbench:15:neighbor top25 both cap032
+Wrote samsum_longbench:16:neighbor top25 both cap032
+Wrote samsum_longbench:17:neighbor top25 both cap032
+Wrote samsum_longbench:18:neighbor top25 both cap032
+Wrote samsum_longbench:19:neighbor top25 both cap032
+Wrote samsum_longbench:20:neighbor top25 both cap032
+Wrote samsum_longbench:21:neighbor top25 both cap032
+Wrote samsum_longbench:22:neighbor top25 both cap032
+Wrote samsum_longbench:23:neighbor top25 both cap032
+Wrote samsum_longbench:24:neighbor top25 both cap032
+Wrote samsum_longbench:25:neighbor top25 both cap032
+Wrote samsum_longbench:26:neighbor top25 both cap032
+Wrote samsum_longbench:27:neighbor top25 both cap032
+Wrote samsum_longbench:28:neighbor top25 both cap032
+Wrote samsum_longbench:29:neighbor top25 both cap032
+Wrote samsum_longbench:30:neighbor top25 both cap032
+Wrote samsum_longbench:31:neighbor top25 both cap032
+Wrote samsum_longbench:32:neighbor top25 both cap032
+Wrote samsum_longbench:33:neighbor top25 both cap032
+Wrote samsum_longbench:34:neighbor top25 both cap032
+Wrote samsum_longbench:35:neighbor top25 both cap032
+Wrote samsum_longbench:36:neighbor top25 both cap032
+Wrote samsum_longbench:37:neighbor top25 both cap032
+Wrote samsum_longbench:38:neighbor top25 both cap032
+Wrote samsum_longbench:39:neighbor top25 both cap032
+Wrote samsum_longbench:40:neighbor top25 both cap032
+Wrote samsum_longbench:41:neighbor top25 both cap032
+Wrote samsum_longbench:42:neighbor top25 both cap032
+Wrote samsum_longbench:43:neighbor top25 both cap032
+Wrote samsum_longbench:44:neighbor top25 both cap032
+Wrote samsum_longbench:45:neighbor top25 both cap032
+Wrote samsum_longbench:46:neighbor top25 both cap032
+Wrote samsum_longbench:47:neighbor top25 both cap032
+Wrote samsum_longbench:48:neighbor top25 both cap032
+Wrote samsum_longbench:49:neighbor top25 both cap032
+Wrote samsum_longbench:0:neighbor top50 both cap032
+Wrote samsum_longbench:1:neighbor top50 both cap032
+Wrote samsum_longbench:2:neighbor top50 both cap032
+Wrote samsum_longbench:3:neighbor top50 both cap032
+Wrote samsum_longbench:4:neighbor top50 both cap032
+Wrote samsum_longbench:5:neighbor top50 both cap032
+Wrote samsum_longbench:6:neighbor top50 both cap032
+Wrote samsum_longbench:7:neighbor top50 both cap032
+Wrote samsum_longbench:8:neighbor top50 both cap032
+Wrote samsum_longbench:9:neighbor top50 both cap032
+Wrote samsum_longbench:10:neighbor top50 both cap032
+Wrote samsum_longbench:11:neighbor top50 both cap032
+Wrote samsum_longbench:12:neighbor top50 both cap032
+Wrote samsum_longbench:13:neighbor top50 both cap032
+Wrote samsum_longbench:14:neighbor top50 both cap032
+Wrote samsum_longbench:15:neighbor top50 both cap032
+Wrote samsum_longbench:16:neighbor top50 both cap032
+Wrote samsum_longbench:17:neighbor top50 both cap032
+Wrote samsum_longbench:18:neighbor top50 both cap032
+Wrote samsum_longbench:19:neighbor top50 both cap032
+Wrote samsum_longbench:20:neighbor top50 both cap032
+Wrote samsum_longbench:21:neighbor top50 both cap032
+Wrote samsum_longbench:22:neighbor top50 both cap032
+Wrote samsum_longbench:23:neighbor top50 both cap032
+Wrote samsum_longbench:24:neighbor top50 both cap032
+Wrote samsum_longbench:25:neighbor top50 both cap032
+Wrote samsum_longbench:26:neighbor top50 both cap032
+Wrote samsum_longbench:27:neighbor top50 both cap032
+Wrote samsum_longbench:28:neighbor top50 both cap032
+Wrote samsum_longbench:29:neighbor top50 both cap032
+Wrote samsum_longbench:30:neighbor top50 both cap032
+Wrote samsum_longbench:31:neighbor top50 both cap032
+Wrote samsum_longbench:32:neighbor top50 both cap032
+Wrote samsum_longbench:33:neighbor top50 both cap032
+Wrote samsum_longbench:34:neighbor top50 both cap032
+Wrote samsum_longbench:35:neighbor top50 both cap032
+Wrote samsum_longbench:36:neighbor top50 both cap032
+Wrote samsum_longbench:37:neighbor top50 both cap032
+Wrote samsum_longbench:38:neighbor top50 both cap032
+Wrote samsum_longbench:39:neighbor top50 both cap032
+Wrote samsum_longbench:40:neighbor top50 both cap032
+Wrote samsum_longbench:41:neighbor top50 both cap032
+Wrote samsum_longbench:42:neighbor top50 both cap032
+Wrote samsum_longbench:43:neighbor top50 both cap032
+Wrote samsum_longbench:44:neighbor top50 both cap032
+Wrote samsum_longbench:45:neighbor top50 both cap032
+Wrote samsum_longbench:46:neighbor top50 both cap032
+Wrote samsum_longbench:47:neighbor top50 both cap032
+Wrote samsum_longbench:48:neighbor top50 both cap032
+Wrote samsum_longbench:49:neighbor top50 both cap032
+Wrote samsum_longbench:0:neighbor all cap048
+Wrote samsum_longbench:1:neighbor all cap048
+Wrote samsum_longbench:2:neighbor all cap048
+Wrote samsum_longbench:3:neighbor all cap048
+Wrote samsum_longbench:4:neighbor all cap048
+Wrote samsum_longbench:5:neighbor all cap048
+Wrote samsum_longbench:6:neighbor all cap048
+Wrote samsum_longbench:7:neighbor all cap048
+Wrote samsum_longbench:8:neighbor all cap048
+Wrote samsum_longbench:9:neighbor all cap048
+Wrote samsum_longbench:10:neighbor all cap048
+Wrote samsum_longbench:11:neighbor all cap048
+Wrote samsum_longbench:12:neighbor all cap048
+Wrote samsum_longbench:13:neighbor all cap048
+Wrote samsum_longbench:14:neighbor all cap048
+Wrote samsum_longbench:15:neighbor all cap048
+Wrote samsum_longbench:16:neighbor all cap048
+Wrote samsum_longbench:17:neighbor all cap048
+Wrote samsum_longbench:18:neighbor all cap048
+Wrote samsum_longbench:19:neighbor all cap048
+Wrote samsum_longbench:20:neighbor all cap048
+Wrote samsum_longbench:21:neighbor all cap048
+Wrote samsum_longbench:22:neighbor all cap048
+Wrote samsum_longbench:23:neighbor all cap048
+Wrote samsum_longbench:24:neighbor all cap048
+Wrote samsum_longbench:25:neighbor all cap048
+Wrote samsum_longbench:26:neighbor all cap048
+Wrote samsum_longbench:27:neighbor all cap048
+Wrote samsum_longbench:28:neighbor all cap048
+Wrote samsum_longbench:29:neighbor all cap048
+Wrote samsum_longbench:30:neighbor all cap048
+Wrote samsum_longbench:31:neighbor all cap048
+Wrote samsum_longbench:32:neighbor all cap048
+Wrote samsum_longbench:33:neighbor all cap048
+Wrote samsum_longbench:34:neighbor all cap048
+Wrote samsum_longbench:35:neighbor all cap048
+Wrote samsum_longbench:36:neighbor all cap048
+Wrote samsum_longbench:37:neighbor all cap048
+Wrote samsum_longbench:38:neighbor all cap048
+Wrote samsum_longbench:39:neighbor all cap048
+Wrote samsum_longbench:40:neighbor all cap048
+Wrote samsum_longbench:41:neighbor all cap048
+Wrote samsum_longbench:42:neighbor all cap048
+Wrote samsum_longbench:43:neighbor all cap048
+Wrote samsum_longbench:44:neighbor all cap048
+Wrote samsum_longbench:45:neighbor all cap048
+Wrote samsum_longbench:46:neighbor all cap048
+Wrote samsum_longbench:47:neighbor all cap048
+Wrote samsum_longbench:48:neighbor all cap048
+Wrote samsum_longbench:49:neighbor all cap048
+Wrote samsum_longbench:0:close gap cap24
+Wrote samsum_longbench:1:close gap cap24
+Wrote samsum_longbench:2:close gap cap24
+Wrote samsum_longbench:3:close gap cap24
+Wrote samsum_longbench:4:close gap cap24
+Wrote samsum_longbench:5:close gap cap24
+Wrote samsum_longbench:6:close gap cap24
+Wrote samsum_longbench:7:close gap cap24
+Wrote samsum_longbench:8:close gap cap24
+Wrote samsum_longbench:9:close gap cap24
+Wrote samsum_longbench:10:close gap cap24
+Wrote samsum_longbench:11:close gap cap24
+Wrote samsum_longbench:12:close gap cap24
+Wrote samsum_longbench:13:close gap cap24
+Wrote samsum_longbench:14:close gap cap24
+Wrote samsum_longbench:15:close gap cap24
+Wrote samsum_longbench:16:close gap cap24
+Wrote samsum_longbench:17:close gap cap24
+Wrote samsum_longbench:18:close gap cap24
+Wrote samsum_longbench:19:close gap cap24
+Wrote samsum_longbench:20:close gap cap24
+Wrote samsum_longbench:21:close gap cap24
+Wrote samsum_longbench:22:close gap cap24
+Wrote samsum_longbench:23:close gap cap24
+Wrote samsum_longbench:24:close gap cap24
+Wrote samsum_longbench:25:close gap cap24
+Wrote samsum_longbench:26:close gap cap24
+Wrote samsum_longbench:27:close gap cap24
+Wrote samsum_longbench:28:close gap cap24
+Wrote samsum_longbench:29:close gap cap24
+Wrote samsum_longbench:30:close gap cap24
+Wrote samsum_longbench:31:close gap cap24
+Wrote samsum_longbench:32:close gap cap24
+Wrote samsum_longbench:33:close gap cap24
+Wrote samsum_longbench:34:close gap cap24
+Wrote samsum_longbench:35:close gap cap24
+Wrote samsum_longbench:36:close gap cap24
+Wrote samsum_longbench:37:close gap cap24
+Wrote samsum_longbench:38:close gap cap24
+Wrote samsum_longbench:39:close gap cap24
+Wrote samsum_longbench:40:close gap cap24
+Wrote samsum_longbench:41:close gap cap24
+Wrote samsum_longbench:42:close gap cap24
+Wrote samsum_longbench:43:close gap cap24
+Wrote samsum_longbench:44:close gap cap24
+Wrote samsum_longbench:45:close gap cap24
+Wrote samsum_longbench:46:close gap cap24
+Wrote samsum_longbench:47:close gap cap24
+Wrote samsum_longbench:48:close gap cap24
+Wrote samsum_longbench:49:close gap cap24
+Wrote samsum_longbench:0:close gap2 cap24
+Wrote samsum_longbench:1:close gap2 cap24
+Wrote samsum_longbench:2:close gap2 cap24
+Wrote samsum_longbench:3:close gap2 cap24
+Wrote samsum_longbench:4:close gap2 cap24
+Wrote samsum_longbench:5:close gap2 cap24
+Wrote samsum_longbench:6:close gap2 cap24
+Wrote samsum_longbench:7:close gap2 cap24
+Wrote samsum_longbench:8:close gap2 cap24
+Wrote samsum_longbench:9:close gap2 cap24
+Wrote samsum_longbench:10:close gap2 cap24
+Wrote samsum_longbench:11:close gap2 cap24
+Wrote samsum_longbench:12:close gap2 cap24
+Wrote samsum_longbench:13:close gap2 cap24
+Wrote samsum_longbench:14:close gap2 cap24
+Wrote samsum_longbench:15:close gap2 cap24
+Wrote samsum_longbench:16:close gap2 cap24
+Wrote samsum_longbench:17:close gap2 cap24
+Wrote samsum_longbench:18:close gap2 cap24
+Wrote samsum_longbench:19:close gap2 cap24
+Wrote samsum_longbench:20:close gap2 cap24
+Wrote samsum_longbench:21:close gap2 cap24
+Wrote samsum_longbench:22:close gap2 cap24
+Wrote samsum_longbench:23:close gap2 cap24
+Wrote samsum_longbench:24:close gap2 cap24
+Wrote samsum_longbench:25:close gap2 cap24
+Wrote samsum_longbench:26:close gap2 cap24
+Wrote samsum_longbench:27:close gap2 cap24
+Wrote samsum_longbench:28:close gap2 cap24
+Wrote samsum_longbench:29:close gap2 cap24
+Wrote samsum_longbench:30:close gap2 cap24
+Wrote samsum_longbench:31:close gap2 cap24
+Wrote samsum_longbench:32:close gap2 cap24
+Wrote samsum_longbench:33:close gap2 cap24
+Wrote samsum_longbench:34:close gap2 cap24
+Wrote samsum_longbench:35:close gap2 cap24
+Wrote samsum_longbench:36:close gap2 cap24
+Wrote samsum_longbench:37:close gap2 cap24
+Wrote samsum_longbench:38:close gap2 cap24
+Wrote samsum_longbench:39:close gap2 cap24
+Wrote samsum_longbench:40:close gap2 cap24
+Wrote samsum_longbench:41:close gap2 cap24
+Wrote samsum_longbench:42:close gap2 cap24
+Wrote samsum_longbench:43:close gap2 cap24
+Wrote samsum_longbench:44:close gap2 cap24
+Wrote samsum_longbench:45:close gap2 cap24
+Wrote samsum_longbench:46:close gap2 cap24
+Wrote samsum_longbench:47:close gap2 cap24
+Wrote samsum_longbench:48:close gap2 cap24
+Wrote samsum_longbench:49:close gap2 cap24
+Wrote samsum_longbench:0:close gap2 cap32
+Wrote samsum_longbench:1:close gap2 cap32
+Wrote samsum_longbench:2:close gap2 cap32
+Wrote samsum_longbench:3:close gap2 cap32
+Wrote samsum_longbench:4:close gap2 cap32
+Wrote samsum_longbench:5:close gap2 cap32
+Wrote samsum_longbench:6:close gap2 cap32
+Wrote samsum_longbench:7:close gap2 cap32
+Wrote samsum_longbench:8:close gap2 cap32
+Wrote samsum_longbench:9:close gap2 cap32
+Wrote samsum_longbench:10:close gap2 cap32
+Wrote samsum_longbench:11:close gap2 cap32
+Wrote samsum_longbench:12:close gap2 cap32
+Wrote samsum_longbench:13:close gap2 cap32
+Wrote samsum_longbench:14:close gap2 cap32
+Wrote samsum_longbench:15:close gap2 cap32
+Wrote samsum_longbench:16:close gap2 cap32
+Wrote samsum_longbench:17:close gap2 cap32
+Wrote samsum_longbench:18:close gap2 cap32
+Wrote samsum_longbench:19:close gap2 cap32
+Wrote samsum_longbench:20:close gap2 cap32
+Wrote samsum_longbench:21:close gap2 cap32
+Wrote samsum_longbench:22:close gap2 cap32
+Wrote samsum_longbench:23:close gap2 cap32
+Wrote samsum_longbench:24:close gap2 cap32
+Wrote samsum_longbench:25:close gap2 cap32
+Wrote samsum_longbench:26:close gap2 cap32
+Wrote samsum_longbench:27:close gap2 cap32
+Wrote samsum_longbench:28:close gap2 cap32
+Wrote samsum_longbench:29:close gap2 cap32
+Wrote samsum_longbench:30:close gap2 cap32
+Wrote samsum_longbench:31:close gap2 cap32
+Wrote samsum_longbench:32:close gap2 cap32
+Wrote samsum_longbench:33:close gap2 cap32
+Wrote samsum_longbench:34:close gap2 cap32
+Wrote samsum_longbench:35:close gap2 cap32
+Wrote samsum_longbench:36:close gap2 cap32
+Wrote samsum_longbench:37:close gap2 cap32
+Wrote samsum_longbench:38:close gap2 cap32
+Wrote samsum_longbench:39:close gap2 cap32
+Wrote samsum_longbench:40:close gap2 cap32
+Wrote samsum_longbench:41:close gap2 cap32
+Wrote samsum_longbench:42:close gap2 cap32
+Wrote samsum_longbench:43:close gap2 cap32
+Wrote samsum_longbench:44:close gap2 cap32
+Wrote samsum_longbench:45:close gap2 cap32
+Wrote samsum_longbench:46:close gap2 cap32
+Wrote samsum_longbench:47:close gap2 cap32
+Wrote samsum_longbench:48:close gap2 cap32
+Wrote samsum_longbench:49:close gap2 cap32
+Wrote samsum_longbench:0:05 no recompute
+Wrote samsum_longbench:1:05 no recompute
+Wrote samsum_longbench:2:05 no recompute
+Wrote samsum_longbench:3:05 no recompute
+Wrote samsum_longbench:4:05 no recompute
+Wrote samsum_longbench:5:05 no recompute
+Wrote samsum_longbench:6:05 no recompute
+Wrote samsum_longbench:7:05 no recompute
+Wrote samsum_longbench:8:05 no recompute
+Wrote samsum_longbench:9:05 no recompute
+Wrote samsum_longbench:10:05 no recompute
+Wrote samsum_longbench:11:05 no recompute
+Wrote samsum_longbench:12:05 no recompute
+Wrote samsum_longbench:13:05 no recompute
+Wrote samsum_longbench:14:05 no recompute
+Wrote samsum_longbench:15:05 no recompute
+Wrote samsum_longbench:16:05 no recompute
+Wrote samsum_longbench:17:05 no recompute
+Wrote samsum_longbench:18:05 no recompute
+Wrote samsum_longbench:19:05 no recompute
+Wrote samsum_longbench:20:05 no recompute
+Wrote samsum_longbench:21:05 no recompute
+Wrote samsum_longbench:22:05 no recompute
+Wrote samsum_longbench:23:05 no recompute
+Wrote samsum_longbench:24:05 no recompute
+Wrote samsum_longbench:25:05 no recompute
+Wrote samsum_longbench:26:05 no recompute
+Wrote samsum_longbench:27:05 no recompute
+Wrote samsum_longbench:28:05 no recompute
+Wrote samsum_longbench:29:05 no recompute
+Wrote samsum_longbench:30:05 no recompute
+Wrote samsum_longbench:31:05 no recompute
+Wrote samsum_longbench:32:05 no recompute
+Wrote samsum_longbench:33:05 no recompute
+Wrote samsum_longbench:34:05 no recompute
+Wrote samsum_longbench:35:05 no recompute
+Wrote samsum_longbench:36:05 no recompute
+Wrote samsum_longbench:37:05 no recompute
+Wrote samsum_longbench:38:05 no recompute
+Wrote samsum_longbench:39:05 no recompute
+Wrote samsum_longbench:40:05 no recompute
+Wrote samsum_longbench:41:05 no recompute
+Wrote samsum_longbench:42:05 no recompute
+Wrote samsum_longbench:43:05 no recompute
+Wrote samsum_longbench:44:05 no recompute
+Wrote samsum_longbench:45:05 no recompute
+Wrote samsum_longbench:46:05 no recompute
+Wrote samsum_longbench:47:05 no recompute
+Wrote samsum_longbench:48:05 no recompute
+Wrote samsum_longbench:49:05 no recompute
+Wrote samsum_longbench:0:05 separator only
+Wrote samsum_longbench:1:05 separator only
+Wrote samsum_longbench:2:05 separator only
+Wrote samsum_longbench:3:05 separator only
+Wrote samsum_longbench:4:05 separator only
+Wrote samsum_longbench:5:05 separator only
+Wrote samsum_longbench:6:05 separator only
+Wrote samsum_longbench:7:05 separator only
+Wrote samsum_longbench:8:05 separator only
+Wrote samsum_longbench:9:05 separator only
+Wrote samsum_longbench:10:05 separator only
+Wrote samsum_longbench:11:05 separator only
+Wrote samsum_longbench:12:05 separator only
+Wrote samsum_longbench:13:05 separator only
+Wrote samsum_longbench:14:05 separator only
+Wrote samsum_longbench:15:05 separator only
+Wrote samsum_longbench:16:05 separator only
+Wrote samsum_longbench:17:05 separator only
+Wrote samsum_longbench:18:05 separator only
+Wrote samsum_longbench:19:05 separator only
+Wrote samsum_longbench:20:05 separator only
+Wrote samsum_longbench:21:05 separator only
+Wrote samsum_longbench:22:05 separator only
+Wrote samsum_longbench:23:05 separator only
+Wrote samsum_longbench:24:05 separator only
+Wrote samsum_longbench:25:05 separator only
+Wrote samsum_longbench:26:05 separator only
+Wrote samsum_longbench:27:05 separator only
+Wrote samsum_longbench:28:05 separator only
+Wrote samsum_longbench:29:05 separator only
+Wrote samsum_longbench:30:05 separator only
+Wrote samsum_longbench:31:05 separator only
+Wrote samsum_longbench:32:05 separator only
+Wrote samsum_longbench:33:05 separator only
+Wrote samsum_longbench:34:05 separator only
+Wrote samsum_longbench:35:05 separator only
+Wrote samsum_longbench:36:05 separator only
+Wrote samsum_longbench:37:05 separator only
+Wrote samsum_longbench:38:05 separator only
+Wrote samsum_longbench:39:05 separator only
+Wrote samsum_longbench:40:05 separator only
+Wrote samsum_longbench:41:05 separator only
+Wrote samsum_longbench:42:05 separator only
+Wrote samsum_longbench:43:05 separator only
+Wrote samsum_longbench:44:05 separator only
+Wrote samsum_longbench:45:05 separator only
+Wrote samsum_longbench:46:05 separator only
+Wrote samsum_longbench:47:05 separator only
+Wrote samsum_longbench:48:05 separator only
+Wrote samsum_longbench:49:05 separator only
+Wrote samsum_longbench:0:05 margin only 2
+Wrote samsum_longbench:1:05 margin only 2
+Wrote samsum_longbench:2:05 margin only 2
+Wrote samsum_longbench:3:05 margin only 2
+Wrote samsum_longbench:4:05 margin only 2
+Wrote samsum_longbench:5:05 margin only 2
+Wrote samsum_longbench:6:05 margin only 2
+Wrote samsum_longbench:7:05 margin only 2
+Wrote samsum_longbench:8:05 margin only 2
+Wrote samsum_longbench:9:05 margin only 2
+Wrote samsum_longbench:10:05 margin only 2
+Wrote samsum_longbench:11:05 margin only 2
+Wrote samsum_longbench:12:05 margin only 2
+Wrote samsum_longbench:13:05 margin only 2
+Wrote samsum_longbench:14:05 margin only 2
+Wrote samsum_longbench:15:05 margin only 2
+Wrote samsum_longbench:16:05 margin only 2
+Wrote samsum_longbench:17:05 margin only 2
+Wrote samsum_longbench:18:05 margin only 2
+Wrote samsum_longbench:19:05 margin only 2
+Wrote samsum_longbench:20:05 margin only 2
+Wrote samsum_longbench:21:05 margin only 2
+Wrote samsum_longbench:22:05 margin only 2
+Wrote samsum_longbench:23:05 margin only 2
+Wrote samsum_longbench:24:05 margin only 2
+Wrote samsum_longbench:25:05 margin only 2
+Wrote samsum_longbench:26:05 margin only 2
+Wrote samsum_longbench:27:05 margin only 2
+Wrote samsum_longbench:28:05 margin only 2
+Wrote samsum_longbench:29:05 margin only 2
+Wrote samsum_longbench:30:05 margin only 2
+Wrote samsum_longbench:31:05 margin only 2
+Wrote samsum_longbench:32:05 margin only 2
+Wrote samsum_longbench:33:05 margin only 2
+Wrote samsum_longbench:34:05 margin only 2
+Wrote samsum_longbench:35:05 margin only 2
+Wrote samsum_longbench:36:05 margin only 2
+Wrote samsum_longbench:37:05 margin only 2
+Wrote samsum_longbench:38:05 margin only 2
+Wrote samsum_longbench:39:05 margin only 2
+Wrote samsum_longbench:40:05 margin only 2
+Wrote samsum_longbench:41:05 margin only 2
+Wrote samsum_longbench:42:05 margin only 2
+Wrote samsum_longbench:43:05 margin only 2
+Wrote samsum_longbench:44:05 margin only 2
+Wrote samsum_longbench:45:05 margin only 2
+Wrote samsum_longbench:46:05 margin only 2
+Wrote samsum_longbench:47:05 margin only 2
+Wrote samsum_longbench:48:05 margin only 2
+Wrote samsum_longbench:49:05 margin only 2
+Wrote samsum_longbench:0:05 margin only 4
+Wrote samsum_longbench:1:05 margin only 4
+Wrote samsum_longbench:2:05 margin only 4
+Wrote samsum_longbench:3:05 margin only 4
+Wrote samsum_longbench:4:05 margin only 4
+Wrote samsum_longbench:5:05 margin only 4
+Wrote samsum_longbench:6:05 margin only 4
+Wrote samsum_longbench:7:05 margin only 4
+Wrote samsum_longbench:8:05 margin only 4
+Wrote samsum_longbench:9:05 margin only 4
+Wrote samsum_longbench:10:05 margin only 4
+Wrote samsum_longbench:11:05 margin only 4
+Wrote samsum_longbench:12:05 margin only 4
+Wrote samsum_longbench:13:05 margin only 4
+Wrote samsum_longbench:14:05 margin only 4
+Wrote samsum_longbench:15:05 margin only 4
+Wrote samsum_longbench:16:05 margin only 4
+Wrote samsum_longbench:17:05 margin only 4
+Wrote samsum_longbench:18:05 margin only 4
+Wrote samsum_longbench:19:05 margin only 4
+Wrote samsum_longbench:20:05 margin only 4
+Wrote samsum_longbench:21:05 margin only 4
+Wrote samsum_longbench:22:05 margin only 4
+Wrote samsum_longbench:23:05 margin only 4
+Wrote samsum_longbench:24:05 margin only 4
+Wrote samsum_longbench:25:05 margin only 4
+Wrote samsum_longbench:26:05 margin only 4
+Wrote samsum_longbench:27:05 margin only 4
+Wrote samsum_longbench:28:05 margin only 4
+Wrote samsum_longbench:29:05 margin only 4
+Wrote samsum_longbench:30:05 margin only 4
+Wrote samsum_longbench:31:05 margin only 4
+Wrote samsum_longbench:32:05 margin only 4
+Wrote samsum_longbench:33:05 margin only 4
+Wrote samsum_longbench:34:05 margin only 4
+Wrote samsum_longbench:35:05 margin only 4
+Wrote samsum_longbench:36:05 margin only 4
+Wrote samsum_longbench:37:05 margin only 4
+Wrote samsum_longbench:38:05 margin only 4
+Wrote samsum_longbench:39:05 margin only 4
+Wrote samsum_longbench:40:05 margin only 4
+Wrote samsum_longbench:41:05 margin only 4
+Wrote samsum_longbench:42:05 margin only 4
+Wrote samsum_longbench:43:05 margin only 4
+Wrote samsum_longbench:44:05 margin only 4
+Wrote samsum_longbench:45:05 margin only 4
+Wrote samsum_longbench:46:05 margin only 4
+Wrote samsum_longbench:47:05 margin only 4
+Wrote samsum_longbench:48:05 margin only 4
+Wrote samsum_longbench:49:05 margin only 4
+Wrote samsum_longbench:0:05 margin only 8
+Wrote samsum_longbench:1:05 margin only 8
+Wrote samsum_longbench:2:05 margin only 8
+Wrote samsum_longbench:3:05 margin only 8
+Wrote samsum_longbench:4:05 margin only 8
+Wrote samsum_longbench:5:05 margin only 8
+Wrote samsum_longbench:6:05 margin only 8
+Wrote samsum_longbench:7:05 margin only 8
+Wrote samsum_longbench:8:05 margin only 8
+Wrote samsum_longbench:9:05 margin only 8
+Wrote samsum_longbench:10:05 margin only 8
+Wrote samsum_longbench:11:05 margin only 8
+Wrote samsum_longbench:12:05 margin only 8
+Wrote samsum_longbench:13:05 margin only 8
+Wrote samsum_longbench:14:05 margin only 8
+Wrote samsum_longbench:15:05 margin only 8
+Wrote samsum_longbench:16:05 margin only 8
+Wrote samsum_longbench:17:05 margin only 8
+Wrote samsum_longbench:18:05 margin only 8
+Wrote samsum_longbench:19:05 margin only 8
+Wrote samsum_longbench:20:05 margin only 8
+Wrote samsum_longbench:21:05 margin only 8
+Wrote samsum_longbench:22:05 margin only 8
+Wrote samsum_longbench:23:05 margin only 8
+Wrote samsum_longbench:24:05 margin only 8
+Wrote samsum_longbench:25:05 margin only 8
+Wrote samsum_longbench:26:05 margin only 8
+Wrote samsum_longbench:27:05 margin only 8
+Wrote samsum_longbench:28:05 margin only 8
+Wrote samsum_longbench:29:05 margin only 8
+Wrote samsum_longbench:30:05 margin only 8
+Wrote samsum_longbench:31:05 margin only 8
+Wrote samsum_longbench:32:05 margin only 8
+Wrote samsum_longbench:33:05 margin only 8
+Wrote samsum_longbench:34:05 margin only 8
+Wrote samsum_longbench:35:05 margin only 8
+Wrote samsum_longbench:36:05 margin only 8
+Wrote samsum_longbench:37:05 margin only 8
+Wrote samsum_longbench:38:05 margin only 8
+Wrote samsum_longbench:39:05 margin only 8
+Wrote samsum_longbench:40:05 margin only 8
+Wrote samsum_longbench:41:05 margin only 8
+Wrote samsum_longbench:42:05 margin only 8
+Wrote samsum_longbench:43:05 margin only 8
+Wrote samsum_longbench:44:05 margin only 8
+Wrote samsum_longbench:45:05 margin only 8
+Wrote samsum_longbench:46:05 margin only 8
+Wrote samsum_longbench:47:05 margin only 8
+Wrote samsum_longbench:48:05 margin only 8
+Wrote samsum_longbench:49:05 margin only 8
+Wrote samsum_longbench:0:05 margin only 16
+Wrote samsum_longbench:1:05 margin only 16
+Wrote samsum_longbench:2:05 margin only 16
+Wrote samsum_longbench:3:05 margin only 16
+Wrote samsum_longbench:4:05 margin only 16
+Wrote samsum_longbench:5:05 margin only 16
+Wrote samsum_longbench:6:05 margin only 16
+Wrote samsum_longbench:7:05 margin only 16
+Wrote samsum_longbench:8:05 margin only 16
+Wrote samsum_longbench:9:05 margin only 16
+Wrote samsum_longbench:10:05 margin only 16
+Wrote samsum_longbench:11:05 margin only 16
+Wrote samsum_longbench:12:05 margin only 16
+Wrote samsum_longbench:13:05 margin only 16
+Wrote samsum_longbench:14:05 margin only 16
+Wrote samsum_longbench:15:05 margin only 16
+Wrote samsum_longbench:16:05 margin only 16
+Wrote samsum_longbench:17:05 margin only 16
+Wrote samsum_longbench:18:05 margin only 16
+Wrote samsum_longbench:19:05 margin only 16
+Wrote samsum_longbench:20:05 margin only 16
+Wrote samsum_longbench:21:05 margin only 16
+Wrote samsum_longbench:22:05 margin only 16
+Wrote samsum_longbench:23:05 margin only 16
+Wrote samsum_longbench:24:05 margin only 16
+Wrote samsum_longbench:25:05 margin only 16
+Wrote samsum_longbench:26:05 margin only 16
+Wrote samsum_longbench:27:05 margin only 16
+Wrote samsum_longbench:28:05 margin only 16
+Wrote samsum_longbench:29:05 margin only 16
+Wrote samsum_longbench:30:05 margin only 16
+Wrote samsum_longbench:31:05 margin only 16
+Wrote samsum_longbench:32:05 margin only 16
+Wrote samsum_longbench:33:05 margin only 16
+Wrote samsum_longbench:34:05 margin only 16
+Wrote samsum_longbench:35:05 margin only 16
+Wrote samsum_longbench:36:05 margin only 16
+Wrote samsum_longbench:37:05 margin only 16
+Wrote samsum_longbench:38:05 margin only 16
+Wrote samsum_longbench:39:05 margin only 16
+Wrote samsum_longbench:40:05 margin only 16
+Wrote samsum_longbench:41:05 margin only 16
+Wrote samsum_longbench:42:05 margin only 16
+Wrote samsum_longbench:43:05 margin only 16
+Wrote samsum_longbench:44:05 margin only 16
+Wrote samsum_longbench:45:05 margin only 16
+Wrote samsum_longbench:46:05 margin only 16
+Wrote samsum_longbench:47:05 margin only 16
+Wrote samsum_longbench:48:05 margin only 16
+Wrote samsum_longbench:49:05 margin only 16
+Wrote samsum_longbench:0:05 separator + margin 2
+Wrote samsum_longbench:1:05 separator + margin 2
+Wrote samsum_longbench:2:05 separator + margin 2
+Wrote samsum_longbench:3:05 separator + margin 2
+Wrote samsum_longbench:4:05 separator + margin 2
+Wrote samsum_longbench:5:05 separator + margin 2
+Wrote samsum_longbench:6:05 separator + margin 2
+Wrote samsum_longbench:7:05 separator + margin 2
+Wrote samsum_longbench:8:05 separator + margin 2
+Wrote samsum_longbench:9:05 separator + margin 2
+Wrote samsum_longbench:10:05 separator + margin 2
+Wrote samsum_longbench:11:05 separator + margin 2
+Wrote samsum_longbench:12:05 separator + margin 2
+Wrote samsum_longbench:13:05 separator + margin 2
+Wrote samsum_longbench:14:05 separator + margin 2
+Wrote samsum_longbench:15:05 separator + margin 2
+Wrote samsum_longbench:16:05 separator + margin 2
+Wrote samsum_longbench:17:05 separator + margin 2
+Wrote samsum_longbench:18:05 separator + margin 2
+Wrote samsum_longbench:19:05 separator + margin 2
+Wrote samsum_longbench:20:05 separator + margin 2
+Wrote samsum_longbench:21:05 separator + margin 2
+Wrote samsum_longbench:22:05 separator + margin 2
+Wrote samsum_longbench:23:05 separator + margin 2
+Wrote samsum_longbench:24:05 separator + margin 2
+Wrote samsum_longbench:25:05 separator + margin 2
+Wrote samsum_longbench:26:05 separator + margin 2
+Wrote samsum_longbench:27:05 separator + margin 2
+Wrote samsum_longbench:28:05 separator + margin 2
+Wrote samsum_longbench:29:05 separator + margin 2
+Wrote samsum_longbench:30:05 separator + margin 2
+Wrote samsum_longbench:31:05 separator + margin 2
+Wrote samsum_longbench:32:05 separator + margin 2
+Wrote samsum_longbench:33:05 separator + margin 2
+Wrote samsum_longbench:34:05 separator + margin 2
+Wrote samsum_longbench:35:05 separator + margin 2
+Wrote samsum_longbench:36:05 separator + margin 2
+Wrote samsum_longbench:37:05 separator + margin 2
+Wrote samsum_longbench:38:05 separator + margin 2
+Wrote samsum_longbench:39:05 separator + margin 2
+Wrote samsum_longbench:40:05 separator + margin 2
+Wrote samsum_longbench:41:05 separator + margin 2
+Wrote samsum_longbench:42:05 separator + margin 2
+Wrote samsum_longbench:43:05 separator + margin 2
+Wrote samsum_longbench:44:05 separator + margin 2
+Wrote samsum_longbench:45:05 separator + margin 2
+Wrote samsum_longbench:46:05 separator + margin 2
+Wrote samsum_longbench:47:05 separator + margin 2
+Wrote samsum_longbench:48:05 separator + margin 2
+Wrote samsum_longbench:49:05 separator + margin 2
+Wrote samsum_longbench:0:05 separator + margin 4
+Wrote samsum_longbench:1:05 separator + margin 4
+Wrote samsum_longbench:2:05 separator + margin 4
+Wrote samsum_longbench:3:05 separator + margin 4
+Wrote samsum_longbench:4:05 separator + margin 4
+Wrote samsum_longbench:5:05 separator + margin 4
+Wrote samsum_longbench:6:05 separator + margin 4
+Wrote samsum_longbench:7:05 separator + margin 4
+Wrote samsum_longbench:8:05 separator + margin 4
+Wrote samsum_longbench:9:05 separator + margin 4
+Wrote samsum_longbench:10:05 separator + margin 4
+Wrote samsum_longbench:11:05 separator + margin 4
+Wrote samsum_longbench:12:05 separator + margin 4
+Wrote samsum_longbench:13:05 separator + margin 4
+Wrote samsum_longbench:14:05 separator + margin 4
+Wrote samsum_longbench:15:05 separator + margin 4
+Wrote samsum_longbench:16:05 separator + margin 4
+Wrote samsum_longbench:17:05 separator + margin 4
+Wrote samsum_longbench:18:05 separator + margin 4
+Wrote samsum_longbench:19:05 separator + margin 4
+Wrote samsum_longbench:20:05 separator + margin 4
+Wrote samsum_longbench:21:05 separator + margin 4
+Wrote samsum_longbench:22:05 separator + margin 4
+Wrote samsum_longbench:23:05 separator + margin 4
+Wrote samsum_longbench:24:05 separator + margin 4
+Wrote samsum_longbench:25:05 separator + margin 4
+Wrote samsum_longbench:26:05 separator + margin 4
+Wrote samsum_longbench:27:05 separator + margin 4
+Wrote samsum_longbench:28:05 separator + margin 4
+Wrote samsum_longbench:29:05 separator + margin 4
+Wrote samsum_longbench:30:05 separator + margin 4
+Wrote samsum_longbench:31:05 separator + margin 4
+Wrote samsum_longbench:32:05 separator + margin 4
+Wrote samsum_longbench:33:05 separator + margin 4
+Wrote samsum_longbench:34:05 separator + margin 4
+Wrote samsum_longbench:35:05 separator + margin 4
+Wrote samsum_longbench:36:05 separator + margin 4
+Wrote samsum_longbench:37:05 separator + margin 4
+Wrote samsum_longbench:38:05 separator + margin 4
+Wrote samsum_longbench:39:05 separator + margin 4
+Wrote samsum_longbench:40:05 separator + margin 4
+Wrote samsum_longbench:41:05 separator + margin 4
+Wrote samsum_longbench:42:05 separator + margin 4
+Wrote samsum_longbench:43:05 separator + margin 4
+Wrote samsum_longbench:44:05 separator + margin 4
+Wrote samsum_longbench:45:05 separator + margin 4
+Wrote samsum_longbench:46:05 separator + margin 4
+Wrote samsum_longbench:47:05 separator + margin 4
+Wrote samsum_longbench:48:05 separator + margin 4
+Wrote samsum_longbench:49:05 separator + margin 4
+Wrote samsum_longbench:0:05 separator + margin 8
+Wrote samsum_longbench:1:05 separator + margin 8
+Wrote samsum_longbench:2:05 separator + margin 8
+Wrote samsum_longbench:3:05 separator + margin 8
+Wrote samsum_longbench:4:05 separator + margin 8
+Wrote samsum_longbench:5:05 separator + margin 8
+Wrote samsum_longbench:6:05 separator + margin 8
+Wrote samsum_longbench:7:05 separator + margin 8
+Wrote samsum_longbench:8:05 separator + margin 8
+Wrote samsum_longbench:9:05 separator + margin 8
+Wrote samsum_longbench:10:05 separator + margin 8
+Wrote samsum_longbench:11:05 separator + margin 8
+Wrote samsum_longbench:12:05 separator + margin 8
+Wrote samsum_longbench:13:05 separator + margin 8
+Wrote samsum_longbench:14:05 separator + margin 8
+Wrote samsum_longbench:15:05 separator + margin 8
+Wrote samsum_longbench:16:05 separator + margin 8
+Wrote samsum_longbench:17:05 separator + margin 8
+Wrote samsum_longbench:18:05 separator + margin 8
+Wrote samsum_longbench:19:05 separator + margin 8
+Wrote samsum_longbench:20:05 separator + margin 8
+Wrote samsum_longbench:21:05 separator + margin 8
+Wrote samsum_longbench:22:05 separator + margin 8
+Wrote samsum_longbench:23:05 separator + margin 8
+Wrote samsum_longbench:24:05 separator + margin 8
+Wrote samsum_longbench:25:05 separator + margin 8
+Wrote samsum_longbench:26:05 separator + margin 8
+Wrote samsum_longbench:27:05 separator + margin 8
+Wrote samsum_longbench:28:05 separator + margin 8
+Wrote samsum_longbench:29:05 separator + margin 8
+Wrote samsum_longbench:30:05 separator + margin 8
+Wrote samsum_longbench:31:05 separator + margin 8
+Wrote samsum_longbench:32:05 separator + margin 8
+Wrote samsum_longbench:33:05 separator + margin 8
+Wrote samsum_longbench:34:05 separator + margin 8
+Wrote samsum_longbench:35:05 separator + margin 8
+Wrote samsum_longbench:36:05 separator + margin 8
+Wrote samsum_longbench:37:05 separator + margin 8
+Wrote samsum_longbench:38:05 separator + margin 8
+Wrote samsum_longbench:39:05 separator + margin 8
+Wrote samsum_longbench:40:05 separator + margin 8
+Wrote samsum_longbench:41:05 separator + margin 8
+Wrote samsum_longbench:42:05 separator + margin 8
+Wrote samsum_longbench:43:05 separator + margin 8
+Wrote samsum_longbench:44:05 separator + margin 8
+Wrote samsum_longbench:45:05 separator + margin 8
+Wrote samsum_longbench:46:05 separator + margin 8
+Wrote samsum_longbench:47:05 separator + margin 8
+Wrote samsum_longbench:48:05 separator + margin 8
+Wrote samsum_longbench:49:05 separator + margin 8
+Wrote samsum_longbench:0:05 separator + margin 16
+Wrote samsum_longbench:1:05 separator + margin 16
+Wrote samsum_longbench:2:05 separator + margin 16
+Wrote samsum_longbench:3:05 separator + margin 16
+Wrote samsum_longbench:4:05 separator + margin 16
+Wrote samsum_longbench:5:05 separator + margin 16
+Wrote samsum_longbench:6:05 separator + margin 16
+Wrote samsum_longbench:7:05 separator + margin 16
+Wrote samsum_longbench:8:05 separator + margin 16
+Wrote samsum_longbench:9:05 separator + margin 16
+Wrote samsum_longbench:10:05 separator + margin 16
+Wrote samsum_longbench:11:05 separator + margin 16
+Wrote samsum_longbench:12:05 separator + margin 16
+Wrote samsum_longbench:13:05 separator + margin 16
+Wrote samsum_longbench:14:05 separator + margin 16
+Wrote samsum_longbench:15:05 separator + margin 16
+Wrote samsum_longbench:16:05 separator + margin 16
+Wrote samsum_longbench:17:05 separator + margin 16
+Wrote samsum_longbench:18:05 separator + margin 16
+Wrote samsum_longbench:19:05 separator + margin 16
+Wrote samsum_longbench:20:05 separator + margin 16
+Wrote samsum_longbench:21:05 separator + margin 16
+Wrote samsum_longbench:22:05 separator + margin 16
+Wrote samsum_longbench:23:05 separator + margin 16
+Wrote samsum_longbench:24:05 separator + margin 16
+Wrote samsum_longbench:25:05 separator + margin 16
+Wrote samsum_longbench:26:05 separator + margin 16
+Wrote samsum_longbench:27:05 separator + margin 16
+Wrote samsum_longbench:28:05 separator + margin 16
+Wrote samsum_longbench:29:05 separator + margin 16
+Wrote samsum_longbench:30:05 separator + margin 16
+Wrote samsum_longbench:31:05 separator + margin 16
+Wrote samsum_longbench:32:05 separator + margin 16
+Wrote samsum_longbench:33:05 separator + margin 16
+Wrote samsum_longbench:34:05 separator + margin 16
+Wrote samsum_longbench:35:05 separator + margin 16
+Wrote samsum_longbench:36:05 separator + margin 16
+Wrote samsum_longbench:37:05 separator + margin 16
+Wrote samsum_longbench:38:05 separator + margin 16
+Wrote samsum_longbench:39:05 separator + margin 16
+Wrote samsum_longbench:40:05 separator + margin 16
+Wrote samsum_longbench:41:05 separator + margin 16
+Wrote samsum_longbench:42:05 separator + margin 16
+Wrote samsum_longbench:43:05 separator + margin 16
+Wrote samsum_longbench:44:05 separator + margin 16
+Wrote samsum_longbench:45:05 separator + margin 16
+Wrote samsum_longbench:46:05 separator + margin 16
+Wrote samsum_longbench:47:05 separator + margin 16
+Wrote samsum_longbench:48:05 separator + margin 16
+Wrote samsum_longbench:49:05 separator + margin 16
+Wrote samsum_longbench:0:05 Blend (16%) layer 0
+Wrote samsum_longbench:1:05 Blend (16%) layer 0
+Wrote samsum_longbench:2:05 Blend (16%) layer 0
+Wrote samsum_longbench:3:05 Blend (16%) layer 0
+Wrote samsum_longbench:4:05 Blend (16%) layer 0
+Wrote samsum_longbench:5:05 Blend (16%) layer 0
+Wrote samsum_longbench:6:05 Blend (16%) layer 0
+Wrote samsum_longbench:7:05 Blend (16%) layer 0
+Wrote samsum_longbench:8:05 Blend (16%) layer 0
+Wrote samsum_longbench:9:05 Blend (16%) layer 0
+Wrote samsum_longbench:10:05 Blend (16%) layer 0
+Wrote samsum_longbench:11:05 Blend (16%) layer 0
+Wrote samsum_longbench:12:05 Blend (16%) layer 0
+Wrote samsum_longbench:13:05 Blend (16%) layer 0
+Wrote samsum_longbench:14:05 Blend (16%) layer 0
+Wrote samsum_longbench:15:05 Blend (16%) layer 0
+Wrote samsum_longbench:16:05 Blend (16%) layer 0
+Wrote samsum_longbench:17:05 Blend (16%) layer 0
+Wrote samsum_longbench:18:05 Blend (16%) layer 0
+Wrote samsum_longbench:19:05 Blend (16%) layer 0
+Wrote samsum_longbench:20:05 Blend (16%) layer 0
+Wrote samsum_longbench:21:05 Blend (16%) layer 0
+Wrote samsum_longbench:22:05 Blend (16%) layer 0
+Wrote samsum_longbench:23:05 Blend (16%) layer 0
+Wrote samsum_longbench:24:05 Blend (16%) layer 0
+Wrote samsum_longbench:25:05 Blend (16%) layer 0
+Wrote samsum_longbench:26:05 Blend (16%) layer 0
+Wrote samsum_longbench:27:05 Blend (16%) layer 0
+Wrote samsum_longbench:28:05 Blend (16%) layer 0
+Wrote samsum_longbench:29:05 Blend (16%) layer 0
+Wrote samsum_longbench:30:05 Blend (16%) layer 0
+Wrote samsum_longbench:31:05 Blend (16%) layer 0
+Wrote samsum_longbench:32:05 Blend (16%) layer 0
+Wrote samsum_longbench:33:05 Blend (16%) layer 0
+Wrote samsum_longbench:34:05 Blend (16%) layer 0
+Wrote samsum_longbench:35:05 Blend (16%) layer 0
+Wrote samsum_longbench:36:05 Blend (16%) layer 0
+Wrote samsum_longbench:37:05 Blend (16%) layer 0
+Wrote samsum_longbench:38:05 Blend (16%) layer 0
+Wrote samsum_longbench:39:05 Blend (16%) layer 0
+Wrote samsum_longbench:40:05 Blend (16%) layer 0
+Wrote samsum_longbench:41:05 Blend (16%) layer 0
+Wrote samsum_longbench:42:05 Blend (16%) layer 0
+Wrote samsum_longbench:43:05 Blend (16%) layer 0
+Wrote samsum_longbench:44:05 Blend (16%) layer 0
+Wrote samsum_longbench:45:05 Blend (16%) layer 0
+Wrote samsum_longbench:46:05 Blend (16%) layer 0
+Wrote samsum_longbench:47:05 Blend (16%) layer 0
+Wrote samsum_longbench:48:05 Blend (16%) layer 0
+Wrote samsum_longbench:49:05 Blend (16%) layer 0
+Wrote samsum_longbench:0:05 Blend (16%) layer 2
+Wrote samsum_longbench:1:05 Blend (16%) layer 2
+Wrote samsum_longbench:2:05 Blend (16%) layer 2
+Wrote samsum_longbench:3:05 Blend (16%) layer 2
+Wrote samsum_longbench:4:05 Blend (16%) layer 2
+Wrote samsum_longbench:5:05 Blend (16%) layer 2
+Wrote samsum_longbench:6:05 Blend (16%) layer 2
+Wrote samsum_longbench:7:05 Blend (16%) layer 2
+Wrote samsum_longbench:8:05 Blend (16%) layer 2
+Wrote samsum_longbench:9:05 Blend (16%) layer 2
+Wrote samsum_longbench:10:05 Blend (16%) layer 2
+Wrote samsum_longbench:11:05 Blend (16%) layer 2
+Wrote samsum_longbench:12:05 Blend (16%) layer 2
+Wrote samsum_longbench:13:05 Blend (16%) layer 2
+Wrote samsum_longbench:14:05 Blend (16%) layer 2
+Wrote samsum_longbench:15:05 Blend (16%) layer 2
+Wrote samsum_longbench:16:05 Blend (16%) layer 2
+Wrote samsum_longbench:17:05 Blend (16%) layer 2
+Wrote samsum_longbench:18:05 Blend (16%) layer 2
+Wrote samsum_longbench:19:05 Blend (16%) layer 2
+Wrote samsum_longbench:20:05 Blend (16%) layer 2
+Wrote samsum_longbench:21:05 Blend (16%) layer 2
+Wrote samsum_longbench:22:05 Blend (16%) layer 2
+Wrote samsum_longbench:23:05 Blend (16%) layer 2
+Wrote samsum_longbench:24:05 Blend (16%) layer 2
+Wrote samsum_longbench:25:05 Blend (16%) layer 2
+Wrote samsum_longbench:26:05 Blend (16%) layer 2
+Wrote samsum_longbench:27:05 Blend (16%) layer 2
+Wrote samsum_longbench:28:05 Blend (16%) layer 2
+Wrote samsum_longbench:29:05 Blend (16%) layer 2
+Wrote samsum_longbench:30:05 Blend (16%) layer 2
+Wrote samsum_longbench:31:05 Blend (16%) layer 2
+Wrote samsum_longbench:32:05 Blend (16%) layer 2
+Wrote samsum_longbench:33:05 Blend (16%) layer 2
+Wrote samsum_longbench:34:05 Blend (16%) layer 2
+Wrote samsum_longbench:35:05 Blend (16%) layer 2
+Wrote samsum_longbench:36:05 Blend (16%) layer 2
+Wrote samsum_longbench:37:05 Blend (16%) layer 2
+Wrote samsum_longbench:38:05 Blend (16%) layer 2
+Wrote samsum_longbench:39:05 Blend (16%) layer 2
+Wrote samsum_longbench:40:05 Blend (16%) layer 2
+Wrote samsum_longbench:41:05 Blend (16%) layer 2
+Wrote samsum_longbench:42:05 Blend (16%) layer 2
+Wrote samsum_longbench:43:05 Blend (16%) layer 2
+Wrote samsum_longbench:44:05 Blend (16%) layer 2
+Wrote samsum_longbench:45:05 Blend (16%) layer 2
+Wrote samsum_longbench:46:05 Blend (16%) layer 2
+Wrote samsum_longbench:47:05 Blend (16%) layer 2
+Wrote samsum_longbench:48:05 Blend (16%) layer 2
+Wrote samsum_longbench:49:05 Blend (16%) layer 2
+Wrote samsum_longbench:0:05 Blend (16%) layer 3
+Wrote samsum_longbench:1:05 Blend (16%) layer 3
+Wrote samsum_longbench:2:05 Blend (16%) layer 3
+Wrote samsum_longbench:3:05 Blend (16%) layer 3
+Wrote samsum_longbench:4:05 Blend (16%) layer 3
+Wrote samsum_longbench:5:05 Blend (16%) layer 3
+Wrote samsum_longbench:6:05 Blend (16%) layer 3
+Wrote samsum_longbench:7:05 Blend (16%) layer 3
+Wrote samsum_longbench:8:05 Blend (16%) layer 3
+Wrote samsum_longbench:9:05 Blend (16%) layer 3
+Wrote samsum_longbench:10:05 Blend (16%) layer 3
+Wrote samsum_longbench:11:05 Blend (16%) layer 3
+Wrote samsum_longbench:12:05 Blend (16%) layer 3
+Wrote samsum_longbench:13:05 Blend (16%) layer 3
+Wrote samsum_longbench:14:05 Blend (16%) layer 3
+Wrote samsum_longbench:15:05 Blend (16%) layer 3
+Wrote samsum_longbench:16:05 Blend (16%) layer 3
+Wrote samsum_longbench:17:05 Blend (16%) layer 3
+Wrote samsum_longbench:18:05 Blend (16%) layer 3
+Wrote samsum_longbench:19:05 Blend (16%) layer 3
+Wrote samsum_longbench:20:05 Blend (16%) layer 3
+Wrote samsum_longbench:21:05 Blend (16%) layer 3
+Wrote samsum_longbench:22:05 Blend (16%) layer 3
+Wrote samsum_longbench:23:05 Blend (16%) layer 3
+Wrote samsum_longbench:24:05 Blend (16%) layer 3
+Wrote samsum_longbench:25:05 Blend (16%) layer 3
+Wrote samsum_longbench:26:05 Blend (16%) layer 3
+Wrote samsum_longbench:27:05 Blend (16%) layer 3
+Wrote samsum_longbench:28:05 Blend (16%) layer 3
+Wrote samsum_longbench:29:05 Blend (16%) layer 3
+Wrote samsum_longbench:30:05 Blend (16%) layer 3
+Wrote samsum_longbench:31:05 Blend (16%) layer 3
+Wrote samsum_longbench:32:05 Blend (16%) layer 3
+Wrote samsum_longbench:33:05 Blend (16%) layer 3
+Wrote samsum_longbench:34:05 Blend (16%) layer 3
+Wrote samsum_longbench:35:05 Blend (16%) layer 3
+Wrote samsum_longbench:36:05 Blend (16%) layer 3
+Wrote samsum_longbench:37:05 Blend (16%) layer 3
+Wrote samsum_longbench:38:05 Blend (16%) layer 3
+Wrote samsum_longbench:39:05 Blend (16%) layer 3
+Wrote samsum_longbench:40:05 Blend (16%) layer 3
+Wrote samsum_longbench:41:05 Blend (16%) layer 3
+Wrote samsum_longbench:42:05 Blend (16%) layer 3
+Wrote samsum_longbench:43:05 Blend (16%) layer 3
+Wrote samsum_longbench:44:05 Blend (16%) layer 3
+Wrote samsum_longbench:45:05 Blend (16%) layer 3
+Wrote samsum_longbench:46:05 Blend (16%) layer 3
+Wrote samsum_longbench:47:05 Blend (16%) layer 3
+Wrote samsum_longbench:48:05 Blend (16%) layer 3
+Wrote samsum_longbench:49:05 Blend (16%) layer 3
+Wrote samsum_longbench:0:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:1:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:2:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:3:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:4:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:5:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:6:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:7:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:8:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:9:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:10:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:11:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:12:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:13:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:14:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:15:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:16:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:17:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:18:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:19:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:20:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:21:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:22:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:23:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:24:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:25:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:26:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:27:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:28:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:29:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:30:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:31:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:32:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:33:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:34:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:35:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:36:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:37:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:38:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:39:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:40:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:41:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:42:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:43:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:44:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:45:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:46:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:47:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:48:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:49:05 Blend 16% layer 1 then 100% layer 5
+Wrote samsum_longbench:0:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:1:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:2:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:3:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:4:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:5:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:6:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:7:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:8:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:9:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:10:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:11:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:12:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:13:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:14:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:15:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:16:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:17:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:18:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:19:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:20:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:21:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:22:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:23:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:24:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:25:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:26:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:27:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:28:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:29:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:30:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:31:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:32:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:33:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:34:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:35:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:36:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:37:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:38:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:39:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:40:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:41:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:42:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:43:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:44:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:45:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:46:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:47:06 adaptive K0-05 V0-15 + boundary1
+Wrote samsum_longbench:0:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:1:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:2:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:3:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:4:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:5:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:6:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:7:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:8:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:9:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:10:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:11:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:12:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:13:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:14:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:15:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:16:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:17:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:18:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:19:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:20:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:21:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:22:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:23:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:24:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:25:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:26:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:27:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:28:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:29:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:30:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:31:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:32:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:33:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:34:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:35:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:36:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:37:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:38:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:39:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:40:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:41:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:42:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:43:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:44:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:45:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:46:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:47:06 adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:0:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:1:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:2:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:3:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:4:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:5:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:6:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:7:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:8:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:9:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:10:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:11:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:12:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:13:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:14:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:15:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:16:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:17:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:18:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:19:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:20:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:21:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:22:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:23:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:24:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:25:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:26:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:27:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:28:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:29:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:30:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:31:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:32:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:33:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:34:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:35:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:36:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:37:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:38:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:39:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:40:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:41:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:42:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:43:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:44:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:45:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:46:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:47:06 adaptive K0-10 V0-20 + boundary1
+Wrote samsum_longbench:0:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:1:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:2:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:3:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:4:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:5:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:6:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:7:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:8:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:9:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:10:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:11:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:12:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:13:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:14:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:15:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:16:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:17:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:18:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:19:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:20:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:21:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:22:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:23:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:24:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:25:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:26:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:27:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:28:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:29:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:30:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:31:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:32:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:33:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:34:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:35:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:36:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:37:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:38:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:39:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:40:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:41:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:42:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:43:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:44:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:45:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:46:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:47:06 K+V selector + weighted 10-10
+Wrote samsum_longbench:0:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:1:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:2:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:3:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:4:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:5:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:6:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:7:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:8:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:9:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:10:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:11:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:12:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:13:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:14:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:15:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:16:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:17:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:18:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:19:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:20:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:21:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:22:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:23:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:24:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:25:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:26:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:27:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:28:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:29:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:30:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:31:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:32:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:33:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:34:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:35:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:36:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:37:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:38:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:39:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:40:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:41:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:42:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:43:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:44:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:45:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:46:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:47:06 neighbor right top50 cap20 + adaptive K0-05 V0-20
+Wrote samsum_longbench:0:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:1:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:2:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:3:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:4:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:5:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:6:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:7:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:8:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:9:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:10:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:11:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:12:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:13:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:14:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:15:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:16:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:17:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:18:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:19:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:20:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:21:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:22:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:23:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:24:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:25:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:26:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:27:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:28:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:29:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:30:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:31:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:32:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:33:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:34:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:35:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:36:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:37:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:38:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:39:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:40:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:41:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:42:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:43:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:44:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:45:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:46:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:47:06 neighbor right top50 cap20 + weighted 10-10
+Wrote samsum_longbench:0:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:1:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:2:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:3:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:4:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:5:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:6:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:7:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:8:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:9:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:10:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:11:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:12:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:13:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:14:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:15:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:16:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:17:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:18:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:19:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:20:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:21:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:22:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:23:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:24:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:25:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:26:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:27:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:28:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:29:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:30:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:31:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:32:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:33:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:34:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:35:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:36:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:37:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:38:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:39:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:40:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:41:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:42:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:43:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:44:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:45:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:46:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:47:06 neighbor right top50 cap24 + weighted 10-10
+Wrote samsum_longbench:0:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:1:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:2:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:3:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:4:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:5:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:6:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:7:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:8:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:9:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:10:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:11:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:12:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:13:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:14:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:15:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:16:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:17:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:18:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:19:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:20:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:21:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:22:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:23:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:24:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:25:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:26:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:27:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:28:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:29:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:30:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:31:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:32:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:33:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:34:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:35:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:36:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:37:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:38:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:39:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:40:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:41:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:42:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:43:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:44:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:45:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:46:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:47:06 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:0:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:1:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:2:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:3:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:4:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:5:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:6:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:7:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:8:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:9:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:10:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:11:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:12:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:13:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:14:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:15:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:16:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:17:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:18:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:19:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:20:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:21:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:22:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:23:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:24:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:25:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:26:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:27:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:28:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:29:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:30:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:31:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:32:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:33:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:34:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:35:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:36:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:37:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:38:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:39:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:40:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:41:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:42:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:43:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:44:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:45:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:46:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:47:06 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:0:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:1:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:2:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:3:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:4:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:5:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:6:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:7:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:8:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:9:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:10:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:11:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:12:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:13:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:14:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:15:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:16:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:17:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:18:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:19:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:20:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:21:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:22:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:23:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:24:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:25:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:26:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:27:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:28:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:29:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:30:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:31:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:32:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:33:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:34:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:35:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:36:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:37:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:38:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:39:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:40:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:41:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:42:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:43:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:44:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:45:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:46:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:47:06 rank adaptive K0-05 V0-20 gamma2 + boundary1
+Wrote samsum_longbench:0:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:1:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:2:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:3:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:4:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:5:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:6:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:7:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:8:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:9:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:10:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:11:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:12:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:13:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:14:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:15:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:16:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:17:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:18:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:19:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:20:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:21:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:22:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:23:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:24:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:25:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:26:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:27:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:28:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:29:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:30:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:31:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:32:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:33:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:34:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:35:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:36:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:37:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:38:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:39:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:40:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:41:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:42:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:43:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:44:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:45:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:46:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:47:06 rank adaptive K0-05 V0-25 + boundary1
+Wrote samsum_longbench:0:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:1:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:2:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:3:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:4:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:5:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:6:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:7:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:8:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:9:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:10:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:11:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:12:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:13:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:14:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:15:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:16:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:17:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:18:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:19:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:20:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:21:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:22:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:23:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:24:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:25:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:26:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:27:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:28:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:29:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:30:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:31:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:32:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:33:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:34:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:35:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:36:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:37:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:38:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:39:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:40:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:41:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:42:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:43:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:44:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:45:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:46:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:47:06 weighted 05-05 + boundary1
+Wrote samsum_longbench:0:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:1:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:2:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:3:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:4:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:5:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:6:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:7:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:8:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:9:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:10:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:11:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:12:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:13:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:14:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:15:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:16:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:17:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:18:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:19:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:20:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:21:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:22:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:23:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:24:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:25:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:26:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:27:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:28:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:29:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:30:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:31:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:32:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:33:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:34:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:35:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:36:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:37:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:38:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:39:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:40:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:41:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:42:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:43:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:44:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:45:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:46:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:47:06 weighted 10-10 + boundary1
+Wrote samsum_longbench:0:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:1:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:2:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:3:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:4:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:5:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:6:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:7:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:8:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:9:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:10:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:11:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:12:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:13:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:14:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:15:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:16:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:17:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:18:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:19:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:20:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:21:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:22:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:23:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:24:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:25:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:26:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:27:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:28:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:29:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:30:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:31:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:32:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:33:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:34:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:35:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:36:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:37:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:38:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:39:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:40:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:41:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:42:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:43:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:44:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:45:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:46:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:47:06 weighted 15-15 + boundary1
+Wrote samsum_longbench:0:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:1:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:2:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:3:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:4:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:5:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:6:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:7:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:8:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:9:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:10:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:11:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:12:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:13:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:14:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:15:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:16:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:17:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:18:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:19:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:20:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:21:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:22:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:23:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:24:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:25:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:26:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:27:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:28:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:29:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:30:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:31:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:32:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:33:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:34:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:35:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:36:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:37:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:38:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:39:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:40:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:41:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:42:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:43:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:44:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:45:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:46:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:47:06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:0:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:1:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:2:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:3:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:4:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:5:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:6:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:7:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:8:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:9:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:10:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:11:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:12:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:13:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:14:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:15:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:16:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:17:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:18:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:19:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:20:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:21:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:22:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:23:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:24:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:25:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:26:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:27:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:28:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:29:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:30:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:31:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:32:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:33:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:34:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:35:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:36:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:37:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:38:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:39:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:40:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:41:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:42:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:43:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:44:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:45:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:46:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:47:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:0:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:1:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:2:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:3:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:4:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:5:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:6:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:7:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:8:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:9:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:10:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:11:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:12:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:13:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:14:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:15:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:16:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:17:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:18:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:19:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:20:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:21:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:22:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:23:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:24:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:25:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:26:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:27:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:28:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:29:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:30:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:31:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:32:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:33:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:34:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:35:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:36:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:37:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:38:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:39:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:40:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:41:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:42:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:43:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:44:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:45:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:46:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:47:06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1
+Wrote samsum_longbench:0:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:1:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:2:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:3:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:4:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:5:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:6:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:7:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:8:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:9:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:10:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:11:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:12:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:13:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:14:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:15:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:16:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:17:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:18:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:19:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:20:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:21:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:22:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:23:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:24:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:25:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:26:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:27:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:28:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:29:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:30:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:31:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:32:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:33:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:34:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:35:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:36:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:37:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:38:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:39:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:40:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:41:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:42:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:43:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:44:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:45:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:46:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:47:06 multilayer L1-L3 18->16 weighted 10-10
+Wrote samsum_longbench:0:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:1:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:2:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:3:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:4:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:5:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:6:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:7:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:8:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:9:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:10:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:11:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:12:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:13:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:14:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:15:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:16:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:17:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:18:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:19:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:20:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:21:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:22:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:23:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:24:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:25:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:26:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:27:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:28:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:29:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:30:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:31:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:32:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:33:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:34:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:35:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:36:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:37:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:38:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:39:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:40:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:41:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:42:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:43:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:44:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:45:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:46:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:47:06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:0:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:1:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:2:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:3:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:4:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:5:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:6:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:7:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:8:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:9:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:10:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:11:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:12:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:13:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:14:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:15:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:16:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:17:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:18:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:19:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:20:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:21:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:22:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:23:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:24:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:25:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:26:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:27:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:28:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:29:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:30:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:31:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:32:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:33:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:34:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:35:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:36:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:37:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:38:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:39:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:40:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:41:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:42:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:43:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:44:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:45:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:46:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote samsum_longbench:47:06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20
+Wrote 3060 rows to benchmarks/rag/results_eval/outputs/judge_outputs_samsum_first_summary_all.jsonl

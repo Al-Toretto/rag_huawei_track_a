@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-07 23:23:37,556] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 23:23:37,556] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-07 23:23:37,557] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-07 23:26:55,457] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 23:26:55,476] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-07 23:26:56,211] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 23:26:56,211] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4308362/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4308362.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-07 23:26:56,221] INFO:[0m Summary: 50 requests, average_ttft=1.1707294988632202 (second)
+ average_tpot=0.008235131797291522 (second)
+throughput=0.2536014196935311 (req/s)
+average_quality=0.3617142857142857
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-07 23:26:56,221] INFO:[0m QA metrics: average_f1_word=0.3617142857142857
+average_f1_tokenizer=0.39019136419136413
+average_precision=0.38
+average_recall=0.38166666666666665
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-07 23:26:56,240] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4308362/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4308362.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

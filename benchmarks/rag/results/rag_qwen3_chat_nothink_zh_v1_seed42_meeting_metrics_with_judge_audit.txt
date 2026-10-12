@@ -1,0 +1,130 @@
+VALID	dataset=multifieldqa_zh_longbench	experiment=Full Recompute	job_id=4380350	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) layer 1	job_id=4380286	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) layer 1 margin tokens 1	job_id=4380290	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) layer 1 margin tokens 2	job_id=4380291	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) layer 1 margin tokens 3	job_id=4380292	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) margin 1 + weighted 50-50	job_id=4380289	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) weighted 50-50	job_id=4380300	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) weighted 30-30	job_id=4380299	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) weighted 20-20	job_id=4380298	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) weighted 10-10	job_id=4380297	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) weighted K0-V20	job_id=4380301	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) adaptive weights K0-20, V0-20	job_id=4380288	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (16%) adaptive weights K0-15, V0-40	job_id=4380287	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=SELECTOR K+V	job_id=4380293	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=SELECTOR weighted K30-V70	job_id=4380294	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=SELECTOR weighted K70-V30	job_id=4380295	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=SELECTOR V	job_id=4380296	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (20%) layer 1	job_id=4380309	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (24%) layer 1	job_id=4380310	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (32%) layer 1	job_id=4380311	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=Blend (100%) layer 1	job_id=4380312	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor top25 both cap024	job_id=4380303	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor top50 both cap024	job_id=4380305	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor top50 left cap024	job_id=4380307	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor top50 right cap024	job_id=4380308	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor top25 both cap032	job_id=4380304	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor top50 both cap032	job_id=4380306	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=neighbor all cap048	job_id=4380302	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=close gap cap24	job_id=4380313	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=close gap2 cap24	job_id=4380314	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=close gap2 cap32	job_id=4380315	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 no recompute	job_id=4380324	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 separator only	job_id=4380329	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 margin only 2	job_id=4380321	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 margin only 4	job_id=4380322	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 margin only 8	job_id=4380323	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 margin only 16	job_id=4380320	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 separator + margin 2	job_id=4380326	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 separator + margin 4	job_id=4380327	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 separator + margin 8	job_id=4380328	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 separator + margin 16	job_id=4380325	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 Blend (16%) layer 0	job_id=4380316	rows=50	cap_hits=1	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 Blend (16%) layer 2	job_id=4380317	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 Blend (16%) layer 3	job_id=4380318	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=05 Blend 16% layer 1 then 100% layer 5	job_id=4380319	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 adaptive K0-05 V0-15 + boundary1	job_id=4380330	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 adaptive K0-05 V0-20 + boundary1	job_id=4380331	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 adaptive K0-10 V0-20 + boundary1	job_id=4380332	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 K+V selector + weighted 10-10	job_id=4380333	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 neighbor right top50 cap20 + adaptive K0-05 V0-20	job_id=4380334	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 neighbor right top50 cap20 + weighted 10-10	job_id=4380335	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 neighbor right top50 cap24 + weighted 10-10	job_id=4380336	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 rank adaptive K0-05 V0-20	job_id=4380339	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 rank adaptive K0-05 V0-20 + boundary1	job_id=4380337	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 rank adaptive K0-05 V0-20 gamma2 + boundary1	job_id=4380338	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 rank adaptive K0-05 V0-25 + boundary1	job_id=4380340	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 weighted 05-05 + boundary1	job_id=4380341	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 weighted 10-10 + boundary1	job_id=4380342	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 weighted 15-15 + boundary1	job_id=4380343	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20	job_id=4380344	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20	job_id=4380346	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1	job_id=4380345	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 multilayer L1-L3 18->16 weighted 10-10	job_id=4380347	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20	job_id=4380348	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=multifieldqa_zh_longbench	experiment=06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20	job_id=4380349	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Full Recompute	job_id=4380415	rows=50	cap_hits=1	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) layer 1	job_id=4380351	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) layer 1 margin tokens 1	job_id=4380355	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) layer 1 margin tokens 2	job_id=4380356	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) layer 1 margin tokens 3	job_id=4380357	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) margin 1 + weighted 50-50	job_id=4380354	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) weighted 50-50	job_id=4380365	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) weighted 30-30	job_id=4380364	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) weighted 20-20	job_id=4380363	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) weighted 10-10	job_id=4380362	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) weighted K0-V20	job_id=4380366	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) adaptive weights K0-20, V0-20	job_id=4380353	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (16%) adaptive weights K0-15, V0-40	job_id=4380352	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=SELECTOR K+V	job_id=4380358	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=SELECTOR weighted K30-V70	job_id=4380359	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=SELECTOR weighted K70-V30	job_id=4380360	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=SELECTOR V	job_id=4380361	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (20%) layer 1	job_id=4380374	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (24%) layer 1	job_id=4380375	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (32%) layer 1	job_id=4380376	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=Blend (100%) layer 1	job_id=4380377	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor top25 both cap024	job_id=4380368	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor top50 both cap024	job_id=4380370	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor top50 left cap024	job_id=4380372	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor top50 right cap024	job_id=4380373	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor top25 both cap032	job_id=4380369	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor top50 both cap032	job_id=4380371	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=neighbor all cap048	job_id=4380367	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=close gap cap24	job_id=4380378	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=close gap2 cap24	job_id=4380379	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=close gap2 cap32	job_id=4380380	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 no recompute	job_id=4380389	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 separator only	job_id=4380394	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 margin only 2	job_id=4380386	rows=50	cap_hits=1	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 margin only 4	job_id=4380387	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 margin only 8	job_id=4380388	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 margin only 16	job_id=4380385	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 separator + margin 2	job_id=4380391	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 separator + margin 4	job_id=4380392	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 separator + margin 8	job_id=4380393	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 separator + margin 16	job_id=4380390	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 Blend (16%) layer 0	job_id=4380381	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 Blend (16%) layer 2	job_id=4380382	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 Blend (16%) layer 3	job_id=4380383	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=05 Blend 16% layer 1 then 100% layer 5	job_id=4380384	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 adaptive K0-05 V0-15 + boundary1	job_id=4380395	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 adaptive K0-05 V0-20 + boundary1	job_id=4380396	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 adaptive K0-10 V0-20 + boundary1	job_id=4380397	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 K+V selector + weighted 10-10	job_id=4380398	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 neighbor right top50 cap20 + adaptive K0-05 V0-20	job_id=4380399	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 neighbor right top50 cap20 + weighted 10-10	job_id=4380400	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 neighbor right top50 cap24 + weighted 10-10	job_id=4380401	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 rank adaptive K0-05 V0-20	job_id=4380404	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 rank adaptive K0-05 V0-20 + boundary1	job_id=4380402	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 rank adaptive K0-05 V0-20 gamma2 + boundary1	job_id=4380403	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 rank adaptive K0-05 V0-25 + boundary1	job_id=4380405	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 weighted 05-05 + boundary1	job_id=4380406	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 weighted 10-10 + boundary1	job_id=4380407	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 weighted 15-15 + boundary1	job_id=4380408	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 multilayer L1-L2 18->16 rank adaptive K0-05 V0-20	job_id=4380409	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20	job_id=4380411	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 multilayer L1-L3 18->16 rank adaptive K0-05 V0-20 + boundary1	job_id=4380410	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 multilayer L1-L3 18->16 weighted 10-10	job_id=4380412	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 multilayer L1-L3 20->16 rank adaptive K0-05 V0-20	job_id=4380413	rows=50	cap_hits=0	empty_outputs=0
+VALID	dataset=dureader_longbench	experiment=06 multilayer L1-L3-L5 20->18->16 rank adaptive K0-05 V0-20	job_id=4380414	rows=50	cap_hits=0	empty_outputs=0

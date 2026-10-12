@@ -1,0 +1,13 @@
+repo_dir=/home/a.tomat/work/LMCache
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+yaml_count=1
+dataset_count=1
+lmcache_job_count=1
+full_recompute_job_count=1
+total_job_count=2
+dry_run=0
+smoke_test=1
+smoke_end_index=2
+SUBMITTED lmcache	job_id=4277206	experiment=qwen3_model_only_smoke_samsum_longbench_lmcache_blend
+SUBMITTED full_recompute	job_id=4277207	experiment=qwen3_model_only_smoke_samsum_longbench_full_recompute

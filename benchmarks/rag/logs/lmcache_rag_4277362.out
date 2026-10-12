@@ -1,0 +1,42 @@
+run_name=qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/06_blend16_shared_candidates/blend16_layer1_neighbor_top50_right_cap024_weighted10.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=57362
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:37362/health ...
+Server is ready after 410s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-08-26 21:22:37,737] DEBUG:[0m Starting the asyncio loop [3m(utils.py:114:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 21:25:56,978] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:129:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 21:25:57,031] INFO:[0m Waiting for 48 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-08-26 21:40:57,760] DEBUG:[0m Stopping the loop! [3m(utils.py:126:AsyncLoopWrapper)[0m
+[32;20m[2026-08-26 21:40:57,761] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362.csv [3m(rag.py:574:__main__)[0m
+[32;20m[2026-08-26 21:40:57,771] INFO:[0m Summary: 50 requests, average_ttft=311.0533909749985 (second)
+ average_tpot=0.14892186337419355 (second)
+throughput=0.04556227079784281 (req/s)
+average_quality=0.408
+ [3m(rag.py:487:__main__)[0m
+[32;20m[2026-08-26 21:40:57,772] INFO:[0m QA metrics: average_f1_word=0.408
+average_f1_tokenizer=0.4407706766917293
+average_precision=0.4453333333333333
+average_recall=0.39257142857142857
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-08-26 21:40:57,805] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362.debug.csv [3m(rag.py:578:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_model_only_musique_longbench_06_blend16_shared_candidates__blend16_layer1_neighbor_top50_right_cap024_weighted10_4277362/benchmark.log

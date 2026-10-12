@@ -1,0 +1,4 @@
+slurmstepd: error: slurm_curl_request: curl_easy_perform failed to send data to 192.168.1.252:8086/write?db=slurm_jobs&rp=autogen&precision=s. Reason: Timeout was reached
+slurmstepd: error: send data failed
+slurmstepd: error: slurm_curl_request: curl_easy_perform failed to send data to 192.168.1.252:8086/write?db=slurm_jobs&rp=autogen&precision=s. Reason: Timeout was reached
+slurmstepd: error: send data failed

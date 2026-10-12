@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-07 16:01:16,648] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 16:01:16,649] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-07 16:01:16,649] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-07 16:04:34,526] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 16:04:34,547] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-07 16:04:35,236] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-07 16:04:35,236] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__span_close_gap1_cap024_4308339/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__span_close_gap1_cap024_4308339.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-07 16:04:35,246] INFO:[0m Summary: 50 requests, average_ttft=1.1578735685348511 (second)
+ average_tpot=0.00826610001358291 (second)
+throughput=0.2535804846502407 (req/s)
+average_quality=0.35838095238095236
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-07 16:04:35,246] INFO:[0m QA metrics: average_f1_word=0.35838095238095236
+average_f1_tokenizer=0.383011877011877
+average_precision=0.39
+average_recall=0.36833333333333335
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-07 16:04:35,256] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__span_close_gap1_cap024_4308339/qwen3_chat_nothink_v5_seed42_2wikimqa_longbench_yaml_04_around_high_div__span_close_gap1_cap024_4308339.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/2wikimqa_longbench.json

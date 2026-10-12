@@ -1,0 +1,15 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Precompute from 0 to 10 for model Qwen/Qwen3-32B
+[1m[2026-09-03 20:46:17,560] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:46:17,560] INFO:[0m Generation stop sequences: ['# #', 'Dialogue:'] [3m(rag.py:202:__main__)[0m
+[32;20m[2026-09-03 20:46:54,227] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:46:54,276] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-03 20:46:55,888] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:46:55,889] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_lmcache_blend_4301895/qwen3_cachefix_caps_v3_diag10_samsum_longbench_lmcache_blend_4301895.csv [3m(rag.py:582:__main__)[0m
+[32;20m[2026-09-03 20:46:55,893] INFO:[0m Summary: 10 requests, average_ttft=1.6424619436264039 (second)
+ average_tpot=0.020620589026705605 (second)
+throughput=0.26467744619643924 (req/s)
+average_quality=0.37895456533595995
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-09-03 20:46:55,924] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_lmcache_blend_4301895/qwen3_cachefix_caps_v3_diag10_samsum_longbench_lmcache_blend_4301895.debug.csv [3m(rag.py:586:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json

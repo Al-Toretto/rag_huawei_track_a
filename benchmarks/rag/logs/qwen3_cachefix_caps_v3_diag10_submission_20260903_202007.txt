@@ -1,0 +1,12 @@
+repo_dir=/home/a.tomat/work/LMCache
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/lmcache_blend.yaml
+diagnostic_end_index=10
+job_count=6
+dry_run=1
+DRY RUN	dataset=2wikimqa_longbench	mode=lmcache_blend	end_index=10	max_tokens=32	experiment=qwen3_cachefix_caps_v3_diag10_2wikimqa_longbench_lmcache_blend
+DRY RUN	dataset=2wikimqa_longbench	mode=full_recompute	end_index=10	max_tokens=32	experiment=qwen3_cachefix_caps_v3_diag10_2wikimqa_longbench_full_recompute
+DRY RUN	dataset=musique_longbench	mode=lmcache_blend	end_index=10	max_tokens=32	experiment=qwen3_cachefix_caps_v3_diag10_musique_longbench_lmcache_blend
+DRY RUN	dataset=musique_longbench	mode=full_recompute	end_index=10	max_tokens=32	experiment=qwen3_cachefix_caps_v3_diag10_musique_longbench_full_recompute
+DRY RUN	dataset=samsum_longbench	mode=lmcache_blend	end_index=10	max_tokens=256	experiment=qwen3_cachefix_caps_v3_diag10_samsum_longbench_lmcache_blend
+DRY RUN	dataset=samsum_longbench	mode=full_recompute	end_index=10	max_tokens=256	experiment=qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute

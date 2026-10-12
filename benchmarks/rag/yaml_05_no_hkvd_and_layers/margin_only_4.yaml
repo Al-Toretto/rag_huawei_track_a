@@ -1,0 +1,20 @@
+chunk_size: 256
+local_cpu: True
+max_local_cpu_size: 320
+save_unfull_chunk: True
+
+enable_blending: True
+blend_special_str: " # # "
+use_layerwise: True
+blend_check_layers: [0]
+blend_recompute_ratios: [0.0]
+
+extra_config:
+  blend_selected_attention_backend: "xformers"
+  blend_selection_strategy: "segment_margin_only"
+  blend_fusion_strategy: "overwrite_selected"
+  blend_log_selection_stats: true
+  blend_log_fusion_stats: true
+  blend_chunk_boundary_token_count: 4
+  blend_cached_k_weight: 0.0
+  blend_cached_v_weight: 0.0

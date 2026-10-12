@@ -1,0 +1,58 @@
+Normal module lookup failed for gnu12/12.1; retrying without the Lmod cache.
+WARNING: optional module gnu12/12.1 is unavailable.
+Continuing with the runtime provided by Conda and the system.
+Normal module lookup failed for tools/git/v2.33; retrying without the Lmod cache.
+WARNING: optional module tools/git/v2.33 is unavailable.
+Continuing with the runtime provided by Conda and the system.
+run_name=qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_config=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+config_file=/home/a.tomat/work/LMCache/benchmarks/rag/yaml_05_no_hkvd_and_layers/margin_only_16.yaml
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+kv_transfer_port=40385
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=1024
+sampling_temperature=0.7
+sampling_top_p=0.8
+sampling_top_k=20
+sampling_min_p=0.0
+generation_seed=42
+chat_template_mode=qwen-non-thinking
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:20385/health ...
+Server is ready after 185s. Starting benchmark...
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-10-06 21:13:17,381] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:13:17,382] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 21:13:17,382] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 21:16:34,935] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:16:34,965] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 21:16:37,387] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 21:16:37,387] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380385/jieba.cache
+Loading model cost 0.317 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 21:16:37,888] INFO:[0m Summary: 50 requests, average_ttft=0.6947309780120849 (second)
+ average_tpot=0.021795081879383706 (second)
+throughput=0.25148198402304334 (req/s)
+average_quality=0.23239806927988263
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 21:16:37,897] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_yaml_05_no_hkvd_and_layers__margin_only_16_4380385/benchmark.log

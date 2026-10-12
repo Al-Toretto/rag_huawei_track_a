@@ -1,0 +1,40 @@
+run_name=qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896
+node=cn-049
+model_snapshot=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+model_name=Qwen/Qwen3-32B
+tokenizer_name=/home/a.tomat/.cache/huggingface/hub/models--Qwen--Qwen3-32B/snapshots/9216db5781bf21249d130ec9da846c4624c16137
+dataset_path=/home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+end_index=10
+output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896.csv
+debug_output_file=/home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896.debug.csv
+server_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/server.log
+benchmark_log=/home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/benchmark.log
+python_bin=/home/a.tomat/.conda/envs/lmcache/bin/python
+max_model_len=30000
+max_num_batched_tokens=16384
+max_tokens=256
+Starting server attempt 1/2...
+Waiting for vLLM server on http://127.0.0.1:21896/health ...
+Server is ready after 90s. Starting benchmark...
+[1m[2026-09-03 20:49:38,480] DEBUG:[0m Starting the asyncio loop [3m(utils.py:112:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:49:38,480] INFO:[0m Generation stop sequences: ['# #', 'Dialogue:'] [3m(rag.py:202:__main__)[0m
+[32;20m[2026-09-03 20:49:38,480] INFO:[0m Warming up the engine [3m(rag.py:312:__main__)[0m
+[32;20m[2026-09-03 20:49:38,881] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:49:41,205] INFO:[0m Warm up finished. [3m(rag.py:318:__main__)[0m
+[32;20m[2026-09-03 20:50:17,901] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:127:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:50:17,950] INFO:[0m Waiting for 2 tasks to finish [3m(utils.py:86:AsyncLoopWrapper)[0m
+[1m[2026-09-03 20:50:26,122] DEBUG:[0m Stopping the loop! [3m(utils.py:124:AsyncLoopWrapper)[0m
+[32;20m[2026-09-03 20:50:26,122] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896.csv [3m(rag.py:582:__main__)[0m
+[32;20m[2026-09-03 20:50:26,130] INFO:[0m Summary: 10 requests, average_ttft=2.584580969810486 (second)
+ average_tpot=0.03669515896797564 (second)
+throughput=0.2254247413959909 (req/s)
+average_quality=0.3147715150103037
+ [3m(rag.py:494:__main__)[0m
+[32;20m[2026-09-03 20:50:26,138] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896.debug.csv [3m(rag.py:586:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/samsum_longbench.json
+Benchmark finished.
+Artifacts:
+  metrics: /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896.csv
+  debug:   /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896.debug.csv
+  server:  /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/server.log
+  bench:   /home/a.tomat/work/LMCache/benchmarks/rag/logs/qwen3_cachefix_caps_v3_diag10_samsum_longbench_full_recompute_4301896/benchmark.log

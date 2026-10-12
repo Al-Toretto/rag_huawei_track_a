@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-08 02:27:48,624] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 02:27:48,624] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 02:27:48,625] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 02:31:07,282] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 02:31:07,333] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 02:31:07,716] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 02:31:07,717] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4308413/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4308413.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 02:31:07,729] INFO:[0m Summary: 50 requests, average_ttft=0.48827075958251953 (second)
+ average_tpot=0.008269594713367715 (second)
+throughput=0.25367656359587787 (req/s)
+average_quality=0.2887647907647908
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 02:31:07,729] INFO:[0m QA metrics: average_f1_word=0.2887647907647908
+average_f1_tokenizer=0.35485581085581086
+average_precision=0.3
+average_recall=0.28800000000000003
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-08 02:31:07,752] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4308413/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_05_no_hkvd_and_layers__margin_only_4_4308413.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

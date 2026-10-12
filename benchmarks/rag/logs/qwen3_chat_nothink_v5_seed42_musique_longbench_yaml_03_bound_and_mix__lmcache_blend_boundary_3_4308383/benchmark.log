@@ -1,0 +1,21 @@
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json
+Precompute from 0 to 50 for model Qwen/Qwen3-32B
+[1m[2026-09-08 01:22:44,026] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:22:44,026] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #'] [3m(rag.py:308:__main__)[0m
+[32;20m[2026-09-08 01:22:44,027] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:309:__main__)[0m
+[32;20m[2026-09-08 01:26:02,828] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:26:02,881] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-09-08 01:26:04,425] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-09-08 01:26:04,426] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_boundary_3_4308383/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_boundary_3_4308383.csv [3m(rag.py:728:__main__)[0m
+[32;20m[2026-09-08 01:26:04,439] INFO:[0m Summary: 50 requests, average_ttft=1.586746153831482 (second)
+ average_tpot=0.007495009418907397 (second)
+throughput=0.2521916196264176 (req/s)
+average_quality=0.37666666666666665
+ [3m(rag.py:622:__main__)[0m
+[32;20m[2026-09-08 01:26:04,439] INFO:[0m QA metrics: average_f1_word=0.37666666666666665
+average_f1_tokenizer=0.4375681628313208
+average_precision=0.39333333333333337
+average_recall=0.37
+ [3m(rag.py:629:__main__)[0m
+[32;20m[2026-09-08 01:26:04,468] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_boundary_3_4308383/qwen3_chat_nothink_v5_seed42_musique_longbench_yaml_03_bound_and_mix__lmcache_blend_boundary_3_4308383.debug.csv [3m(rag.py:732:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/musique_longbench.json

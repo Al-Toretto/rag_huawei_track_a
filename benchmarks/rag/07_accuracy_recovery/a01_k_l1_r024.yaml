@@ -1,0 +1,24 @@
+# Round 07: Group A: reproduce the strongest shared judge result at 24%.
+# Rates apply to the active cached-prefix tokens, not the complete prompt.
+# Selection layers are zero-based; all prefix tokens run before the first check.
+chunk_size: 256
+local_cpu: true
+max_local_cpu_size: 320
+save_unfull_chunk: true
+
+enable_blending: true
+blend_special_str: " # # "
+use_layerwise: true
+blend_check_layers: [1]
+blend_recompute_ratios: [0.24]
+
+extra_config:
+  blend_selected_attention_backend: "xformers"
+  blend_selection_strategy: "topk_diff_k"
+  blend_fusion_strategy: "overwrite_selected"
+  blend_log_selection_stats: true
+  blend_log_fusion_stats: true
+  blend_force_chunk_boundary_tokens: false
+  blend_chunk_boundary_token_count: 1
+  blend_cached_k_weight: 0.0
+  blend_cached_v_weight: 0.0

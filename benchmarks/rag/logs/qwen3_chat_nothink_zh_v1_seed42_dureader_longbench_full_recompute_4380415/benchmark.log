@@ -1,0 +1,21 @@
+[1m[2026-10-06 22:33:28,575] DEBUG:[0m Starting the asyncio loop [3m(utils.py:113:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:33:28,576] INFO:[0m Generation stop sequences: ['Question:', '. Answer:', '. 答案：', '# #', '\n问题：', '。答案：'] [3m(rag.py:327:__main__)[0m
+[32;20m[2026-10-06 22:33:28,576] INFO:[0m Generation sampling: temperature=0.7 top_p=0.8 top_k=20 min_p=0.0 seed=42 [3m(rag.py:328:__main__)[0m
+[32;20m[2026-10-06 22:33:28,576] INFO:[0m Warming up the engine [3m(rag.py:450:__main__)[0m
+[32;20m[2026-10-06 22:33:28,792] INFO:[0m Waiting for 10 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:33:31,174] INFO:[0m Warm up finished. [3m(rag.py:456:__main__)[0m
+[32;20m[2026-10-06 22:36:48,909] INFO:[0m Waiting for remaining tasks to finish [3m(utils.py:128:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:36:48,939] INFO:[0m Waiting for 1 tasks to finish [3m(utils.py:87:AsyncLoopWrapper)[0m
+[1m[2026-10-06 22:36:52,726] DEBUG:[0m Stopping the loop! [3m(utils.py:125:AsyncLoopWrapper)[0m
+[32;20m[2026-10-06 22:36:52,726] INFO:[0m Finished benchmarking, dumping summary to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_full_recompute_4380415/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_full_recompute_4380415.csv [3m(rag.py:748:__main__)[0m
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/job-4380415/jieba.cache
+Loading model cost 0.317 seconds.
+Prefix dict has been built successfully.
+[32;20m[2026-10-06 22:36:53,282] INFO:[0m Summary: 50 requests, average_ttft=2.2479454612731935 (second)
+ average_tpot=0.033974770870203244 (second)
+throughput=0.24956865654386268 (req/s)
+average_quality=0.22930822598365652
+ [3m(rag.py:641:__main__)[0m
+[32;20m[2026-10-06 22:36:53,297] INFO:[0m Dumping per-request debug data to /home/a.tomat/work/LMCache/benchmarks/rag/results/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_full_recompute_4380415/qwen3_chat_nothink_zh_v1_seed42_dureader_longbench_full_recompute_4380415.debug.csv [3m(rag.py:752:__main__)[0m
+Loading dataset: /home/a.tomat/work/LMCache/benchmarks/rag/inputs/dureader_longbench.json

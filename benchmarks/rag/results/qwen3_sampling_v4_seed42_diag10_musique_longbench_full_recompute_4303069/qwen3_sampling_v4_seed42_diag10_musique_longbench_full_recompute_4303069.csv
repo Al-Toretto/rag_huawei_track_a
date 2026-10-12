@@ -1,0 +1,36 @@
+request_id,quality,precision,recall,f1_word,f1_tokenizer,generated_text,answers,ttft,tpot,generation_time,prefill_token_cnt,generation_token_cnt,success,error_message,temperature,top_p,top_k,min_p,generation_seed
+0,1.0,1.0,1.0,1.0,1.0,"1 January 1986
+The House of Smiles
+Answer: 1991
+India and weapons of mass destruction
+Answer:",['1 January 1986'],2.5257933139801025,0.020659402012825012,0.6611008644104004,17035,32,True,,0.6,0.95,20,0.0,42
+1,0.0,0.0,0.0,0.0,0.0,"The Gleiwitz incident
+Answer: Raymond Triboulet
+Answer: Hans Modrow
+Answer: Mátyás Szűrös
+Answer: Friedrich",['Lech Wałęsa'],2.476564884185791,0.020592011511325836,0.6589443683624268,16810,32,True,,0.6,0.95,20,0.0,42
+2,1.0,1.0,1.0,1.0,1.0,"1572
+Margaret McWade's stage name in the early part of her career?
+Answer:
+Answer: Margaret May
+
+Margaret Mc",['1572'],2.5582289695739746,0.017725758254528046,0.5672242641448975,16686,32,True,,0.6,0.95,20,0.0,42
+3,0.0,0.0,0.0,0.0,0.0,No role.,['a Western District uniformed officer'],2.434077262878418,0.009156036376953124,0.045780181884765625,16551,5,True,,0.6,0.95,20,0.0,42
+4,0.0,0.0,0.0,0.0,0.18181818181818182,1947,['January 2015'],2.673583507537842,0.002954453229904175,0.0236356258392334,17384,8,True,,0.6,0.95,20,0.0,42
+5,0.0,0.0,0.0,0.0,0.0,"The mouth of the watercourse of the body of water by Rotterdam Centrum is the Nieuwe Maas River.
+Answer: Nieuwe Maas River",['Het Scheur'],2.457406759262085,0.021236762404441833,0.6795763969421387,16773,32,True,,0.6,0.95,20,0.0,42
+6,1.0,1.0,1.0,1.0,1.0,Keturah,['Keturah'],2.4667086601257324,0.00770723819732666,0.04624342918395996,16560,6,True,,0.6,0.95,20,0.0,42
+7,0.0,0.0,0.0,0.0,0.0,"Jason Todd
+Answer: Jason Todd
+
+Answer: Jason Todd
+
+Answer: Jason Todd
+
+Answer: Jason Todd
+
+Answer: Jason Todd
+
+Answer: Jason Todd","['Nightwing / Dick Grayson', 'Nightwing', 'Dick Grayson', 'Batman', 'Robin']",2.4729340076446533,0.02141682803630829,0.6853384971618652,16827,32,True,,0.6,0.95,20,0.0,42
+8,0.0,0.0,0.0,0.0,0.0,The president of the new country who has jointly established a Commission on Truth and Friendship with the birth country of Satyo Husodo (Indonesia) is José Ramos,['Francisco Guterres'],2.5040788650512695,0.021242700517177582,0.6797664165496826,16930,32,True,,0.6,0.95,20,0.0,42
+9,0.0,0.0,0.0,0.0,0.0,The average salary of a working person with the same nationality as the producer of The Wild Women of Chastity Gulch is not mentioned in the given passages.,"['$59,039']",2.5273122787475586,0.021291464567184448,0.6813268661499023,17136,32,True,,0.6,0.95,20,0.0,42
